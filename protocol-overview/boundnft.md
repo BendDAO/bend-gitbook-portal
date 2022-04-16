@@ -8,6 +8,8 @@ boundNFT is a mirror NFT that is bundled with the original NFT. boundNFT is desi
 * Same metadata
 * Same token ID
 * Non-transferable
+* Non-approveable
+
 
 [boundNFT Github](https://github.com/BoundNFT/)
 
@@ -19,5 +21,5 @@ The boundNFT token is pegged to the token of the corresponding NFT collateral at
 
 For example:
 
-* OpenSea Collection: [boundBAYC](https://opensea.io/collection/bound-nft-bayc), [boundPunks](https://opensea.io/collection/bound-nft-wpunks)
+* Looksrare Collection: [boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24), [boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e)
 * Twitter NFT Profile Pictures: [How to use boundBAYC as profile picture](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)
