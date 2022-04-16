@@ -6,25 +6,9 @@ BEND Airdrop will be the first move of the BEND Fair Launch.
 
 **500,000,000 BEND** (**5%** of the BEND total supply) will be allocated to the whole NFT community in terms of Airdrop.
 
-## The Utility of BEND Token
-
-BEND is the governance token of Bend DAO.
-
-### Voting
-
-Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
-
-Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
-
-### Staking
-
-100% of the protocol income will be distributed to veBEND holders who stake BEND.
-
-More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
-
 ## Airdrop Duration
 
-To avoid unnecessary GAS cost, eligible users can claim BEND during a window of **90 days starting from March 20st, from 2022-03-20 16:57:03 GMT+0000 to GMT 2022-06-18 16:57:03 GMT+0000**. All unclaimed BEND tokens will be reallocated to the DAO Treasury.
+To avoid the unnecessary GAS cost, eligible users can claim BEND during a window of **90 days starting from March 20th, from 2022-03-20 16:57:03 GMT+0 to GMT 2022-06-18 16:57:03 GMT+0**. All unclaimed BEND tokens will be reallocated to the DAO Treasury.
 
 ## Eligible Period
 
@@ -94,6 +78,26 @@ Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 
 ## No Conditions to Claim
 
 No extra conditions. We would like to invite all users to experience the Instant NFT-backed Loan on Bend testnet ([https://www.benddao.xyz/](https://www.benddao.xyz)).
+
+## The Utility of BEND Token
+
+BEND is the governance token of Bend DAO.
+
+### Voting
+
+Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+
+veBEND holders voted for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+
+Now BAYC, CryptoPunks, MACY, Azuki, Clone X, and Doodles are supported as colorectal on Bend.
+
+Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+
+### Staking
+
+100% of the protocol income will be distributed to veBEND holders who stake BEND.
+
+More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
 
 ## Bend Launch Schedule
 
