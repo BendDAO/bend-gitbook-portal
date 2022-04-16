@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing Bend](README.md)
+* [Introducing BendDAO](README.md)
 * [Discord](https://discord.gg/H8b6Ynjefx)
 * [Airdrop](airdrop.md)
 
@@ -19,7 +19,7 @@
 
 ## USER GUIDES
 
-* [BEND on Mobile](user-guides/bend-on-mobile.md)
+* [BendDAO on Mobile](user-guides/bend-on-mobile.md)
 * [Flashclaim](user-guides/flashclaim.md)
 
 ## Protocol overview
