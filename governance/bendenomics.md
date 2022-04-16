@@ -4,7 +4,7 @@ description: BEND Tokenomics
 
 # Bendenomics
 
-We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the goal of decentralized, fair, liquid, and scalable.&#x20;
+We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the goal of decentralized, fair, liquid, and scalable.
 
 The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality and the Bend token as a core securing element of the Bend Protocol.
 
@@ -26,24 +26,24 @@ The total initial supply of BEND is 10 billion (10,000,000,000). The token distr
 
 ![](<../.gitbook/assets/image (1).png>)
 
-| Group                                | Allocation  | Vesting Period                                                                                |
-| ------------------------------------ | ----------- | --------------------------------------------------------------------------------------------- |
-| Developer Team                       | 21 %        | 1-year locked and then linearly released in 3 years                                           |
-| Initial Fair-launch Offering         | 10%         | Offering in 90 days                                                                           |
-| Treasury Reserve                     | 21%         | Lockup in treasury, decided by the community                                                  |
-| Airdrop                              | 5%          | Airdrop in 90 days, 100% TGE                                                                  |
-| Uniswap LP Incentive (by Governance) | 3%          | Decided by the community                                                                      |
-| Lend/Borrow Incentive                | 40%         | Vested when mainnet online,  linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 |
+| Group                                | Allocation | Vesting Period                                                                               |
+| ------------------------------------ | ---------- | -------------------------------------------------------------------------------------------- |
+| Developer Team                       | 21 %       | 1-year locked and then linearly released in 3 years                                          |
+| Initial Fair-launch Offering         | 10%        | Offering in 90 days                                                                          |
+| Treasury Reserve                     | 21%        | Lockup in treasury, decided by the community                                                 |
+| Airdrop                              | 5%         | Airdrop in 90 days, 100% TGE                                                                 |
+| Uniswap LP Incentive (by Governance) | 3%         | Decided by the community                                                                     |
+| Lend/Borrow Incentive                | 40%        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 |
 
 A critical consideration is that the community of BEND holders collectively maintains the ability to safe the Bend Protocol. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
 
 ## The Utility of BEND and veBEND
 
-BEND is the governance token of Bend DAO. BEND holders can stake BEND to get vote-escrowed BEND (**veBEND**).&#x20;
+BEND is the governance token of Bend DAO. BEND holders can stake BEND to get vote-escrowed BEND (**veBEND**).
 
-### veBEND&#x20;
+### veBEND
 
-#### Voting&#x20;
+#### Voting
 
 BEND stakers (veBEND holders) can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
 
@@ -53,27 +53,27 @@ veBEND holders will be able to vote for 4 of 7 bluechip NFTs that will get initi
 
 BEND stakers (veBEND holders) share 100% of the protocol income. More details of [veBEND](vote-escrowed-bend-vebend.md).
 
-## Initial Fair-launch Offering&#x20;
+## Initial Fair-launch Offering
 
-### What the ETH raised will be used for?&#x20;
+### What the ETH raised will be used for?
 
 66% of the raised ETH will be used for the ETH lending pool on Bend, and 34% of the ETH will be used for the Bend dev operation.
 
-### **The rules are as follows:**&#x20;
+### **The rules are as follows:**
 
-* 1,000,000,000 (10%) BEND tokens will be allocated to the Initial Fair-Launch Offering;&#x20;
+* 1,000,000,000 (10%) BEND tokens will be allocated to the Initial Fair-Launch Offering;
 * Open for the public;
 * No ETH allocation limit for each participant;
 * 1 ETH = 333,333 BEND;
-* After the IFO, all unsold BEND will go towards DAO Treasury.&#x20;
-* Each participant can choose the lockup period during IFO. The lockup period is from 2 weeks to 4 years.&#x20;
+* After the IFO, all unsold BEND will go towards DAO Treasury.
+* Each participant can choose the lockup period during IFO. The lockup period is from 0 weeks to 4 years.
 * From the moment of lock-up, holders will share the protocol income.
 
 ### DAO Treasury (31% - 3,100,000,000)
 
 #### Initial Fair-launch Offering (10% - 1,000,000,000 )
 
-Initial Offering is our Fair Launch Strategy and aims to distribute the supply of BEND as fairly as possible.&#x20;
+Initial Offering is our Fair Launch Strategy and aims to distribute the supply of BEND as fairly as possible.
 
 #### Treasury Reserve (21% - 2,100,000,000)
 
