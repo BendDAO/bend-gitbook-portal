@@ -10,7 +10,7 @@ BEND Airdrop will be the first move of the BEND Fair Launch.
 
 To avoid the unnecessary GAS cost, eligible users can claim BEND during a window of **90 days starting from March 20th, from 2022-03-20 16:57:03 GMT+0 to GMT 2022-06-18 16:57:03 GMT+0**. All unclaimed BEND tokens will be reallocated to the DAO Treasury.
 
-## Eligible Period
+## Eligibility
 
 ### OpenSea
 
