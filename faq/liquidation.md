@@ -6,7 +6,7 @@ Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantl
 
 If the floor price drops to 44 ETH, the 48h liquidation protection will be triggered since the health factor of your NFT-backed loan is below 1.
 
-Health Factor = (50 \* 90%) / (40 + interests) <1&#x20;
+Health Factor = (44 \* 90%) / (40 + interests) <1&#x20;
 
 Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
 
