@@ -19,7 +19,7 @@
 
 ## USER GUIDES
 
-* [BendDAO on Mobile](user-guides/bend-on-mobile.md)
+* [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
 * [Flashclaim](user-guides/flashclaim.md)
 
 ## Protocol overview
