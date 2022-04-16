@@ -6,13 +6,6 @@ BEND Airdrop will be the first move of the BEND Fair Launch.
 
 **500,000,000 BEND** (**5%** of the BEND total supply) will be allocated to the whole NFT community in terms of Airdrop.
 
-You might be able to claim BEND, if you are
-
-* Holding one of these bluechip NFTs, including **Crypto Punks, Bored Ape YC, Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women and CyberKongz, or**
-* Active on **OpenSea**, or
-* Active on **NFTfi**, or
-* 500 random selected **testers** who try the Instant NFT-backed Loan on Bend Rinkeby.
-
 ## The Utility of BEND Token
 
 BEND is the governance token of Bend DAO.
