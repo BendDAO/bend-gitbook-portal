@@ -11,7 +11,7 @@ You might be able to claim BEND, if you are
 * Holding one of these bluechip NFTs, including **Crypto Punks, Bored Ape YC, Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women and CyberKongz, or**
 * Active on **OpenSea**, or
 * Active on **NFTfi**, or
-* A **tester** who try the Instant NFT-backed Loan on Bend Rinkeby.
+* 500 random selected **testers** who try the Instant NFT-backed Loan on Bend Rinkeby.
 
 ## The Utility of BEND Token
 
