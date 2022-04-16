@@ -1,4 +1,4 @@
-# Introducing Bend
+# Introducing BendDAO
 
 Bend is a decentralized peer-to-pool based NFT liquidity protocol. Depositors provide ETH liquidity to the lending pool to earn interest, while borrowers are able to borrow ETH through the lending pool using NFTs as collateral instantly.
 
