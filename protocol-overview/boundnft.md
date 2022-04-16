@@ -21,5 +21,5 @@ The boundNFT token is pegged to the token of the corresponding NFT collateral at
 
 For example:
 
-* Looksrare Collection: [boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24), [boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e)
+* Looksrare Collection: [boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24), [boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e), [boundMAYC](https://looksrare.org/collections/0x69f37e419bD1457d2a25ed3f5d418169caAe8D1F)
 * Twitter NFT Profile Pictures: [How to use boundBAYC as profile picture](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)
