@@ -1,5 +1,15 @@
 # Liquidation
 
+## An example of liquidation
+
+Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly in Bend DAO.
+
+If the floor price drops to 44 ETH, the 48h liquidation protection will be triggered since the health factor of your NFT-backed loan is below 1.
+
+Health Factor = (50 \* 90%) / (40 + interests) <1&#x20;
+
+Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
+
 ## What is the health factor?
 
 The health factor is the numeric representation of the safety of your deposited NFT against the borrowed ETH and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario.
@@ -16,7 +26,7 @@ Depending on the value fluctuation of your deposits, the health factor will incr
 
 ## **How does Bend calculate the value of the collateralized NFT?**
 
-NFT floor prices are currently used as the price feeds for the collateralized NFTs. **** The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend.
+NFT floor prices are currently used as the price feeds for the collateralized NFTs. \*\*\*\* The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend.
 
 ## **Any plan to upgrade the NFT price feeds design?**
 
@@ -52,7 +62,7 @@ Yes. Because the NFT-backed loan is still active during the 48-hour liquidation 
 
 We do not anticipate this happening frequently, if ever. However, in the case it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
 
-## What if the floor price drops, the auction bid can’t cover it?&#x20;
+## What if the floor price drops, the auction bid can’t cover it?
 
 It will not happen, since the bid must be 1) more than 95% of the floor price; 2) bigger than the total accumulated debt; 3) higher than the previous bid.
 
