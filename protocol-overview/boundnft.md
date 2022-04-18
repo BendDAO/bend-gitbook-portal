@@ -1,6 +1,6 @@
 # boundNFT
 
-boundNFT is a mirror NFT that is bundled with the original NFT. boundNFT is designed to provide the vault functionality with full security and the same digital self-expression. \*\*\*\* boundNFT has the same metadata and token ID as the original NFT you own which means that you can use boundNFT in your wallet for your social media PFP.
+boundNFT is a mirror NFT that is bundled with the original NFT. boundNFT is designed to provide the vault functionality with full security and the same digital self-expression. boundNFT has the same metadata and token ID as the original NFT you own which means that you can use boundNFT in your wallet for your social media PFP.
 
 #### Key features:
 
@@ -9,7 +9,6 @@ boundNFT is a mirror NFT that is bundled with the original NFT. boundNFT is desi
 * Same token ID
 * Non-transferable
 * Non-approveable
-
 
 [boundNFT Github](https://github.com/BoundNFT/)
 
