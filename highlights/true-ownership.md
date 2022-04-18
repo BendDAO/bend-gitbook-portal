@@ -15,9 +15,14 @@ boundNFT has the same metadata and token ID as the original NFT you own which me
 ### Utilities of boundNFT&#x20;
 
 * Certificate of deposit&#x20;
-* Same metadata as PFP for Twitter Blue&#x20;
+* Same metadata as PFP for [Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)&#x20;
 * Flash claim with boundNFT
 
 #### Flash claim - Use your lent NFT
 
 This feature will let you claim NFT rewards on other protocols while having your NFTs still in a collateral pool.
+
+{% hint style="info" %}
+[boundNFT Github](https://github.com/BoundNFT/)
+{% endhint %}
+
