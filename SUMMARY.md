@@ -19,6 +19,7 @@
 
 ## USER GUIDES
 
+* [Getting Started](user-guides/getting-started.md)
 * [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
 * [Flashclaim](user-guides/flashclaim.md)
 
