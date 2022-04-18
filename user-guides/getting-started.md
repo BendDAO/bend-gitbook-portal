@@ -4,6 +4,8 @@
 
 Bend DAO works on the Ethereum mainnet, to interact with the site you will need a Web3 wallet. If your cryptocurrency is stored on a centralized exchange (such as Coinbase, Binance, and FTX), it does not count as a Web3 wallet, and will not work.&#x20;
 
+[How to install MetaMask](benddao-on-mobile.md)
+
 ### Connect your Web3 wallet&#x20;
 
 You can easily find the “Connect wallet” button in the top right corner.&#x20;
