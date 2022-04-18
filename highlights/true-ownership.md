@@ -15,7 +15,7 @@ boundNFT has the same metadata and token ID as the original NFT you own which me
 ### Utilities of boundNFT&#x20;
 
 * As debt NFTs when minted and burned on borrow and repay;
-* To protect the NFT owners from hacking by non-transferable and non-approvable;
+* To protect the NFT owners from hacking by [non-transferable and non-approvable](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/protocol/BNFT.sol);
 * Same metadata as PFP for [Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft);
 * Get any of the airdrop, claimable & mintable assets by it;
 
