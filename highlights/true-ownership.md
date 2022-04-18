@@ -20,7 +20,7 @@ boundNFT has the same metadata and token ID as the original NFT you own which me
 
 #### Flash claim - Use your lent NFT
 
-This feature will let you claim NFT rewards on other protocols while having your NFTs still in a collateral pool.
+This feature will let borrowers claim NFT rewards on other protocols while their NFTs are still deposited in a collateral pool.
 
 {% hint style="info" %}
 [boundNFT Github](https://github.com/BoundNFT/)
