@@ -14,13 +14,14 @@ boundNFT has the same metadata and token ID as the original NFT you own which me
 
 ### Utilities of boundNFT&#x20;
 
-* Debt NFTs which are minted and burned on borrow and repay&#x20;
-* Same metadata as PFP for [Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)&#x20;
-* Flash claim with boundNFT
+* As debt NFTs when minted and burned on borrow and repay;
+* To protect the NFT owners from hacking by non-transferable and non-approvable;
+* Same metadata as PFP for [Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft);
+* Get any of the airdrop, claimable & mintable assets by it;
 
 #### [Flash claim - Use your lent NFT](../user-guides/flashclaim.md)
 
-This feature lets borrowers claim NFT rewards on other protocols while their NFTs are still deposited in a collateral pool.
+This feature lets boundNFT owers claim NFT rewards on other protocols while their NFTs are still used as collaterals or in the custody service.
 
 
 
