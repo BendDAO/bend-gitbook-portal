@@ -14,7 +14,7 @@ boundNFT has the same metadata and token ID as the original NFT you own which me
 
 ### Utilities of boundNFT&#x20;
 
-* Certificate of deposit&#x20;
+* Debt NFTs which are minted and burned on borrow and repay&#x20;
 * Same metadata as PFP for [Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)&#x20;
 * Flash claim with boundNFT
 
