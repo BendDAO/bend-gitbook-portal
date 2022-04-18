@@ -30,7 +30,8 @@ Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 
 
 ## **Tiers**
 
-### Bluechip NFTs
+### Bluechip NFTs 
+For Fairness of bluechips votes into the protocol, each of the collections get the same total bend airdrops.
 
 | NFT Collections    | BEND Tokens Each Wallet | Total BEND Each Collection |
 | ------------------ | ----------------------: | -------------------------: |
