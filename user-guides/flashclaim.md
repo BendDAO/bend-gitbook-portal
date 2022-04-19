@@ -14,7 +14,7 @@ For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop
 
 For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens, for fairness and safety.
 
-![](<../.gitbook/assets/Airdrop Distribution 04191820.jpg>)
+![](<../.gitbook/assets/Airdrop Distribution 04191825.jpg>)
 
 ## Using Flash Claim UI
 
