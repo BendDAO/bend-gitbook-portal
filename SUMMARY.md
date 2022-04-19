@@ -23,7 +23,7 @@
 * [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
 * [Deposit NFT (Borrower)](user-guides/deposit-nft-borrower.md)
 * [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
-* [Flashclaim](user-guides/flashclaim.md)
+* [Flash Claim](user-guides/flashclaim.md)
 
 ## Protocol overview
 
