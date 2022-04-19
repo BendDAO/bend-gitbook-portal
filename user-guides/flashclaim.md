@@ -10,11 +10,11 @@ Bend supports two types of airdrop projects, the first type is that the user act
 
 For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop.
 
-![Flash Claim](<../.gitbook/assets/Flash Claim 0419.jpg>)
+![](<../.gitbook/assets/Flash claim 04191810.jpg>)
 
 For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop.
 
-![Airdrop Distribution](<../.gitbook/assets/Airdrop Distribution 0419.jpg>)
+![](<../.gitbook/assets/Airdrop Distribution 04191810.jpg>)
 
 ## Using Flash Claim UI
 
