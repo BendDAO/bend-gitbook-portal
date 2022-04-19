@@ -1,6 +1,6 @@
 # Vote-escrowed BEND (veBEND)
 
-To earn the protocol income or vote on the Bend DAO, users need to stake their BEND.&#x20;
+To earn the protocol income or vote on the Bend DAO, users need to stake their [BEND](https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218) token to get [veBend](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E) token.&#x20;
 
 Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improves.
 
