@@ -6,7 +6,9 @@ For well-known airdrop projects, Bend will officially make adaptations. Users do
 
 For those airdrop projects that have not officially supported, if you think it is good project, please give feedback in the Discord community. Bend will try to give priority to support if there is sufficient manpower and time.
 
-![Flash Claim Flow](<../.gitbook/assets/Flashclaim 0418.jpg>)
+![Flash Claim](<../.gitbook/assets/Flash Claim 0419.jpg>)
+
+![Airdrop Distribution](<../.gitbook/assets/Airdrop Distribution 0419.jpg>)
 
 ## Using Flash Claim UI
 
