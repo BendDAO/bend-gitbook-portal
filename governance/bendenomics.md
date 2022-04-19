@@ -20,7 +20,7 @@ We would like to share our plans for the BEND governance token distribution. Ove
 
 ### The Big Picture
 
-The total initial supply of BEND is 10 billion (10,000,000,000). The token distribution breaks down as follows:
+The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218) is 10 billion (10,000,000,000). The token distribution breaks down as follows:
 
 ![BEND Token Allocation](<../.gitbook/assets/image (9).png>)
 
@@ -39,7 +39,7 @@ A critical consideration is that the community of BEND holders collectively main
 
 ## The Utility of BEND and veBEND
 
-BEND is the governance token of Bend DAO. BEND holders can stake BEND to get vote-escrowed BEND (**veBEND**).
+BEND is the governance token of Bend DAO. BEND holders can stake BEND to get vote-escrowed BEND ([**veBEND**](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E)).
 
 ### veBEND
 
