@@ -18,15 +18,17 @@ For the second type, Bend will do snapshot and airdrop distribution to support u
 
 ## Using Flash Claim UI
 
-Go to Dashboard and click Claim your airdrop.
+Step 1: Go to Dashboard and click Claim your airdrop.
 
-![](<../.gitbook/assets/Dashboard Flashclaim 02401330.jpg>)
+Step 2: Choose airdrop project and click Claim.
 
-Choose airdrop project and click Claim.
+Step 3: Your will get airdrop tokens in wallet after claim transaction is succeeded.
 
 ![](<../.gitbook/assets/Flashclaim Page 04201331.jpg>)
 
-Your will get airdrop tokens in wallet after claim transaction is succeeded.
+![](<../.gitbook/assets/Dashboard Flashclaim 02401330.jpg>)
+
+![](<../.gitbook/assets/Flashclaim Page 04201331.jpg>)
 
 ## Flash Claim Code Demo
 
