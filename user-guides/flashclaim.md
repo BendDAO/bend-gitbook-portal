@@ -8,11 +8,11 @@ For those airdrop projects that have not officially supported, if you think it i
 
 Bend supports two types of airdrop projects, the first type is that the user actively initiates the transaction to claim airdrop, the second is that the project party actively airdrops to the user.
 
-For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop.
+For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop, the code for airdrop flash loan is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropFlashLoanReceiver.sol), and contract address on [Etherscan](https://etherscan.io/address/0xa8Ae91Dd8CD8f410BA59626caef160925A033734).
 
 ![](<../.gitbook/assets/Flash claim 04191810.jpg>)
 
-For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens, for fairness and safety.
+For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens, for fairness and safety, the code for airdrop distribution is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol), and contract address on [Etherscan](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
 
 ![](<../.gitbook/assets/Airdrop Distribution 04191825.jpg>)
 
