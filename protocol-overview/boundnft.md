@@ -12,7 +12,7 @@ boundNFT is a mirror NFT that is bundled with the original NFT. boundNFT is desi
 
 [boundNFT Github](https://github.com/BoundNFT/)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/boundNFT poster 0401.png>)
 
 Bend protocol utilizes the boundNFT to realize the peer-to-pool based NFT-backed Loans. boundNFTs are ERC721 tokens that are minted and burned upon borrowing and repaying, representing the NFT used as collateral owed by the token holder, with same metadata and token ID.
 
