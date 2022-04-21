@@ -6,6 +6,7 @@
 
 ## FAQ
 
+* [Flash Claim FAQ](faq/flash-claim-faq.md)
 * [Initial Fair-launch Offering (IFO)](faq/initial-fair-launch-offering-ifo.md)
 * [Liquidation](faq/liquidation.md)
 * [Tokenomics](faq/tokenomics.md)
