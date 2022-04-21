@@ -18,11 +18,11 @@ A: Bend DAO follows the airdrop rules set by the project. Both specific and rand
 
 ## Q: If it’s a random airdrop, how does Bend DAO distribute airdrops?&#x20;
 
-A: The distribution process on Bend is also random. For fairness and safety, Bend random algorithm which is based on Chainlink VRF infrastructure (https://vrf.chain.link/mainnet) to distribute tokens.&#x20;
+A: The distribution process on Bend is also random. For fairness and safety, Bend random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens.&#x20;
 
-The code for airdrop distribution is on[ ](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol)Github: https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol
+The code for airdrop distribution is on[ ](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol)Github: [AirdropDistribution.sol](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol).&#x20;
 
-The contract address on[ ](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD)Etherscan: https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD
+The contract address on[ ](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD)Etherscan: [0x6D187449A5664DD87E58A9d3b982989AaeA469BD](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
 
 ## Q: What if I miss the claim period?&#x20;
 
