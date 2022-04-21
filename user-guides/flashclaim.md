@@ -12,7 +12,9 @@ For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop
 
 ![](<../.gitbook/assets/Flash claim 04191810.jpg>)
 
-For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens, for fairness and safety, the code for airdrop distribution is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol), and contract address on [Etherscan](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
+For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, for fairness and safety, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens.
+
+The [Chainlink VRF subscription id](https://vrf.chain.link/mainnet/81) is 81, the code for airdrop distribution is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol), and contract address on [Etherscan](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
 
 ![](<../.gitbook/assets/Airdrop Distribution 04191825.jpg>)
 
