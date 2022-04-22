@@ -62,17 +62,17 @@ Yes. Because the NFT-backed loan is still active during the 48-hour liquidation 
 
 We do not anticipate this happening frequently, if ever. However, in the case it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
 
-## What if the floor price drops, the auction bid can’t cover it?
+## What if the floor price drops and the auction bid can’t cover it?
 
 It will not happen, since the bid must be 1) more than 95% of the floor price; 2) bigger than the total accumulated debt; 3) higher than the previous bid.
 
 If no liquidator shows up, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
 
-## What will happen if floor price drop to 0?
+## What will happen if the floor price drops to 0?
 
 Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
 
-Bend will only lists high quality bluechip NFTs that have been recognized by the market, and they have at least experienced multiple cycles of ups and downs.
+Bend will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
 
-Bend is continuously monitoring the market indicators of bluechip NFTs, and timely adjusts risk parameters through community governance, such as collateral ratio and delisting NFTs.
+Bend is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
 
