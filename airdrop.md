@@ -79,7 +79,7 @@ For Fairness of bluechips votes into the protocol, each of the collections get t
 
 ## No Conditions to Claim
 
-No extra conditions. We would like to invite all users to experience the Instant NFT-backed Loan on Bend testnet ([https://www.benddao.xyz/](https://www.benddao.xyz)).
+No extra conditions.&#x20;
 
 ## The Utility of BEND Token
 
