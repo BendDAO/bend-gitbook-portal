@@ -30,7 +30,8 @@ Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 
 
 ## **Tiers**
 
-### Bluechip NFTs 
+### Bluechip NFTs
+
 For Fairness of bluechips votes into the protocol, each of the collections get the same total bend airdrops.
 
 | NFT Collections    | BEND Tokens Each Wallet | Total BEND Each Collection |
@@ -84,19 +85,17 @@ No extra conditions. We would like to invite all users to experience the Instant
 
 BEND is the governance token of Bend DAO.
 
-### Voting
+BEND holders can stake BEND to get vote-escrowed BEND (veBEND).
 
-Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+**veBEND** has two main uses: **Voting** and **Earning**.
 
-veBEND holders voted for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+### **Voting**
 
-Now BAYC, CryptoPunks, MACY, Azuki, Clone X, and Doodles are supported as colorectal on Bend.
+Holders of veBEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
 
-Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+### **Earning**
 
-### Staking
-
-100% of the protocol income will be distributed to veBEND holders who stake BEND.
+* BEND stakers share 100% of the protocol income.
 
 More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
 
