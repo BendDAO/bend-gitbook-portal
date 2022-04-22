@@ -48,7 +48,7 @@ During the 48-hour liquidation protection period, an NFT auction will be activat
 
 ## **What's the liquidation threshold on Bend?**
 
-If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 80% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
 
 ## **Will my loan be liquidated if the price of Ether drops?**
 
