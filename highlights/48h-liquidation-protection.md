@@ -13,13 +13,13 @@ NFT holders don’t want to hand over the ownership of their NFTs. That's why th
 During the auction (48h liquidation protection period), for the NFT holder's safety, the borrower (user with the collateralized NFT) will still be able to repay the loan within the 48-hour window starting from the beginning of the auction.
 
 {% hint style="warning" %}
-For safety and fairness, borrowers must to repay some loan debts as well as pay a penalty (1% of bid price in default) to the liquidator, even after NFT floor prices recover to the normal price.
+For safety and fairness, borrowers must repay some loan debts as well as pay a penalty (1% of the bid price in default) to the liquidator, even after NFT floor prices recover to the normal price.
 {% endhint %}
 
-#### Bidder&#x20;
+#### Bidder
 
 Under the Bend Auction mechanism, any bidder can obtain ownership of an NFT as long as the bid is higher than the floor price. This way, all NFTs will be given a price discovery mechanism, making transactions transparent.
 
-Bend’s Protocol is dependent on the 'health' of loans within the system, also known as the 'health factor' which is related to debt, floor pricings and liquidation thresholds.
+Bend’s Protocol is dependent on the 'health' of loans within the system, also known as the 'health factor' which is related to debt, floor pricings, and liquidation thresholds.
 
-In order to avoid losses caused by the market fluctuations, an NFT auction will be activated when the health factor is below 1. Anyone can partake in auctions but for NFT holder’s safety, there will be a 48-hour auction window where they'll be able to repay loans. Once the auction begins, bidders will be able to bid as long as the bid is higher than the previous price placed.
+In order to avoid losses caused by the market fluctuations, an NFT auction will be activated when the health factor is below 1. Anyone can partake in auctions but for NFT holders’ safety, there will be a 48-hour auction window where they'll be able to repay loans. Once the auction begins, bidders will be able to bid as long as the bid is higher than the previous price placed.

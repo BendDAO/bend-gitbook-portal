@@ -32,7 +32,7 @@ Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 
 
 ### Bluechip NFTs
 
-For Fairness of bluechips votes into the protocol, each of the collections gets the same total bend airdrops.
+For Fairness of bluechips votes into the protocol, each of the collections get the same total bend airdrops.
 
 | NFT Collections    | BEND Tokens Each Wallet | Total BEND Each Collection |
 | ------------------ | ----------------------: | -------------------------: |
@@ -87,7 +87,7 @@ BEND is the governance token of Bend DAO.
 
 BEND holders can stake BEND to get vote-escrowed BEND (veBEND).
 
-**veBEND** has two main uses: [**Voting**](https://snapshot.org/#/benddao.eth) and **Earning**.
+**veBEND** has two main uses: **Voting** and **Earning**.
 
 ### **Voting**
 
@@ -102,19 +102,20 @@ More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
 ## Bend Launch Schedule
 
 * [IFO (F for Fair Launch)](highlights/fair-launch.md)
+* Multi-sig Election
+
+Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
+
 * Bluechip NFT Community Voting
 
-NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price support and long-term community development.
+NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price supports and long-term community development.
 
-**CryptoPunks** and **Bored Ape YC** are the recognized blue chips that are supported as collaterals when Bend officially launches. **Mutant Ape YC**, **Azuki**, **Clone X**, and **Doodles** are selected by Bend DAO members who [stake BEND](governance/vote-escrowed-bend-vebend.md).&#x20;
+CryptoPunks and Bored Ape YC are the recognized blue chips which are supported as collaterals when Bend officially launches. There will be 4 more NFTs selected as the first batch of NFT collaterals with governance. Those are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
 
-Community Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+After BEND’s fair launch, BEND holders can deposit BEND to get veBEND which stands for [vote-escrowed BEND](governance/vote-escrowed-bend-vebend.md).
 
 ![](.gitbook/assets/BendVoting.png)
 
 * Bend official mainnet launch
-*   Multi-sig Election
-
-    Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
 
 More details of the BEND[ Fair Launch](highlights/fair-launch.md).

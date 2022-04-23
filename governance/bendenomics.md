@@ -4,9 +4,9 @@ description: BEND Tokenomics
 
 # Bendenomics
 
-We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the goal of decentralized, fair, liquid, and scalable.
+We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the goal of being decentralized, fair, liquid, and scalable.
 
-The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality and the Bend token as a core securing element of the Bend Protocol.
+The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality, and the Bend token as a core securing element of the Bend Protocol.
 
 {% hint style="info" %}
 BEND Token Distribution and Initial FairLaunch Offering are still in active discussions, any updates will be communicated to the community in a timely manner, and suggestions from early participants are eagerly welcome.
@@ -67,7 +67,6 @@ BEND stakers (veBEND holders) share 100% of the protocol income. More details of
 * 1 ETH = 333,333 BEND;
 * After the IFO, all unsold BEND will go towards DAO Treasury.
 * Each participant can choose the lockup period during IFO. The lockup period is from 0 weeks to 4 years.
-* From the moment of lock-up, holders will share the protocol income.
 
 ### DAO Treasury (31% - 3,100,000,000)
 
@@ -97,7 +96,7 @@ To encourage lenders and borrowers providing liquidity to lend pool, 40% of all 
 
 ### Developer Team (21% - 2,100,000,000)
 
-Developer Team tokens are retained for founders and original early contributors to Bend. The Bend Protocol was conceived in Q3 2021 and work began in Q4 2021. Although, the Mainnet is just now being launched, the contributions of founders and early members that have been working on Bend was crucial to improving the protocol continually. The team will continue to work on Bend for its lifetime along with the greater community. To that end, 21% of all BEND tokens are locked across a number of years.
+Developer Team tokens are retained for founders and original early contributors to Bend. The Bend Protocol was conceived in Q3 2021 and work began in Q4 2021. Although the Mainnet is just now being launched, the contributions of founders and early members that have been working on Bend was crucial to improving the protocol continually. The team will continue to work on Bend for its lifetime along with the greater community. To that end, 21% of all BEND tokens are locked across a number of years.
 
 * 7% of BEND tokens locked for 12 months, then to be released linearly in seconds over a year.
 * 7% of BEND tokens locked for 24 months, then to be released linearly in seconds over a year.

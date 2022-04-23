@@ -4,7 +4,7 @@ To earn the protocol income or vote on the Bend DAO, users need to stake their [
 
 Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improves.
 
-Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women and CyberKongz.
+Community voting for 4 of 7 bluechip NFTs: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
 Participating in BEND DAO governance requires that an account have a balance of vote-escrowed BEND (veBEND). veBEND is a non-standard ERC20 implementation, used within the Snapshot to determine each account’s voting power.
 

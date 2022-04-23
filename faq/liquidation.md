@@ -22,7 +22,7 @@ You can find all of the collateral parameters in the [risk parameters](../risk/n
 
 ## What happens when my health factor is reduced?
 
-Depending on the value fluctuation of your deposits, the health factor will increase or decrease. If your health factor increases, it will improve your borrow position by making the liquidation threshold more unlikely to be reached. In the case that the value of your collateralised assets against the borrowed assets decreases instead, the health factor is also reduced, causing the risk of liquidation to increase.
+Depending on the value fluctuation of your deposits, the health factor will increase or decrease. If your health factor increases, it will improve your borrow position by making the liquidation threshold more unlikely to be reached. In the case that the value of your collateralized assets against the borrowed assets decreases instead, the health factor is also reduced, causing the risk of liquidation to increase.
 
 ## **How does Bend calculate the value of the collateralized NFT?**
 
@@ -32,7 +32,7 @@ NFT floor prices are currently used as the price feeds for the collateralized NF
 
 Since there is no sophisticated NFT price feed solution in the market now, using floor prices may be the safest choice. Bend will consider involving a new NFT Oracle when a better option arises.
 
-## **Why does the market liquidation crisis NOT happen on Bend?**
+## **Why does the market liquidation crisis NOT happen in Bend?**
 
 48h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
 
@@ -40,7 +40,7 @@ More details of [48h Liquidation Protection](../highlights/48h-liquidation-prote
 
 ## **What will happen if liquidation occurs?**
 
-A 48-hour liquidation protection mechanism is triggered by smart contract when liquidation occurs. The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.\
+A 48-hour liquidation protection mechanism is triggered by a smart contract when liquidation occurs. The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.\
 \
 A Discord bot will be set up to update the loan status for borrowers.\
 \
@@ -60,7 +60,7 @@ Yes. Because the NFT-backed loan is still active during the 48-hour liquidation 
 
 ## **What if no liquidator shows up?**
 
-We do not anticipate this happening frequently, if ever. However, in the case it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
+We do not anticipate this happening frequently, if ever. However, in the case, it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
 
 ## What if the floor price drops and the auction bid can’t cover it?
 

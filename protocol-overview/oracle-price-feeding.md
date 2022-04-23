@@ -6,13 +6,13 @@ Bend oracle design and running mechanism:
 
 1. The off-chain node obtains the raw floor price of NFTs from OpenSea trading markets;
 2. Filter the raw floor price data, such as unreasonable deviation from the average price in the recent period;
-3. Use the time-weighted average price algorithm (TWAP) to weight the floor price, ensuring price is reasonable;
-4. Compare the difference between the price on the chain and the latest floor price to determine whether the floor price needs to be upload on the chain;
+3. Use the time-weighted average price algorithm (TWAP) to weight the floor price, ensuring the price is reasonable;
+4. Compare the difference between the price on the chain and the latest floor price to determine whether the floor price needs to be uploaded on the chain;
 5. Call the contract interface to upload the floor price to the on-chain contract;
 
 ![Oracle Mechanism](<../.gitbook/assets/Bend NFT Oralce 0320.jpg>)
 
-For security and reliability, we will run multiple nodes to ensure that valid price data can be upload  to on-chian oracle contract in a timely manner at all times.
+For security and reliability, we will run multiple nodes to ensure that valid price data can be upload to on-chian oracle contract in a timely manner at all times.
 
 Bend devs are working with Chainlink team to complete the NFT oracle price feeding.
 

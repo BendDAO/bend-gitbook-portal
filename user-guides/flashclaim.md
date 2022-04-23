@@ -34,4 +34,4 @@ Step 3: Your will get airdrop tokens in wallet after claim transaction is succee
 
 ## Flash Claim Code Demo
 
-For advance users, you can write contract to implement claim, please check demo at [Github](https://github.com/BendDAO/bend-flashclaim-demo).
+For advanced users, you can write a contract to implement claim, please check the demo at [Github](https://github.com/BendDAO/bend-flashclaim-demo).

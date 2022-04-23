@@ -37,8 +37,6 @@ Your BEND will automatically be staked if you join the IFO. You will receive veB
 
 Holders of veBEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
 
-Before the mainnet launch, veBEND holders will vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
-
 **Earning**
 
 100% of the protocol income will be distributed to veBEND holders who stake BEND.
@@ -59,7 +57,7 @@ A: NO
 
 Vote-escrowed BEND. veBEND is the staked BEND. You can check your veBEND balance once you add the veBEND token address to your wallet.
 
-veBEND is short for vote-escrowed BEND Token that is the token you receive when staking BEND. And the longer you stake BEND, the more veBEND you get.
+veBEND is short for vote-escrowed BEND Token which is the token you receive when staking BEND. And the longer you stake BEND, the more veBEND you get.
 
 ## Q: How many veBEND tokens will I receive then?
 

@@ -1,6 +1,6 @@
 # Auction
 
-The NFT auction design ensure Bend remains both decentralized and sustainable. It is likely the best method to find real price of NFT assets.
+The NFT auction design ensures Bend remains both decentralized and sustainable. It is likely the best method to find the real price of NFT assets.
 
 ## The Design of NFT Auction
 
@@ -8,19 +8,19 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 
 * An open-outcry ascending dynamic auction system
 * The system opens the auction with a starting price. The starting price will be 1) more than 95% of the floor price; and 2) bigger than the total accumulated debt.
-* If the borrowers repay the loan in 48 hours, he/she will pay penalty fine (1% bid price) to the latest bidder.
+* If the borrowers repay the loan in 48 hours, he/she will pay a penalty fine (1% bid price) to the latest bidder.
 
 ### Bidder
 
 * Anyone can take part in an auction.
 * The bid must be 1) no less than the starting price; and 2) higher than the previous bid.
-* Bidder need to deposit ETH to bid.
-* Bidder can withdraw the deposited ETH when his/her bid is not the highest bid.
+* The bidder needs to deposit ETH to bid.
+* The bidder can withdraw the deposited ETH when his/her bid is not the highest bid.
 
 ### Borrower
 
 * The borrower will have a [48-hour liquidation protection](../highlights/48h-liquidation-protection.md) period to repay the loan.
-* If borrower repay within 48 hours, he/she will pay a penalty fine (1% bid price) to the latest bidder.
+* If the borrower repays within 48 hours, he/she will pay a penalty fine (1% bid price) to the latest bidder.
 * If the collateral is sold in auction for greater than the loan amount, the excess will belong to the borrower.
 
 {% hint style="info" %}
