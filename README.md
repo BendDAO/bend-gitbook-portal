@@ -1,6 +1,6 @@
 # Introducing BendDAO
 
-BendDAO is the first decentralised peer-to-pool based NFT liquidity protocol. Depositors provide ETH liquidity to the lending pool to earn interest, while borrowers are able to borrow ETH through the lending pool using NFTs as collateral instantly.
+BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. Depositors provide ETH liquidity to the lending pool to earn interest, while borrowers are able to borrow ETH through the lending pool using NFTs as collateral instantly.
 
 Bend protocol enables NFT assets to be pooled and converted into representing ERC721 boundNFTs to realize NFT loans.
 
@@ -11,8 +11,8 @@ Bend protocol enables NFT assets to be pooled and converted into representing ER
 Details are listed as follows:
 
 * Initiate an instant NFT loan contract to borrow ETH from the pool
-* Maintain NFT collateral ratio by repay ETH anytime
-* Get back the NFT when pay off the NFT loan
+* Maintain NFT collateral ratio by repaying ETH anytime
+* Get back the NFT when paying off the NFT loan
 
 ## Deposit ETH to Earn Yields
 
@@ -25,7 +25,7 @@ Details are listed as follows:
 
 #### A 48-hour liquidation protection period
 
-In order to avoid losses caused by the market fluctuations, borrower will have a 48-hour liquidation protection period to repay the loan.
+In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan.
 
 #### Same airdrop right for borrowers
 
@@ -35,7 +35,7 @@ Furthermore, borrowers can claim NFT rewards on other protocols while having NFT
 
 #### Never be stolen
 
-NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same **digital self-expression** which can be used on Web2 social media platforms that support NFT avatar.
+NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same **digital self-expression** which can be used on Web2 social media platforms that support the NFT avatar.
 
 ## From the ETH lender's point of view
 
