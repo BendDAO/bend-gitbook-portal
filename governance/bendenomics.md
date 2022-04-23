@@ -9,7 +9,7 @@ We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the
 The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality and the Bend token as a core securing element of the Bend Protocol.
 
 {% hint style="info" %}
-BEND Token Distribution and Initial FairLuach Offering are still in active discussions, any updates will be communicated to the community in a timely manner, and suggestions from early participants are eagerly welcome.
+BEND Token Distribution and Initial FairLaunch Offering are still in active discussions, any updates will be communicated to the community in a timely manner, and suggestions from early participants are eagerly welcome.
 {% endhint %}
 
 ## BEND Token Distribution
