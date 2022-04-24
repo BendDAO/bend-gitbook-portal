@@ -2,6 +2,8 @@
 description: Never get liquidated if you repay within 48 hours
 ---
 
+You can check this for an example of liquidation: https://github.com/BendDAO/bend-gitbook-portal/blob/main/faq/liquidation.md#an-example-of-liquidation
+
 # 48h Liquidation Protection
 
 #### **Never get liquidated if you repay within 48 hours**
