@@ -1,4 +1,4 @@
-# Liquidation
+# Liquidation FAQ
 
 ## An example of liquidation
 
@@ -60,7 +60,7 @@ Yes. Because the NFT-backed loan is still active during the 48-hour liquidation 
 
 ## **What if no liquidator shows up?**
 
-We do not anticipate this happening frequently, if ever. However, in the case, it theoretically would, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
+We do not anticipate this happening frequently. However, it theoretically would happen, for the safety of the protocol, For collateral NFTs that can be liquidated without repayment for a long time, the community votes to determine whether to use the treasury to participate in the liquidation. Security is always the first priority with Bend.
 
 ## What if the floor price drops and the auction bid can’t cover it?
 
