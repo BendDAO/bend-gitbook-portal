@@ -60,7 +60,7 @@ Yes. Because the NFT-backed loan is still active during the 48-hour liquidation 
 
 ## **What if no liquidator shows up?**
 
-We do not anticipate this happening frequently. However, it theoretically would happen, for the safety of the protocol, For collateral NFTs that can be liquidated without repayment for a long time, the community votes to determine whether to use the treasury to participate in the liquidation. Security is always the first priority with Bend.
+We believe that this will not happen. The liquidation mechanism is designed with a comprehensive incentive mechanism, such as discount purchase of NFT, redeeming fines, etc., and the liquidator participating in the auction can get a generous arbitrage.
 
 ## What if the floor price drops and the auction bid can’t cover it?
 
