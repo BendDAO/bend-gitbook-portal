@@ -106,11 +106,12 @@ So in the first year, the team will not sell any tokens to the market and can on
 
 ## Wallet Addresses
 
-| Name                         | Address                                                                                                               |
-| ---------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Developer Team               | [0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3](https://etherscan.io/address/0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3) |
-| Initial Fair-Launch Offering | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
-| Treasury Reserve             | [0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B](https://etherscan.io/address/0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B) |
-| Airdrop                      | [0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27](https://etherscan.io/address/0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27) |
-| Community Incentive          | [0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8](https://etherscan.io/address/0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8) |
-| veBEND Locker                | [0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E) |
+| Name                                           | Address                                                                                                               |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Developer Team                                 | [0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3](https://etherscan.io/address/0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3) |
+| ~~Initial Fair-Launch Offering v1 (Obsolete)~~ | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
+| Initial Fair-Launch Offering v2 (Sold Out)     | [0xA1756D785F4abD4ec06dB71c65f18D25083CbF88](https://etherscan.io/address/0xA1756D785F4abD4ec06dB71c65f18D25083CbF88) |
+| Treasury Reserve                               | [0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B](https://etherscan.io/address/0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B) |
+| Airdrop                                        | [0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27](https://etherscan.io/address/0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27) |
+| Community Incentive                            | [0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8](https://etherscan.io/address/0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8) |
+| veBEND Locker                                  | [0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E) |
