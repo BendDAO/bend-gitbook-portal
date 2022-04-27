@@ -1,4 +1,4 @@
-# Uniswap v2 LP Liquidity Mining
+# Uniswap v2 LP Liquidity Farming
 
 ## Provide liquidity on Uniswap v2&#x20;
 
@@ -9,7 +9,7 @@
 
 ## Deposit LP token on Bend DAO
 
-1. Visit [https://www.benddao.xyz/app/liquidityfarming](https://www.benddao.xyz/app/liquidityfarming)
+1. Visit [https://www.benddao.xyz/app/liquidityfarming](https://www.benddao.xyz/app/liquidityfarming) (will go live soon)
 2. Deposit the Uniswap v2 LP tokens
 
 ![](<../.gitbook/assets/image (1).png>)
