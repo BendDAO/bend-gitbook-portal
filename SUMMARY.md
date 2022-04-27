@@ -25,6 +25,7 @@
 * [Deposit NFT (Borrower)](user-guides/deposit-nft-borrower.md)
 * [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
 * [Flash Claim](user-guides/flashclaim.md)
+* [Uniswap v2 LP Liquidity Mining](user-guides/uniswap-v2-lp-liquidity-mining.md)
 
 ## Protocol overview
 
