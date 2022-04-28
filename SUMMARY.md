@@ -62,6 +62,7 @@
 ## DEVELOPERS
 
 * [Developers](https://docs.benddao.xyz/developers/)
+* [Bug Bounty](developers/bug-bounty.md)
 
 ## Resources
 
