@@ -33,4 +33,12 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 | Medium       | USD 2,000           | USD 2,000                 |
 | Low          | USD 1,000           | USD 1,000                 |
 
-****
+## Rewards Distribution Record
+
+| Bug Submission Date | Threat Level                       | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status                        |
+| ------------------- | ---------------------------------- | ------------- | --------------- | -------------- | ----------------------------- |
+| April 4th, 2022     | <p>Website </p><p>High</p>         | 10,000        | 0.01846752      | 541,491        | Distributed                   |
+| April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Waiting for white hat's reply |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
+| April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed                   |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
