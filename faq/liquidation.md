@@ -64,7 +64,7 @@ We believe that this will not happen. The liquidation mechanism is designed with
 
 It will not happen, since the bid must be 1) more than 95% of the floor price; 2) bigger than the total accumulated debt; 3) higher than the previous bid.
 
-If no liquidator shows up, for the safety of the protocol, the Bend DAO will participate in the NFT auction if no third-party liquidator is interested in the collateralized bluechip NFT. Security is always the first priority with Bend.
+
 
 ## What will happen if the floor price drops to 0?
 
