@@ -22,6 +22,12 @@ Payouts are denominated in USD, but done in BEND.&#x20;
 
 The BEND price in USD is calculated by **averaging prices** over a specified period of time. This period is from the **bug submission** to the **bounty distribution**.
 
+Calculation formula:
+
+Day Average Price = (Day High Price + Day Low Price) / 2;
+
+Time Weight Average Price = Sum(Day Average Price) / Period;
+
 ### Rewards by Threat Level
 
 The breakdown of the rewards is in accordance with ImmuneFi’s distribution criteria for the impact of the vulnerability, see here for [more details](https://immunefi.com/bounty/benddao/).&#x20;
@@ -41,4 +47,4 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 | April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Waiting for white hat's reply |
 | April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
 | April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed                   |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.0458915       | 43,581         | Distributed                   |
