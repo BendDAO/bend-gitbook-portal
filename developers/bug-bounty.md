@@ -47,4 +47,4 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 | April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Waiting for white hat's reply |
 | April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
 | April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed                   |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.03721         | 53,7490        | Distributed                   |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.0458915       | 43,581         | Distributed                   |
