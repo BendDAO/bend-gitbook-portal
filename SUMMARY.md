@@ -52,6 +52,7 @@
 * [NFT Risk](risk/nft-risk.md)
 * [- NFT Risk Parameters](risk/nft-risk-parameters.md)
 * [- Adding an NFT](risk/adding-an-nft.md)
+* [- Bluechip NFT Eligibility Requirements](risk/bluechip-nft-eligibility-requirements.md)
 * [Reserve Risk](risk/reserve-risk.md)
 * [- Reserve Risk Parameters](risk/reserve-risk-parameters.md)
 * [- Adding a Reserve](risk/adding-a-reserve.md)
