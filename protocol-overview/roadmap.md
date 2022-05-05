@@ -26,7 +26,7 @@ The work of each season is gathered and presented on its dedicated section, repr
 
 * DAO Governance Improvement Proposals
 * Ecosystem Building Proposals
-* Bound NFT Trading Platform: The safest NFT trading platform that NFTs will never be stolen.
+* Bluechip NFT Trading Platform: The safest NFT trading platform that NFTs will never be stolen.
 
 ## 2022 Q3
 
