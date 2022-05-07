@@ -1,4 +1,8 @@
-# - NFT Risk Parameters
+# NFT Risk Parameters
+
+The DeFi ecosystem is built by DeFi projects. The risk assessment considers market and smart contract risks for the NFTs selected for Bend protocol.
+
+The risk framework aims to analyse the inherent risks of the NFT assets in the Bend Protocol and describes the processes in place to mitigate them.
 
 With Bend, NFT holders will now be able to actively participate in the DeFi ecosystem. However, it also exposes the protocol to financial contagion. NFT collateral used in the protocol affects the protocol at its core, in particular NFT projects accepted as collateral which safeguard the solvency of the protocol. To ensure a currency holds a reasonable amount of risk, we investigate five different parameters.
 
