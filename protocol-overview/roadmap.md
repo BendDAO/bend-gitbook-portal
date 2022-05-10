@@ -20,7 +20,7 @@ The work of each season is gathered and presented on its dedicated section, repr
 * Security Audit
 * Mainnet Launch
 * DAO Governance & Voting
-* More NFTs Online Proposals
+* More Bluechip NFTs Online Proposals
 
 ## 2022 Q2
 
@@ -32,7 +32,7 @@ The work of each season is gathered and presented on its dedicated section, repr
 ## 2022 Q3
 
 * P2P NFT Lending Proposals
-*
+* More Bluechip NFTs Online Proposals
 
 ## 2022 Q4
 
