@@ -14,7 +14,7 @@ Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
 
 The health factor is the numeric representation of the safety of your deposited NFT against the borrowed ETH and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario.
 
-If the health factor reaches 1, the liquidation of your deposits will be triggered. A Health Factor below 1 can get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%.
+If the health factor reaches 1, the liquidation of your deposits can be triggered. A Health Factor below 1 may get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%.
 
 The health factor depends on the liquidation threshold of your collateral against the value of your borrowed funds.
 
@@ -26,7 +26,7 @@ Depending on the value fluctuation of your deposits, the health factor will incr
 
 ## **How does Bend calculate the value of the collateralized NFT?**
 
-NFT floor prices are currently used as the price feeds for the collateralized NFTs. \*\*\*\* The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend.
+NFT floor prices are currently used as the price feeds for the collateralized NFTs. The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend. More details: [https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
 
 ## **Any plan to upgrade the NFT price feeds design?**
 
@@ -40,11 +40,9 @@ More details of [48h Liquidation Protection](../highlights/48h-liquidation-prote
 
 ## **What will happen if liquidation occurs?**
 
-A 48-hour liquidation protection mechanism is triggered by a smart contract when liquidation occurs. The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.\
-\
-A Discord bot will be set up to update the loan status for borrowers.\
-\
-During the 48-hour liquidation protection period, an NFT auction will be activated.
+When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../protocol-overview/auction.md) **** and the 48h liquidation protection**.**&#x20;
+
+The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.
 
 ## **What's the liquidation threshold on Bend?**
 
@@ -70,7 +68,7 @@ It will not happen, since the bid must be 1) more than 95% of the floor price; 2
 
 Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
 
-Bend will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
+BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
 
-Bend is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
+BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
 
