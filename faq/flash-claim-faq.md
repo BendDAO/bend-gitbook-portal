@@ -10,7 +10,7 @@ A: Airdrops can be claimed if you’re holding related boundNFTs. All borrowers 
 
 ## Q: What kind of airdrop will be supported?&#x20;
 
-A: Flash Claim supports 2 kinds of airdrops. 1) The project airdrops to holders’ addresses directly; 2) The airdrops need to be claimed by holders. More details: https://docs.benddao.xyz/portal/user-guides/flashclaim
+A: Flash Claim supports 2 kinds of airdrops. 1) The project airdrops to holders’ addresses directly including contract addresses; 2) The airdrops need to be claimed by holders (no restriction of contract addresses). More details: [https://docs.benddao.xyz/portal/user-guides/flashclaim](https://docs.benddao.xyz/portal/user-guides/flashclaim)
 
 ## Q: If the project airdrops to holders’ addresses directly, how can Bend know which airdropped token belongs to which borrower?&#x20;
 
