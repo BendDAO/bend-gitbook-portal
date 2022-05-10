@@ -24,4 +24,5 @@ The table below shows a summary of the latest values.
 | Azuki          | AZUKI       | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
 | CLONE X        | CLONEX      | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
 | Doodles        | DOODLE      | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
+| Space Doodles  | SDOODLE     | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
 
