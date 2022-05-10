@@ -32,9 +32,7 @@ The work of each season is gathered and presented on its dedicated section, repr
 ## 2022 Q3
 
 * P2P NFT Lending Proposals
-* P2P NFT Rent Proposals
-* Pool NFT Rent Proposals
-* NFT Cross Chain Proposals
+*
 
 ## 2022 Q4
 
