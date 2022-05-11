@@ -54,7 +54,7 @@
 * [Bluechip NFT Eligibility Requirements](risk/bluechip-nft-eligibility-requirements.md)
 * [Reserve Risk Parameters](risk/reserve-risk-parameters.md)
 * [Adding a Reserve Asset](risk/adding-a-reserve.md)
-* [Interest Rate Model](risk/interest-rate-model.md)
+* [Liquidity Risk](risk/interest-rate-model.md)
 * [Security and Audits](risk/security-and-audits.md)
 
 ## DEVELOPERS
