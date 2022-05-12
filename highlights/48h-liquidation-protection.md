@@ -2,23 +2,25 @@
 description: Never get liquidated if you repay within 48 hours
 ---
 
-You can check this for an example of liquidation: https://github.com/BendDAO/bend-gitbook-portal/blob/main/faq/liquidation.md#an-example-of-liquidation
-
 # 48h Liquidation Protection
 
-#### **Never get liquidated if you repay within 48 hours**
+You can check this for an example of liquidation: https://github.com/BendDAO/bend-gitbook-portal/blob/main/faq/liquidation.md#an-example-of-liquidation
+
+## 48h Liquidation Protection
+
+**Never get liquidated if you repay within 48 hours**
 
 NFT holders don’t want to hand over the ownership of their NFTs. That's why they look for other liquidity solutions instead of selling NFTs. In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan. Your NFT-backed loan will never get liquidated if you repay within the 48-hour liquidation protection period.
 
-#### Borrower (Collateralized NFT)
+**Borrower (Collateralized NFT)**
 
 During the auction (48h liquidation protection period), for the NFT holder's safety, the borrower (user with the collateralized NFT) will still be able to repay the loan within the 48-hour window starting from the beginning of the auction.
 
 {% hint style="warning" %}
-For safety and fairness, borrowers must repay some loan debts as well as pay a penalty (1% of the bid price in default) to the liquidator, even after NFT floor prices recover to the normal price.
+For safety and fairness, borrowers must repay some loan debts as well as pay a penalty (1% of the debt in default) to the liquidator, even after NFT floor prices recover to the normal price.
 {% endhint %}
 
-#### Bidder
+**Bidder**
 
 Under the Bend Auction mechanism, any bidder can obtain ownership of an NFT as long as the bid is higher than the floor price. This way, all NFTs will be given a price discovery mechanism, making transactions transparent.
 
