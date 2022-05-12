@@ -54,7 +54,7 @@ All NFTs are denominated in Ether instead of USDT on Bend. The price of Ether an
 
 ## **Does the borrower need to keep paying interest while the 48-hour liquidation protection mechanism is active?**
 
-Yes. Because the NFT-backed loan is still active during the 48-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty (1% of the debt in default) to the liquidator, even after NFT floor prices recover to the normal price.
+Yes. Because the NFT-backed loan is still active during the 48-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty (1% of the bid price in default) to the liquidator, even after NFT floor prices recover to the normal price.
 
 We believe that this will not happen. The liquidation mechanism is designed with a comprehensive incentive mechanism, such as discount purchase of NFT, redeeming fines, etc., and the liquidator participating in the auction can get a generous arbitrage.
 

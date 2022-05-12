@@ -41,11 +41,12 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 
 ## Rewards Distribution Record
 
-| Bug Submission Date | Threat Level                       | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status                        |
-| ------------------- | ---------------------------------- | ------------- | --------------- | -------------- | ----------------------------- |
-| April 4th, 2022     | <p>Website </p><p>High</p>         | 10,000        | 0.01846752      | 541,491        | Distributed                   |
-| April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Waiting for white hat's reply |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed                   |
-| April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed                   |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.03721         | 53,7490        | Distributed                   |
-| May 8ht, 2022       | <p>Website</p><p>Low</p>           | 1,000         | 0.04071         | 24564          | Distributed                   |
+| Bug Submission Date | Threat Level                       | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status      |
+| ------------------- | ---------------------------------- | ------------- | --------------- | -------------- | ----------- |
+| April 4th, 2022     | <p>Website </p><p>High</p>         | 10,000        | 0.01846752      | 541,491        | Distributed |
+| April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Distributed |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed |
+| April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed |
+| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.03721         | 53,7490        | Distributed |
+| May 8ht, 2022       | <p>Website</p><p>Low</p>           | 1,000         | 0.04071         | 24564          | Distributed |
+| May 12nd, 2022      | Smart contract High                | 10,000        | 0.02538         | 394011         | Distributed |
