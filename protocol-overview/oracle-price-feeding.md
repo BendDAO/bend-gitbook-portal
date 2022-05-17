@@ -1,6 +1,6 @@
 # Oracle Price Feeding
 
-Bend protocol uses NFT floor price from [opensea](http://opensea.io) and [loosrare](https://looksrare.org/) as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuate from [opensea](http://opensea.io) and [loosrare](https://looksrare.org/) marketplace.
+Bend protocol uses NFT floor price from [OpenSea](http://opensea.io) and [LooksRare](https://looksrare.org/) as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuate from [OpenSea](http://opensea.io) and [LooksRare](https://looksrare.org/) marketplace.
 
 Bend oracle design and running mechanism:
 
