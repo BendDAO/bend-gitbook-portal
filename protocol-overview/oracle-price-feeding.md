@@ -11,11 +11,13 @@ Bend oracle design and running mechanism:
 5. Call the contract interface to upload the floor price to the on-chain contract and calculate the time-weighted average price (TWAP) on-chain to weight the floor price, ensuring the price is reasonable;
 6. The twap algorithm is open sourced on the on-chain contract, and everyone can verify the validity of the data;
 
-{% hint style="info" %} For cryptopunks ,we get floor price from [CryptoPunksMarket](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code) contract!{% endhint %}
+{% hint style="info" %}
+For CryptoPunks, we get floor price from [CryptoPunksMarket](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code) contract directly!
+{% endhint %}
 
 ![Oracle Mechanism](<../.gitbook/assets/Bend NFT Oracle 0517.png>)
 
-For security and reliability, we will run multiple nodes to ensure that valid price data can be upload to on-chian oracle contract in a timely manner at all times and the  on-chain contract limits the frequency of price feed and the difference between two price feed cannot exceed a threshold.
+For security and reliability, we will run multiple nodes to ensure that valid price data can be upload to on-chian oracle contract in a timely manner at all times and the on-chain contract limits the frequency of price feed and the difference between two price feed cannot exceed a threshold.
 
 Bend devs are working with Chainlink team to complete the NFT oracle price feeding.
 
