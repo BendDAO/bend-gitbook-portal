@@ -17,7 +17,7 @@ NFT holders don’t want to hand over the ownership of their NFTs. That's why th
 During the auction (48h liquidation protection period), for the NFT holder's safety, the borrower (user with the collateralized NFT) will still be able to repay the loan within the 48-hour window starting from the beginning of the auction.
 
 {% hint style="warning" %}
-For safety and fairness, borrowers must repay some loan debts as well as pay a penalty (5% of the debt or 0.2 ETH in default) to the liquidator, even after NFT floor prices recover to the normal price.
+For safety and fairness, borrowers must repay some loan debts as well as pay a penalty (5% of the debt in default) to the liquidator, even after NFT floor prices recover to the normal price.
 {% endhint %}
 
 **Bidder**
