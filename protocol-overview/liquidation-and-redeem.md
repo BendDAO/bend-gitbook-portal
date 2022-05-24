@@ -4,7 +4,7 @@ The Bend Protocol utilizes a scored 'health factor' for loans. The formula is ou
 
 When the 'health factor' of an NFT loan is below 1, anyone can trigger a liquidation in terms of an [**NFT Auction**](auction.md). The liquidator is called Bidder on Bend. The bidder will pay back all of the debt and receive the collateralized NFT in return.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 Please read the[ auction](auction.md) for liquidation details.
 
