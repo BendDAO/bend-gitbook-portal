@@ -8,7 +8,8 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 
 * An open-outcry ascending dynamic auction system
 * The system opens the auction with a starting price. The starting price will be 1) more than 95% of the floor price; and 2) bigger than the total accumulated debt.
-* If the borrowers repay the loan in 48 hours, he/she will pay a fine (5% of the debt) to the latest bidder.
+* If the borrowers repay the loan in 48 hours, he/she will pay a fine to the first bidder.
+* The fine will take the larger of 5% debt or 0.2 ETH. Fine = max (5% of the debt, 0.2 ETH)
 
 ### Bidder
 
@@ -20,7 +21,7 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 ### Borrower
 
 * The borrower will have a [48-hour liquidation protection](../highlights/48h-liquidation-protection.md) period to repay the loan.
-* If the borrower repays within 48 hours, he/she will pay a fine (5% of debt) to the latest bidder.
+* If the borrower repays within 48 hours, he/she will pay a fine (5% of the debt or 0.2 ETH) to the first bidder.
 * If the collateral is sold in auction for greater than the loan amount, the excess will belong to the borrower.
 
 {% hint style="info" %}
