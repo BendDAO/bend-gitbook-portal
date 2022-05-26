@@ -12,7 +12,7 @@ Below are the links to all audit reports for Bend.
 | Certik            | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao) |
 
 {% hint style="info" %}
-Regarding the Unresolved Major issues found in the Certik report:
+Regarding the Unresolved Major issues in the Certik report:
 
 1. For the risk of centralization, BendDAO has deployed Timelock Controller and Multi-Signature Wallet, please read the details [here.](security-and-audits.md#timelock-controller)
 2. For the NFT Oracle, BendDAO has adopted various solutions such as backup nodes, time weighting, and threshold checking, please read the details [here](../protocol-overview/oracle-price-feeding.md).
