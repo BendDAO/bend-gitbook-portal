@@ -2,9 +2,9 @@
 
 ## Audits
 
-Bend has been implemented with security as the top priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
+BendDAO has been implemented with security as the top priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
 
-Below are the links to all audit reports for Bend.
+Below are the links to all audit reports for BendDAO.
 
 | Auditor           | Date       | Report                                                                               |
 | ----------------- | ---------- | ------------------------------------------------------------------------------------ |
@@ -28,7 +28,7 @@ BendDAO has set the owner of all bound NFT protocol contracts to 7 days time loc
 
 | Name              | Duration | Address                                                                                                               |
 | ----------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| Bend Timelock     | 24 Hours | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
+| BendDAO Timelock  | 24 Hours | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
 | BoundNFT Timelock | 7 Days   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
 
 ## Multi-signature Wallet
