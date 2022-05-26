@@ -2,7 +2,7 @@
 
 ## Audits
 
-BendDAO has been implemented with security as the top priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
+BendDAO protocol has been implemented with security as the top priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
 
 Below are the links to all audit reports for BendDAO.
 
@@ -14,7 +14,7 @@ Below are the links to all audit reports for BendDAO.
 {% hint style="info" %}
 Regarding the Unresolved Major issues in the Certik report:
 
-1. For the risk of centralization, BendDAO has deployed Timelock Controller and Multi-Signature Wallet, please read the details [here.](security-and-audits.md#timelock-controller)
+1. For the risk of centralization, BendDAO has deployed **Timelock Controller** and **Multi-Signature Wallet**, please read the details [here.](security-and-audits.md#timelock-controller)
 2. For the NFT Oracle, BendDAO has adopted various solutions such as backup nodes, time weighting, and threshold checking, please read the details [here](../protocol-overview/oracle-price-feeding.md).
 {% endhint %}
 
