@@ -2,14 +2,14 @@
 
 ## Audits
 
-Bend has been implemented with security as priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
+Bend has been implemented with security as the top priority. The system has been designed to be safe and secure, and we have spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
 
 Below are the links to all audit reports for Bend.
 
-| Auditor | Date       | Report                                                                               |
-| ------- | ---------- | ------------------------------------------------------------------------------------ |
-| Certik  | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao) |
-|         |            |                                                                                      |
+| Auditor           | Date       | Report                                                                               |
+| ----------------- | ---------- | ------------------------------------------------------------------------------------ |
+| Verilog Solutions | 2022-05-26 | [https://hackmd.io/@verilog/benddao-audit](https://hackmd.io/@verilog/benddao-audit) |
+| Certik            | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao) |
 
 ## Timelock Controller
 
@@ -17,18 +17,18 @@ BendDAO has set the owner of all bend lending protocol contracts to 24 hours tim
 
 BendDAO has set the owner of all bound NFT protocol contracts to 7 days time lock controller address.
 
-![](<../.gitbook/assets/Bend Timelock Layer 0403.png>)
+![](<../.gitbook/assets/Bend MultiSig Wallet & TimeLock 0526.png>)
 
-| Name                | Duration | Address                                                                                                               |
-| ------------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| Bend Timelock 1     | 24 Hours | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
-| BoundNFT Timelock 1 | 7 Days   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
+| Name              | Duration | Address                                                                                                               |
+| ----------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
+| Bend Timelock     | 24 Hours | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
+| BoundNFT Timelock | 7 Days   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
 
 ## Multi-signature Addresses
 
 BendDAO has using multiple Gnosis Safe Multi-signature wallet in contract upgrading and treasury fund.
 
-BenDAO will transfer Multi-signature wallet to community after Multi-signature election, .
+BenDAO will transfer the Multi-signature wallet to the community after the Multi-signature election.
 
 | Wallet Name             | Wallet Type | Address                                                                                                               |
 | ----------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- |
