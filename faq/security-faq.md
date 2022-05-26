@@ -4,9 +4,9 @@
 
 A: BendDAO team has spent all the necessary resources in order to ensure that the protocol matches the highest security standards.
 
-* Before BendDAO mainnet launch, Certik issued an audit report for BendDAO. https://www.certik.com/projects/bend-dao&#x20;
-* Up to $1m BendDAO Bug Bounty https://immunefi.com/bounty/benddao/&#x20;
-* The second audit report by Verilog is in process.&#x20;
+* The second audit report by Verilog [https://hackmd.io/@verilog/benddao-audit](https://hackmd.io/@verilog/benddao-audit)&#x20;
+* Before BendDAO mainnet launch, Certik issued an audit report for BendDAO. [https://www.certik.com/projects/bend-dao ](https://www.certik.com/projects/bend-dao)
+* Up to $1m BendDAO Bug Bounty [https://immunefi.com/bounty/benddao/](https://immunefi.com/bounty/benddao/)&#x20;
 * All boundNFT Protocol Contracts with 7 days timelocks
 * All BendDAO Lending Protocol Contracts with 24 hours timelocks
 
