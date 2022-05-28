@@ -72,3 +72,6 @@ BendDAO will only list high-quality bluechip NFTs that have been recognized by t
 
 BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
 
+## Any royalty for the auction?
+
+No. There is no royalty for the auction on BendDAO.
