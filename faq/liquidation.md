@@ -60,9 +60,15 @@ We believe that this will not happen. The liquidation mechanism is designed with
 
 ## What if the floor price drops and the auction bid can’t cover it?
 
-It will not happen, since the bid must be 1) more than 95% of the floor price; 2) bigger than the total accumulated debt; 3) higher than the previous bid.
+It will not happen, since the bid must be:
 
+1. more than 95% of the floor price.
+2. bigger than the total accumulated debt.
+3. higher than the previous bid.
 
+## What will happen if the floor price drops and there is no liquidator involved in the auction?
+
+In this case, the platform only has a temporary floating loss and no actual losses. Either the borrower will repay the debt at some point in the future, or after the market price recovers, some liquidators emerge to take part in auctioning off the debt.
 
 ## What will happen if the floor price drops to 0?
 
