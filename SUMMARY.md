@@ -8,9 +8,9 @@
 
 * [Security FAQ](faq/security-faq.md)
 * [Flash Claim FAQ](faq/flash-claim-faq.md)
-* [Initial Fair-launch Offering (IFO)](faq/initial-fair-launch-offering-ifo.md)
 * [Liquidation FAQ](faq/liquidation.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
+* [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 
 ## Highlights
 
