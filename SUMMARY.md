@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introducing BendDAO](README.md)
-* [Discord](https://discord.gg/H8b6Ynjefx)
+* [Discord](https://discord.gg/benddao)
 * [Airdrop](airdrop.md)
 
 ## FAQ
