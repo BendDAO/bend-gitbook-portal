@@ -15,8 +15,10 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 
 * Anyone can take part in an auction.
 * The bid must be:1) no less than the starting price; and 2) higher than the previous bid.
+* The first bidder will receive at least 0.2 ETH paid by the borrower as the penalty if the borrower repays within 48 hours.&#x20;
+* The highest bidder will get the collateral if the borrower doesn't repay the loan.
 * The bidder needs to deposit ETH to bid.
-* The bidder can withdraw the deposited ETH when his/her bid is not the highest bid.
+* The deposited ETH will automatically be refunded when his/her bid is not the highest bid.
 
 ### Borrower
 
