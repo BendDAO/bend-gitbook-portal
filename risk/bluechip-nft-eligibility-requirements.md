@@ -1,22 +1,24 @@
 # Bluechip NFT Eligibility Requirements
 
-Before Bend DAO adds a new NFT as collateral, the NFT collection must pass the community voting and meet the following eligibility requirements.&#x20;
+Before BendDAO adds a new NFT as collateral, the NFT collection must pass the community voting and meet the following eligibility requirements.&#x20;
 
-1. The floor price is over X ETH;&#x20;
-2. The market cap is bigger than Floor Price \* 10,000;&#x20;
-3. The number of items is bigger than 5,000;&#x20;
-4. The number of owners is bigger than 1,000;&#x20;
-5. The all-time Trading Volume on OpenSea is more than Y ETH;&#x20;
-6. The collection has been deployed for more than Z days.
 
-| NFT Collections | Floor Price | All-time Trading Volume on OpenSea | Deployed   |
-| --------------- | ----------- | ---------------------------------- | ---------- |
-| BAYC            | 138.5 ETH   | 506K ETH                           | 300+days   |
-| CryptoPunks     | 60 ETH      | 894K ETH                           | 1000+ days |
-| MAYC            | 38.45 ETH   | 336K ETH                           | 180+ days  |
-| Azuki           | 24.5 ETH    | 187K ETH                           | 90+ days   |
-| Clone X         | 16.95 ETH   | 178K ETH                           | 90+ days   |
-| Doodles         | 14.9 ETH    | 106K ETH                           | 180+ days  |
-| ====            | ====        | ====                               | ====       |
 
-Community voting record: [https://snapshot.org/#/benddao.eth/proposal/0xa37df7973c8c776dc7002513a66910828b6cef41c179adec1558f5dd90ab7d44](https://snapshot.org/#/benddao.eth/proposal/0xa37df7973c8c776dc7002513a66910828b6cef41c179adec1558f5dd90ab7d44)
+The following are the suggested eligibility requirements.
+
+1. The floor price and the 30-day average floor price are over **10 ETH**;
+2. The market cap is bigger than Floor Price \* 10,000;
+3. The number of items is bigger than 5,000;
+4. The circulation of NFTs is more than 50% of the total items;
+5. The number of owners is bigger than 1,000;
+6. The all-time Trading Volume on OpenSea is more than **50K ETH** (related collections Space Doodles);
+7. The collection has been deployed for more than **30 days**;
+8. Random NFT minting when reveal.
+
+**Amendments to existing requirements**
+
+1. For an official wrapped collection, its metrics can be referred to the original collection.\
+   For example, Space Doodles collection is supported as collateral, but the trading volume doesn’t meet 50K ETH. Since Space Doodles are wrapped Doodles which is considered part of Doodles as well.\
+   Snapshot: [https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824](https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824).
+
+Community voting record: [https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d](https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d)
