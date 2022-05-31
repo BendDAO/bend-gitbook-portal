@@ -14,9 +14,9 @@ The definition for Health Factor: (Floor Price \* Liquidation Threshold) / Debt 
 
 The risk level of the health factor:
 
-* 0.0 < HF < 1.0: <mark style="color:red;background-color:red;">Dangerous</mark>, borrower maybe lose their collateral if he/she can not repay timely.
+* 0.0 < HF < 1.0: <mark style="color:red;background-color:red;">Dangerous</mark>, borrower maybe lose collateral if the debt is not repaid timely.
 * 1.0 <= HF <= 1.5: <mark style="color:orange;background-color:red;">Risky</mark>, borrower should repay partly the debt timely.
-* 1.5 < HF < 2.0: <mark style="color:yellow;background-color:yellow;">Careful</mark>, borrower should pay attention and monitor their debt timely.
+* 1.5 < HF < 2.0: <mark style="color:yellow;background-color:yellow;">Careful</mark>, borrower should pay attention and monitor the debt timely.
 * 2.0 <= HF: <mark style="color:green;background-color:green;">Safe</mark>, borrower no need to worry and keep the debt last.
 
 Liquidation will be triggered if the NFT loan's health factor is below 1.
