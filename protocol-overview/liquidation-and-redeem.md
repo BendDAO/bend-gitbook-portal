@@ -8,13 +8,16 @@ When the 'health factor' of an NFT loan is below 1, anyone can trigger a liquida
 
 Please read the[ auction](auction.md) for liquidation details.
 
-## Health Factor
+## Meaning of Health Factor
 
 The definition for Health Factor: (Floor Price \* Liquidation Threshold) / Debt with Interests.
 
 The risk level of the health factor:
 
-![Health Factor Risk Level](<../.gitbook/assets/HF Color 0213.jpg>)
+* 0.0 < HF < 1.0: <mark style="color:red;background-color:red;">Dangerous</mark>, borrower maybe lose their collateral if he/she can not repay timely.
+* 1.0 <= HF <= 1.5: <mark style="color:orange;background-color:red;">Risky</mark>, borrower should repay partly the debt timely.
+* 1.5 < HF < 2.0: <mark style="color:yellow;background-color:yellow;">Careful</mark>, borrower should pay attention and monitor their debt timely.
+* 2.0 <= HF: <mark style="color:green;background-color:green;">Safe</mark>, borrower no need to worry and keep the debt last.
 
 Liquidation will be triggered if the NFT loan's health factor is below 1.
 

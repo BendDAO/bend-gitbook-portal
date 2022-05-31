@@ -46,7 +46,7 @@ The borrower (user with the collateralized NFT) will be able to repay the loan w
 
 ## **What's the liquidation threshold on Bend?**
 
-If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+The liquidation threshold is the maximum loan to value (LTV) which means debt plus interest to collateral value. If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
 
 ## **Will my loan be liquidated if the price of Ether drops?**
 
@@ -64,7 +64,7 @@ It will not happen, since the bid must be:
 
 1. more than 95% of the floor price.
 2. bigger than the total accumulated debt.
-3. higher than the previous bid.
+3. higher than the previous bid plus 1% debt.
 
 ## What will happen if the floor price drops and there is no liquidator involved in the auction?
 
@@ -78,7 +78,7 @@ The establishment of market consensus for blue-chip NFTs requires a long period 
 
 BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
 
-BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjusts risk parameters through community governance, such as collateral ratio and delisting NFTs.
+BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
 
 ## Any royalty for the auction?
 
