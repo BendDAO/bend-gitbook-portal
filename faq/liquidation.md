@@ -83,3 +83,8 @@ BendDAO is continuously monitoring the market indicators of bluechip NFTs, and t
 ## Any royalty for the auction?
 
 No. There is no royalty for the auction on BendDAO.
+
+## If I'm the highest bidder, how can I get the NFT?
+
+There will be a "Liquidate" button on the auction page for the highest bidder after the auction. The liquidated NFT will be transferred to your wallet after you click the button.
+
