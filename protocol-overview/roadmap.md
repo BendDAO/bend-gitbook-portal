@@ -36,5 +36,6 @@ The work of each season is gathered and presented on its dedicated section, repr
 
 ## 2022 Q4
 
+* NFT Renting Proposals
 * Permissionless Pool Proposals
 * Universal Web3 Data Liquidity
