@@ -8,26 +8,26 @@ The work of each season is gathered and presented on its dedicated section, repr
 
 ## 2021 Q4
 
-* Conception Creation
-* Team Construction
-* Product Prototype
-* Testnet Launch
+* Conception Creation✅
+* Team Construction✅
+* Product Prototype✅
+* Testnet Launch✅
 
 ## 2022 Q1
 
-* Airdrop
-* Fair Launch IFO
-* Security Audit
-* Mainnet Launch
-* DAO Governance & Voting
-* More Bluechip NFTs Online Proposals
+* BEND Token Airdrop✅
+* Fair Launch IFO✅
+* Security Audit✅
+* Mainnet Launch✅
+* DAO Governance & Voting✅
+* More Bluechip NFTs Online Proposals✅
 
 ## 2022 Q2
 
-* DAO Governance Improvement Proposals
-* Ecosystem Building Proposals
-* Down Payment Buy NFT Proposals
-* Bluechip NFT Trading Platform: The safest NFT trading platform that NFTs will never be stolen.
+* DAO Governance Improvement Proposals✅
+* Ecosystem Building Proposals✅
+* Down Payment Buy NFT Proposals🛠️
+* Bluechip NFT Leverage Trading Platform🛠️
 
 ## 2022 Q3
 
