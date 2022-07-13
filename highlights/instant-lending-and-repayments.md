@@ -6,11 +6,11 @@ description: Borrow and repay ETH anytime
 
 ## Borrow and repay ETH anytime
 
-**Instant NFT-collateralized loans** bring instant liquidity for blue-chip NFT holders. NFT holders can borrow and repay ETH anytime.&#x20;
+**Instant NFT-collateralized loans** bring instant liquidity for blue-chip NFT holders. NFT holders can borrow and repay ETH anytime.
 
-No matching time.&#x20;
+No matching time.
 
-A trustless liquidity solution for NFT holders. Deposit your NFT as collateral for you to be able to borrow Ethereum. Deposited NFTs will be put into an NFT pool and converted into [boundNFTs](../protocol-overview/boundnft.md).
+A trustless liquidity solution for NFT holders. Deposit your NFT as collateral for you to be able to borrow Ethereum. Deposited NFTs will be put into an NFT pool and converted into [boundNFTs](../lending-protocol/boundnft.md).
 
 ## Which NFTs can be used as collaterals?
 
@@ -18,9 +18,9 @@ A trustless liquidity solution for NFT holders. Deposit your NFT as collateral f
 
 MAYC, Azuki, CloneX and Doodles are selected by BEND stakers. Details of the Community Voting: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-## NFT Price Discovery&#x20;
+## NFT Price Discovery
 
-**NFT floor prices** are calculated using a complicated algorithm. The original price data comes from a well-known NFT marketplace which is OpenSea.&#x20;
+**NFT floor prices** are calculated using a complicated algorithm. The original price data comes from a well-known NFT marketplace which is OpenSea.
 
 * The Bend team currently maintains the NFT price oracle.
 * In the future, Bend governance mechanisms will manage the selection of sources.

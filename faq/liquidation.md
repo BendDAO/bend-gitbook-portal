@@ -2,9 +2,9 @@
 
 ## An example of liquidation
 
-Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly in Bend DAO.
+Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly on BendDAO.
 
-If the floor price drops to 44 ETH, the 48h liquidation protection will be triggered since the health factor of your NFT-backed loan is below 1.
+If the floor price drops to 44 ETH, the 48h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
 
 Health Factor = (44 \* 90%) / (40 + interests) <1&#x20;
 
@@ -40,7 +40,7 @@ More details of [48h Liquidation Protection](../highlights/48h-liquidation-prote
 
 ## **What will happen if liquidation occurs?**
 
-When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../protocol-overview/auction.md) **** and the 48h liquidation protection**.**&#x20;
+When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) **** and the 48h liquidation protection**.**&#x20;
 
 The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.
 
@@ -87,4 +87,8 @@ No. There is no royalty for the auction on BendDAO.
 ## If I'm the highest bidder, how can I get the NFT?
 
 There will be a "Liquidate" button on the auction page for the highest bidder after the auction. The liquidated NFT will be transferred to your wallet after you click the button.
+
+## If I use batch borrow, how many loans will be created?
+
+One NFT one loan. Each loan has its own health factor.
 

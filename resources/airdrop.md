@@ -97,24 +97,24 @@ Holders of veBEND can participate in voting on which NFT as collateral that Bend
 
 * BEND stakers share 100% of the protocol income.
 
-More details of [veBEND](governance/vote-escrowed-bend-vebend.md).
+More details of [veBEND](../governance/vote-escrowed-bend-vebend.md).
 
 ## Bend Launch Schedule
 
-* [IFO (F for Fair Launch)](highlights/fair-launch.md)
+* [IFO (F for Fair Launch)](../highlights/fair-launch.md)
 * Bluechip NFT Community Voting
 
 NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price support and long-term community development.
 
-**CryptoPunks** and **Bored Ape YC** are the recognized blue chips that are supported as collaterals when Bend officially launches. **Mutant Ape YC**, **Azuki**, **Clone X**, and **Doodles** are selected by Bend DAO members who [stake BEND](governance/vote-escrowed-bend-vebend.md).&#x20;
+**CryptoPunks** and **Bored Ape YC** are the recognized blue chips that are supported as collaterals when Bend officially launches. **Mutant Ape YC**, **Azuki**, **Clone X**, and **Doodles** are selected by Bend DAO members who [stake BEND](../governance/vote-escrowed-bend-vebend.md).&#x20;
 
 Community Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-![](.gitbook/assets/BendVoting.png)
+![](../.gitbook/assets/BendVoting.png)
 
 * Bend official mainnet launch
 *   Multi-sig Election
 
     Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
 
-More details of the BEND[ Fair Launch](highlights/fair-launch.md).
+More details of the BEND[ Fair Launch](../highlights/fair-launch.md).
