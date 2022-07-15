@@ -45,10 +45,8 @@
 ## Marketplace
 
 * [NFT Down Payment (Buyer)](marketplace/nft-down-payment-buyer.md)
-* [Full Price Buying NFTs](marketplace/full-price-buying-nfts.md)
 * [Equity Cash-out Listing (Seller)](marketplace/equity-cash-out-listing-seller.md)
-* [Selling NFTs](marketplace/selling-nfts.md)
-* [Collection Management](marketplace/collection-management.md)
+* [Royalties on secondary sales (Creator)](marketplace/royalties-on-secondary-sales-creator.md)
 
 ## Governance
 
