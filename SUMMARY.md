@@ -2,22 +2,18 @@
 
 * [Introducing BendDAO](README.md)
 * [Discord](https://discord.gg/benddao)
-* [Roadmap](roadmap.md)
+* [Airdrop](airdrop.md)
 
 ## FAQ
 
 * [Security FAQ](faq/security-faq.md)
-* [Marketplace FAQ](faq/marketplace-faq.md)
-* [Down Payment FAQ](faq/down-payment-faq.md)
-* [Equity Cash-out Listing FAQ](faq/equity-cash-out-listing-faq.md)
 * [Flash Claim FAQ](faq/flash-claim-faq.md)
 * [Liquidation FAQ](faq/liquidation.md)
-* [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
+* [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 
 ## Highlights
 
-* [Leveraged NFT Trading](highlights/leveraged-nft-trading.md)
 * [Instant Lending and Repayments](highlights/instant-lending-and-repayments.md)
 * [48h Liquidation Protection](highlights/48h-liquidation-protection.md)
 * [True Ownership](highlights/true-ownership.md)
@@ -32,21 +28,16 @@
 * [Flash Claim](user-guides/flashclaim.md)
 * [Uniswap v2 LP Liquidity Mining](user-guides/uniswap-v2-lp-liquidity-mining.md)
 
-## Lending Protocol
+## Protocol overview
 
-* [bendETH](lending-protocol/bendeth.md)
-* [boundNFT](lending-protocol/boundnft.md)
-* [Interest Model](lending-protocol/interest-model.md)
-* [bendETH Valuation](lending-protocol/bendeth-valuation.md)
-* [Oracle Price Feeding](lending-protocol/oracle-price-feeding.md)
-* [Liquidation and Redeem](lending-protocol/liquidation-and-redeem.md)
-* [Auction](lending-protocol/auction.md)
-
-## Marketplace
-
-* [NFT Down Payment (Buyer)](marketplace/nft-down-payment-buyer.md)
-* [Equity Cash-out Listing (Seller)](marketplace/equity-cash-out-listing-seller.md)
-* [Royalties on secondary sales (Creator)](marketplace/royalties-on-secondary-sales-creator.md)
+* [bendETH](protocol-overview/bendeth.md)
+* [boundNFT](protocol-overview/boundnft.md)
+* [Interest Model](protocol-overview/interest-model.md)
+* [bendETH Valuation](protocol-overview/bendeth-valuation.md)
+* [Oracle Price Feeding](protocol-overview/oracle-price-feeding.md)
+* [Liquidation and Redeem](protocol-overview/liquidation-and-redeem.md)
+* [Auction](protocol-overview/auction.md)
+* [Roadmap](protocol-overview/roadmap.md)
 
 ## Governance
 
@@ -75,6 +66,5 @@
 ## Resources
 
 * [Github](https://github.com/BendDAO)
-* [Airdrop](resources/airdrop.md)
 * [Social Media](resources/social-media.md)
 * [TERMS OF SERVICE](resources/terms-of-service.md)
