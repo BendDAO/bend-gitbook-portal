@@ -1,6 +1,6 @@
 # Introducing BendDAO
 
-BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **leveraged NFT  trading**, and **NFT down payment.** The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for uses, a one-stop NFT liquidity solution.
+BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **leveraged NFT trading**, and **NFT down payment.** The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for users, a one-stop NFT liquidity solution.
 
 ## Best Liquidity
 
