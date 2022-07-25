@@ -31,7 +31,7 @@ All the funds obtained through the Initial Fair-launch Offering will be used for
 
 ## Release Schedule
 
-### [Airdrop](../airdrop.md)
+### [Airdrop](../resources/airdrop.md)
 
 ### IFO (F for Fair Launch)
 

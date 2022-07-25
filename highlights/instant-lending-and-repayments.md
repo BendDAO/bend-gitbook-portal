@@ -10,7 +10,7 @@ description: Borrow and repay ETH anytime
 
 No matching time.
 
-A trustless liquidity solution for NFT holders. Deposit your NFT as collateral for you to be able to borrow Ethereum. Deposited NFTs will be put into an NFT pool and converted into [boundNFTs](../protocol-overview/boundnft.md).
+A trustless liquidity solution for NFT holders. Deposit your NFT as collateral for you to be able to borrow Ethereum. Deposited NFTs will be put into an NFT pool and converted into [boundNFTs](../lending-protocol/boundnft.md).
 
 ## Which NFTs can be used as collaterals?
 

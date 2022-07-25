@@ -1,48 +1,40 @@
 # Introducing BendDAO
 
-BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. Depositors provide ETH liquidity to the lending pool to earn interest, while borrowers are able to borrow ETH through the lending pool using NFTs as collateral instantly.
+BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **leveraged NFT trading**, and **NFT down payment.** The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for users, a one-stop NFT liquidity solution.
 
-Bend protocol enables NFT assets to be pooled and converted into representing ERC721 boundNFTs to realize NFT loans.
+## Best Liquidity
 
-## NFT as Collaterals to Borrow ETH
+This is how bluechip NFT holders are able to get the best liquidity on BendDAO.
 
-**Borrowers (NFT holders)** will bundle NFT into one separate token (boundNFT) through BendDAO Protocol in order to function as a single unit of collateral. Details of the [Collateral Ratio](risk/nft-risk-parameters.md).
+### Instant NFT-backed Loan
 
-Details are listed as follows:
+BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. NFT holders are able to borrow ETH through the lending pool using NFTs as collateral instantly, while depositors provide ETH liquidity to earn interest. The leveraged NFT trading is built on instant NFT-backed loans.
 
-* Initiate an instant NFT loan contract to borrow ETH from the pool
-* Maintain NFT collateral ratio by repaying ETH anytime
-* Get back the NFT when paying off the NFT loan
+### Listing by Borrowers
 
-## Deposit ETH to Earn Yields
+Borrowers can list mortgaged NFTs directly on the BendDAO marketplace. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
 
-**Depositors/ lenders** will be able to
+### Equity Cash-Out Listing&#x20;
 
-* Deposit/withdraw ETH to the reserve pools
-* Earn yields by providing liquidity
+NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The buyer will pay off the loan including interests after the deal.&#x20;
 
-## From the NFT holder's point of view
+## NFT Down Payment
 
-#### A 48-hour liquidation protection period
+The buyer may pay a minimum down payment of 60%, depending on the actual price, to buy a bluechip NFT from major NFT marketplaces while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 
-In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan.
+The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
 
-#### Same airdrop right for borrowers
+## For NFT Communities
 
-Borrowers will be eligible for all related NFT holder airdrops. BendDAO will collect and distribute the airdrops to boundNFT holders when their NFTs are in the collateral pool.
+### A 48-hour liquidation protection &#x20;
 
-Furthermore, borrowers can claim NFT rewards on other protocols while having NFTs still in a collateral pool with the Flashloan feature.
+In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan.&#x20;
 
-#### Never be stolen
+### Same airdrop right for borrowers&#x20;
 
-NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same **digital self-expression** which can be used on Web2 social media platforms that support the NFT avatar.
+Borrowers will be eligible for all related NFT holder airdrops. BendDAO will collect and distribute the airdrops to boundNFT holders when their NFTs are in the collateral pool. Furthermore, borrowers can claim NFT rewards on other protocols while having NFTs still in a collateral pool with the Flashloan feature.&#x20;
 
-## From the ETH lender's point of view
+### Never be stolen&#x20;
 
-#### Never goes bankrupt
+NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same digital self-expression which can be used on Web2 social media platforms that support the NFT avatar.
 
-The borrower's NFT collateral is locked on the platform. After the total debt exceeds the value of the collateral, the collateral is liquidated through auction, and the auction price cannot be lower than the total debt. So the lender's principal will not be lost.
-
-{% hint style="info" %}
-This Portal links to the key resources on BendDAO to understand the fundamentals of the Protocol. Please join the discussion on BendDAO community Discord server; our team and members of the community look forward to helping you build on top of BendDAO.
-{% endhint %}
