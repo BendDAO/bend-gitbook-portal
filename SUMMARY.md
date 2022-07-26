@@ -7,9 +7,9 @@
 ## FAQ
 
 * [Security FAQ](faq/security-faq.md)
-* [Exchange FAQ](faq/exchange-faq.md)
+* [Exchange FAQ](faq/marketplace-faq.md)
 * [Down Payment FAQ](faq/down-payment-faq.md)
-* [Instant Liquidity Listing FAQ](faq/instant-liquidity-listing-faq.md)
+* [Instant Liquidity Listing FAQ](faq/equity-cash-out-listing-faq.md)
 * [Flash Claim FAQ](faq/flash-claim-faq.md)
 * [Liquidation FAQ](faq/liquidation.md)
 * [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
@@ -45,7 +45,7 @@
 ## Marketplace
 
 * [NFT Down Payment (Buyer)](marketplace/nft-down-payment-buyer.md)
-* [Instant Liquidity Listing (Seller)](marketplace/instant-liquidity-listing-seller.md)
+* [Instant Liquidity Listing (Seller)](marketplace/equity-cash-out-listing-seller.md)
 * [Royalties on secondary sales (Creator)](marketplace/royalties-on-secondary-sales-creator.md)
 
 ## Governance

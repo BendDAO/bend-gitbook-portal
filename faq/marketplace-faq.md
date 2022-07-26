@@ -1,4 +1,4 @@
-# Marketplace FAQ
+# Exchange FAQ
 
 ## What's the Difference Between WETH and ETH?
 

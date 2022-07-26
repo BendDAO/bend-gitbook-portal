@@ -16,6 +16,6 @@ The seller can delist the listing anytime. But the loan will still be effective 
 
 
 
-[instant-liquidity-listing-faq.md](../faq/instant-liquidity-listing-faq.md "mention")
+[equity-cash-out-listing-faq.md](../faq/equity-cash-out-listing-faq.md "mention")
 
-[ ](../faq/instant-liquidity-listing-faq.md)
+[ ](../faq/equity-cash-out-listing-faq.md)

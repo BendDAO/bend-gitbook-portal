@@ -8,7 +8,7 @@ Based on the [instant NFT-backed loan](instant-lending-and-repayments.md), lever
 
 Borrowers can list mortgaged NFTs directly instead of repaying the loan to list for sale.&#x20;
 
-### Equity Cash-out Listing
+### Instant Liquidity Listing
 
 NFT holders/sellers can choose to receive up to 40% of the floor price instantly when listing. The upfront payment is actually provided by the instant NFT-backed loan. The buyer will pay off the loan after the deal. Listing by borrowers Borrowers can list mortgaged NFTs directly instead of repaying the loan to list for sale.
 
