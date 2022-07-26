@@ -20,4 +20,4 @@ The buyer can pay **a minimum down payment of 60%**, depending on the actual pri
 
 The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
 
-### [nft-down-payment-buyer.md](../marketplace/nft-down-payment-buyer.md "mention")
+### [nft-down-payment-buyer.md](../nft-liquidity/nft-down-payment-buyer.md "mention")

@@ -42,11 +42,11 @@
 * [Liquidation and Redeem](lending-protocol/liquidation-and-redeem.md)
 * [Auction](lending-protocol/auction.md)
 
-## Marketplace
+## NFT Liquidity
 
-* [NFT Down Payment (Buyer)](marketplace/nft-down-payment-buyer.md)
-* [Instant Liquidity Listing (Seller)](marketplace/equity-cash-out-listing-seller.md)
-* [Royalties on secondary sales (Creator)](marketplace/royalties-on-secondary-sales-creator.md)
+* [NFT Down Payment (Buyer)](nft-liquidity/nft-down-payment-buyer.md)
+* [Instant Liquidity Listing (Seller)](nft-liquidity/instant-liquidity-listing-seller.md)
+* [Royalties on secondary sales (Creator)](nft-liquidity/royalties-on-secondary-sales-creator.md)
 
 ## Governance
 
