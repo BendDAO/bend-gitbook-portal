@@ -14,7 +14,7 @@ BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. NF
 
 Borrowers can list mortgaged NFTs directly on the BendDAO marketplace. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
 
-### Equity Cash-Out Listing&#x20;
+### Instant Liquidity Listing&#x20;
 
 NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The buyer will pay off the loan including interests after the deal.&#x20;
 

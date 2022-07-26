@@ -1,22 +1,22 @@
-# Equity Cash-out Listing FAQ
+# Instant Liquidity Listing FAQ
 
 ## Why this feature is designed?
 
 This functionality is designed to provide better liquidity for sellers. Sellers can cash out while waiting for the deal. The cash-out can be considered as the upfront payment from the future buyer. &#x20;
 
-## What happens when I choose the Equity Cash-out listing?
+## What happens when I choose the Instant Liquidity listing?
 
 You can instantly get 40% of the floor price of your listing before it even sells. Meanwhile, your NFT is deposited as collateral in the pool. The upfront payment is actually provided by the instant NFT-backed loan.
 
-## Do I need to pay the loan interest after the Equity Cash-out listing?
+## Do I need to pay the loan interest after the Instant Liquidity listing?
 
 When the deal is done, the buyer will pay off the loan including interests after the deal.&#x20;
 
 _The amount Seller will receive = Total price - debt with interests_
 
-## Can I cancel my Equity Cash-out listing?
+## Can I cancel my Instant Liquidity listing?
 
-Yes, you can delist anytime you like. But once you choose the Equity Cash-out listing, you are also a borrower on BendDAO. If you want to redeem the NFT, you need to pay off the loan.
+Yes, you can delist anytime you like. But once you choose the Instant Liquidity Listing, you are also a borrower on BendDAO. If you want to redeem the NFT, you need to pay off the loan.
 
 ## Can I list again after the delisting?
 

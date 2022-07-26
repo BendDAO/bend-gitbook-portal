@@ -1,6 +1,6 @@
-# Equity Cash-out Listing (Seller)
+# Instant Liquidity Listing (Seller)
 
-NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The seller is also a borrower on BendDAO with the Equity Cash-out listing.
+NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The seller is also a borrower on BendDAO with the Instant Liqudity listing.
 
 In the first version of BendDAO marketplace only Listing an NFT for a Fixed Price is supported.
 
@@ -16,6 +16,6 @@ The seller can delist the listing anytime. But the loan will still be effective 
 
 
 
-[equity-cash-out-listing-faq.md](../faq/equity-cash-out-listing-faq.md "mention")
+[instant-liquidity-listing-faq.md](../faq/instant-liquidity-listing-faq.md "mention")
 
-[ ](../faq/equity-cash-out-listing-faq.md)
+[ ](../faq/instant-liquidity-listing-faq.md)
