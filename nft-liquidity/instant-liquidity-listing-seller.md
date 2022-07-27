@@ -1,8 +1,10 @@
 # Instant Liquidity Listing (Seller)
 
-NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The seller is also a borrower on BendDAO with the Instant Liqudity listing.
+NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The seller is also a borrower on BendDAO with the Instant Liquidity listing.
 
-In the first version of BendDAO marketplace only Listing an NFT for a Fixed Price is supported.
+In the first version only Listing an NFT for a Fixed Price is supported.
+
+![Workflow of Instant Liquidity Listing (ILL)](https://lh3.googleusercontent.com/pnZHqu5SapL\_7JfQwODl-V-WTJMBuuCGgUV6OiH9SHieFXX2UYnz9dPuSXyHNUG5xo\_SII98GgojAoKHffaHKP-jqBwQf9IqNdTvUixRaoKFrqHU6bWSnRT8i3O8YvwdUtejxTbfozw\_CYGgftiLRA)
 
 ## After the deal
 
