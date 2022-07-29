@@ -1,40 +1,39 @@
-# Introducing BendDAO
+# BendDAO 介绍
 
-BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **leveraged NFT trading**, and **NFT down payment.** The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for users, a one-stop NFT liquidity solution.
+BendDAO 是最好的 NFT 流动性协议，支持**即时 NFT 支持的贷款**，**杠杆 NFT 交易**和** NFT 首付。**首付、借款和交易的无缝体验为用户创造了一个完美的闭环，是一站式 NFT 流动性解决方案。
 
-## Best Liquidity
+## 最好的流动性
 
-This is how bluechip NFT holders are able to get the best liquidity on BendDAO.
+这就是蓝筹 NFT 持有人能够在 BendDAO 上获得最佳流动性的原因。
 
-### Instant NFT-backed Loan
+### 即时 NFT 支持的贷款
 
-BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. NFT holders are able to borrow ETH through the lending pool using NFTs as collateral instantly, while depositors provide ETH liquidity to earn interest. The leveraged NFT trading is built on instant NFT-backed loans.
+BendDAO 是首个去中心化基于点对池（Peer-to-Pool）的 NFT 流动性借贷协议。NFT 持有者能够通过借贷池使用 NFT 作为抵押品即时借出 ETH，而储户则提供 ETH 流动性来赚取利息。杠杆式 NFT 交易是建立在即时 NFT 支持的贷款之上。
 
-### Listing by Borrowers
+### 由借款人挂单
 
-Borrowers can list mortgaged NFTs directly on the BendDAO marketplace. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
+借款人可以直接在 BendDAO 市场上列出已抵押的 NFT。扣除债务与利息后的余额将在交易后转给借款人（卖方）。&#x20;
 
-### Instant Liquidity Listing (ILL)
+### 即时流动性挂单（ILL）
 
-NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The buyer will pay off the loan including interests after the deal.&#x20;
+NFT 持有人/卖家可以选择在挂单前即时获得高达 40% 的底价。即时流动资金实际上是由即时 NFT 支持的贷款提供的。买方将在交易后偿还贷款，包括利息。&#x20;
 
-## NFT Down Payment
+## NFT 首付买
 
-The buyer may pay a minimum down payment of 60%, depending on the actual price, to buy a bluechip NFT from major NFT marketplaces while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
+买家可以根据实际价格支付最低 60% 的首付，从主要的 NFT 市场购买蓝筹 NFT，同时从 AAVE 启动闪电贷款（Flashloan）来支付剩余部分。闪电贷款的借款金额将通过 BendDAO 上的即时 NFT 支持的贷款来偿还。
 
-The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
+买家将在首付购买时自动成为借款人。而借款人也可以在 BendDAO 市场上列出他们抵押的 NFT 进行销售。
 
-## For NFT Communities
+## 对于 NFT 社区
 
-### A 48-hour liquidation protection &#x20;
+### 48 小时的清算保护&#x20;
 
-In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan.&#x20;
+为了避免市场波动造成的损失，借款人将有 48 小时的清算保护期来偿还贷款。&#x20;
 
-### Same airdrop right for borrowers&#x20;
+### 于借款人相同的空投权&#x20;
 
-Borrowers will be eligible for all related NFT holder airdrops. BendDAO will collect and distribute the airdrops to boundNFT holders when their NFTs are in the collateral pool. Furthermore, borrowers can claim NFT rewards on other protocols while having NFTs still in a collateral pool with the Flashloan feature.&#x20;
+借款人将有资格获得所有相关的 NFT 持有人的空投。BendDAO 将收集并分发空投给 boundNFT 持有人，当他们的NFT在抵押品池中时。此外，借款人可以在其他协议上领取 NFT 奖励，而 NFT 仍在抵押品池中，并具有闪电贷功能。&#x20;
 
-### Never be stolen&#x20;
+### 永不被盗&#x20;
 
-NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same digital self-expression which can be used on Web2 social media platforms that support the NFT avatar.
-
+NFT 将通过即时 NFT 借贷转换成作为代表的 ERC721 的 boundNFT。boundNFT 是不可转让的，避免了盗窃的风险。另一方面，boundNFT 具有相同的数字自我表达，可以在支持 NFT 头像的 Web2 社交媒体平台上使用。
