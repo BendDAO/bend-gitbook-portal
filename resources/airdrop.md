@@ -87,7 +87,7 @@ BEND 是 Bend DAO 的治理代币。
 
 BEND 持有人可以质押 BEND 获得 BEND 选票（veBEND）。
 
-**veBEND** 有两个主要用途：[**投票**](https://snapshot.org/#/benddao.eth) 和 **收益分成**.
+**veBEND** 有两个主要用途：[**投票**](https://snapshot.org/#/benddao.eth) 和 **收益分成**。
 
 ### **投票**
 
@@ -105,16 +105,16 @@ BEND 的持有人可以参与投票，决定 Bend 协议可以支持哪些 NFT �
 * 蓝筹 NFT 社区投票
 
 
-有即时 NFT 贷款支持的 NFT 项目将为项目创造一个正向的流动性循环，这将带来更强大的价格支持和长期的社区发展。
+拥有由 NFT 支撑的即时借贷支持的 NFT 项目将为项目创造一个正向流动性循环，这将带来更强大的价格支持和长期的社区发展。
 
-在 Bend 官方启动时，**CryptoPunks** 和 **Bored Ape YC** 被认作蓝筹而被支持。**Mutant Ape YC**、**Azuki**、**Clone X** 和 **Doodles** 由[质押 BEND ](../governance/vote-escrowed-bend-vebend.md)的 Bend DAO 成员选出。&#x20;
+在 Bend 官方启动时，**CryptoPunks** 和 **Bored Ape YC** 被认作蓝筹而被支持作为抵押品。**Mutant Ape YC**、**Azuki**、**Clone X** 和 **Doodles** 由[质押 BEND ](../governance/vote-escrowed-bend-vebend.md)的 Bend DAO 成员选出。&#x20;
 
 社区投票细节：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
 ![](../.gitbook/assets/BendVoting.png)
 
 * Bend 官方主网启动
-*   多签选举
+*   多签选举（Muti-sig Election）
 
     多签选举是为了组建委员会来监管交易，并拒绝那些不应该代表 Bend DAO 金库所执行的交易。
 
