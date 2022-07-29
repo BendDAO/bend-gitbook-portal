@@ -26,13 +26,13 @@ The work of each season is gathered and presented on its dedicated section, repr
 
 * DAO Governance Improvement Proposals✅
 * Ecosystem Building Proposals✅
-* Down Payment Buy NFT Proposals🛠️
-* Bluechip NFT Leverage Trading Platform🛠️
+* Down Payment Buy NFT Proposals✅
+* Bluechip NFT Leverage Trading Platform✅
 
 ## 2022 Q3
 
-* P2P NFT Lending Proposals
-* More Bluechip NFTs Online Proposals
+* P2P NFT Lending Proposals🛠️
+* More Bluechip NFTs Online Proposals🛠️
 
 ## 2022 Q4
 
