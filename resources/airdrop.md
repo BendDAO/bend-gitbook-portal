@@ -1,40 +1,40 @@
-# Airdrop
+# 空投
 
-## BEND Token Airdrop
+## BEND 代币空投
 
-BEND Airdrop will be the first move of the BEND Fair Launch.
+BEND 空投将是 BEND 公平启动的第一步。
 
-**500,000,000 BEND** (**5%** of the BEND total supply) will be allocated to the whole NFT community in terms of Airdrop.
+**500,000,000 BEND** （**5%** 的 BEND 总供给） 将以空投形式分配给整个 NFT 社区。
 
-## Airdrop Duration
+## 空投期限
 
-To avoid the unnecessary GAS cost, eligible users can claim BEND during a window of **90 days starting from March 20th, from 2022-03-20 16:57:03 GMT+0 to GMT 2022-06-18 16:57:03 GMT+0**. All unclaimed BEND tokens will be reallocated to the DAO Treasury.
+为了避免不必要的 GAS 费用，符合条件的用户可以在 **3 月 20 日起的 90 天的时间窗口领取 BEND（从 2022-03-20 16:57:03 GMT+0 到 GMT 2022-06-18 16:57:03 GMT+0）**。所有未领取的 BEND 代币将被重新分配到 DAO 金库。
 
-## Eligibility
+## 空投领取资格
 
 ### OpenSea
 
-OpenSea users who traded between Ethereum Block 13162318 on September 5th, 2021 and Block 14323604 on March 5th, 2022.
+在 2021 年 9 月 5 日的以太坊区块 13162318 和 2022 年 3 月 5 日的区块 14323604 之间进行交易的 OpenSea 用户。
 
-### Bluechip NFTs
+### 蓝筹 NFTs
 
-Users who hold the bluechip NFTs on March 5th, 12 am UTC. Bluechip NFTs are Crypto Punks, Bored Ape YC, Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women and CyberKongz.
+3 月 5 日 UTC 上午 12 点 持有蓝筹 NFT 的用户。蓝筹 NFT 是 Crypto Punks、Bored Ape YC、Mutant Ape YC、Cool Cats、Doodles、CLONE X、Azuki、World of Women 以及 CyberKongz。
 
 ### NFTfi
 
-Borrowers and lenders who joined P2P NFT lending before Block 14323604 on March 5th, 2022.
+在 2022 年 3 月 5 日区块 14323604 之前参与 P2P NFT 借贷的借款人和出借人。
 
-### Discord boundNFT OG
+### Discord boundNFT 元老
 
-500 lucky boundNFT OGs will be announced on Bend Discord.
+500 名幸运的 boundNFT OG 将在 Bend Discord 上公布。
 
-## **Tiers**
+## **层级**
 
-### Bluechip NFTs
+### 蓝筹 NFTs
 
-For Fairness of bluechips votes into the protocol, each of the collections gets the same total bend airdrops.
+为了协议内的蓝筹选票的公平性，每个系列将得到同样的总 bend 空投。
 
-| NFT Collections    | BEND Tokens Each Wallet | Total BEND Each Collection |
+| NFT 系列           | 每个钱包的 BEND 代币      | 每个系列的总 BEND           |
 | ------------------ | ----------------------: | -------------------------: |
 | CryptoPunks        |                2,777.78 |              27,777,777.78 |
 | BoredApeYachtClub  |                2,777.78 |              27,777,777.78 |
@@ -48,9 +48,9 @@ For Fairness of bluechips votes into the protocol, each of the collections gets 
 
 ### OpenSea
 
-5 tiers for OpenSea users. Each eligible wallet will be able to claim an amount of BEND corresponding to their total trading volume in ETH on OpenSea.
+为 OpenSea 用户提供 5 个层级。每个符合条件的钱包将能够领取与他们在 OpenSea 上的 ETH 总交易量相对应的 BEND 数额。
 
-| Tier | Volume in ETH | BEND Tokens Each Address | BEND Tokens Each Tier |
+| 层级 | ETH 交易量     | 每个地址的 BEND 代币      | 每个层级的 BEND 代币   |
 | ---- | ------------- | -----------------------: | --------------------: |
 | 1    | 120 <= v      |                 2,266.27 |         39,684,666.67 |
 | 2    | 60<= v <120   |                 1,380.24 |         26,456,444.44 |
@@ -58,17 +58,17 @@ For Fairness of bluechips votes into the protocol, each of the collections gets 
 | 4    | 10<= v < 20   |                   675.39 |         39,684,666.67 |
 | 5    | 3<= v < 10    |                   536.40 |         79,369,333.33 |
 
-### Discord Community
+### Discord 社区
 
-| Lucky Testers in Discord | BEND Tokens Each Address | Total BEND Tokens |
+| Discord 内的幸运测试者    | 每个地址的 BEND 代币      | 总 BEND 代币       |
 | ------------------------ | -----------------------: | ----------------: |
 | 500                      |                 2,000.00 |      1,000,000.00 |
 
 ### NFTfi
 
-6 tiers for NFTfi users. Each eligible wallet will be able to claim an amount of BEND corresponding to their loan volume in ETH on NFTfi.
+为 NFTfi 用户提供 6 个层级。每个符合条件的钱包将能够领取与他们在 NFTfi 上的 ETH 总借贷量相对应的 BEND 数额。
 
-| Tier | Volume in ETH  | BEND Tokens Each Address | BEND Tokens Each Tier |
+| 层级 | ETH 借贷量      | 每个地址的 BEND 代币      | 每个层级的 BEND 代币   |
 | ---- | -------------- | -----------------------: | --------------------: |
 | 1    | 1000 <= V      |                30,000.00 |            240,000.00 |
 | 2    | 200 <= V <1000 |                20,000.00 |            780,000.00 |
@@ -77,44 +77,45 @@ For Fairness of bluechips votes into the protocol, each of the collections gets 
 | 5    | 1<= V < 10     |                10,000.00 |          4,520,000.00 |
 | 6    | 0.01<= V < 1   |                 8,000.00 |          2,584,000.00 |
 
-## No Conditions to Claim
+## 无条件领取
 
-No extra conditions.&#x20;
+没有额外条件。&#x20;
 
-## The Utility of BEND Token
+## BEND 代币的实用性
 
-BEND is the governance token of Bend DAO.
+BEND 是 Bend DAO 的治理代币。
 
-BEND holders can stake BEND to get vote-escrowed BEND (veBEND).
+BEND 持有人可以质押 BEND 获得 BEND 选票（veBEND）。
 
-**veBEND** has two main uses: [**Voting**](https://snapshot.org/#/benddao.eth) and **Earning**.
+**veBEND** 有两个主要用途：[**投票**](https://snapshot.org/#/benddao.eth) 和 **收益分成**.
 
-### **Voting**
+### **投票**
 
-Holders of veBEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+BEND 的持有人可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品以借出 ETH 并提供流动性。只要支持的 NFT 流动性得到改善，所有 NFT 持有者都会受益。
 
-### **Earning**
+### **收益分成**
 
-* BEND stakers share 100% of the protocol income.
+* BEND 质押者共享 100% 的协议收入。
 
-More details of [veBEND](../governance/vote-escrowed-bend-vebend.md).
+更多关于[ veBEND ](../governance/vote-escrowed-bend-vebend.md)的细节。
 
-## Bend Launch Schedule
+## Bend 启动日程
 
-* [IFO (F for Fair Launch)](../highlights/fair-launch.md)
-* Bluechip NFT Community Voting
+* [IFO（F 代表公平启动）](../highlights/fair-launch.md)
+* 蓝筹 NFT 社区投票
 
-NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price support and long-term community development.
 
-**CryptoPunks** and **Bored Ape YC** are the recognized blue chips that are supported as collaterals when Bend officially launches. **Mutant Ape YC**, **Azuki**, **Clone X**, and **Doodles** are selected by Bend DAO members who [stake BEND](../governance/vote-escrowed-bend-vebend.md).&#x20;
+有即时 NFT 贷款支持的 NFT 项目将为项目创造一个正向的流动性循环，这将带来更强大的价格支持和长期的社区发展。
 
-Community Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+在 Bend 官方启动时，**CryptoPunks** 和 **Bored Ape YC** 被认作蓝筹而被支持。**Mutant Ape YC**、**Azuki**、**Clone X** 和 **Doodles** 由[质押 BEND ](../governance/vote-escrowed-bend-vebend.md)的 Bend DAO 成员选出。&#x20;
+
+社区投票细节：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
 ![](../.gitbook/assets/BendVoting.png)
 
-* Bend official mainnet launch
-*   Multi-sig Election
+* Bend 官方主网启动
+*   多签选举
 
-    Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
+    多签选举是为了组建委员会来监管交易，并拒绝那些不应该代表 Bend DAO 金库所执行的交易。
 
-More details of the BEND[ Fair Launch](../highlights/fair-launch.md).
+更多关于 BEND[ 公平启动](../highlights/fair-launch.md)的细节。
