@@ -92,3 +92,7 @@ There will be a "Liquidate" button on the auction page for the highest bidder af
 
 One NFT one loan. Each loan has its own health factor.
 
+## If my bid is not the highest one, do I need to claim my bid?
+
+No. Your bid will automatically be refunded to your wallet in WETH.
+
