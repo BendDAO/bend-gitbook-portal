@@ -1,29 +1,29 @@
 ---
-description: Never get liquidated if you repay within 48 hours
+介绍：如果您在 48 小时内还款，绝不会被清算
 ---
 
-# 48h Liquidation Protection
+# 48h 清算保护
 
-You can check this for an example of liquidation: https://github.com/BendDAO/bend-gitbook-portal/blob/main/faq/liquidation.md#an-example-of-liquidation
+您可以查看这个清算的示例：https://github.com/BendDAO/bend-gitbook-portal/blob/main/faq/liquidation.md#an-example-of-liquidation
 
-## 48h Liquidation Protection
+## 48h 清算保护
 
-**Never get liquidated if you repay within 48 hours**
+**如果您在 48 小时内还款，绝不会被清算**
 
-NFT holders don’t want to hand over the ownership of their NFTs. That's why they look for other liquidity solutions instead of selling NFTs. In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan. Your NFT-backed loan will never get liquidated if you repay within the 48-hour liquidation protection period.
+NFT 持有人不想交出其 NFT 的所有权。这就是为什么他们寻找其他流动性解决方案而不是出售 NFT。为了避免市场波动造成的损失，借款人将有 48 小时的清算保护期来偿还贷款。如果您在 48 小时清算保护期内还款，您的 NFT 支持的贷款将永远不会被清算。
 
-**Borrower (Collateralized NFT)**
+**借款人（已抵押 NFT）**
 
-During the auction (48h liquidation protection period), for the NFT holder's safety, the borrower (user with the collateralized NFT) will still be able to repay the loan within the 48-hour window starting from the beginning of the auction.
+在拍卖期间（48小时清算保护期），为了 NFT 持有人的安全，借款人（有抵押 NFT 的用户）仍然能够在拍卖开始后的 48 小时内偿还贷款。
 
 {% hint style="warning" %}
-For safety and fairness, borrowers must repay some loan debts as well as pay a penalty of a maximum(5% of the debt, 0.2 ETH) to the liquidator, even after NFT floor prices recover to the normal price.
+为了安全和公平起见，即使在 NFT 地板价恢复到正常价格后，借款人也必须偿还一些贷款债务，并向清算人支付（最高为债务的 5%，0.2 ETH）罚款。
 {% endhint %}
 
-**Bidder**
+**出价人**
 
-Under the Bend Auction mechanism, any bidder can obtain ownership of an NFT as long as the bid is higher than the floor price. This way, all NFTs will be given a price discovery mechanism, making transactions transparent.
+在 Bend 拍卖机制下，只要出价高于地板价，任何出价人都可以获得 NFT 的所有权。这样一来，所有的 NFT 都将获得一个价格发现机制，使交易透明化。
 
-Bend’s Protocol is dependent on the 'health' of loans within the system, also known as the 'health factor' which is related to debt, floor pricings, and liquidation thresholds.
+Bend 的协议取决于系统内贷款的 "健康"，也被称为 "健康系数"，与债务、地板价和清算阈值有关。
 
-In order to avoid losses caused by the market fluctuations, an NFT auction will be activated when the health factor is below 1. Anyone can partake in auctions but for NFT holders’ safety, there will be a 48-hour auction window where they'll be able to repay loans. Once the auction begins, bidders will be able to bid as long as the bid is higher than the previous price placed.
+为了避免市场波动造成的损失，当健康系数低于 1 时，将启动 NFT 拍卖。任何人都可以参与拍卖，但为了 NFT 持有人的安全，将有一个 48 小时的拍卖窗口让他们将能够偿还贷款。一旦拍卖开始，只要出价高于之前的价格，竞拍者就能出价。
