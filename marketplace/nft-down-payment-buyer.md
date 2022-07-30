@@ -1,4 +1,4 @@
-# NFT Down Payment (Buyer)
+# NFT 首付（买家）
 
 The buyer can pay a minimum down payment of 60%, depending on the actual price, to buy a bluechip NFT while initiating a flash loan from AAVE to cover the remainder. If the total price of the NFT is much higher than the collection floor price, the percentage of the down payment will increase. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 
