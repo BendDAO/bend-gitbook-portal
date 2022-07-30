@@ -1,5 +1,5 @@
-# bendETH Valuation
+# bendETH 估值
 
-Bend protocol uses the same interest model as AAVE's aToken. You can easily understand what bendETH is if you know AAVE's aToken well. The core value of bendETH and aToken are the same. [Reference](https://docs.aave.com/risk/liquidity-risk/atoken-valuation)
+Bend 协议使用与 AAVE 的 aToken 相同的利率模型。如果您很了解 AAVE 的 aToken，您可以轻易理解 bendETH 是什么。bendETH 和 aToken 的核心价值是一样的。[参考资料](https://docs.aave.com/risk/liquidity-risk/atoken-valuation)
 
-The difference between bendETH and aETH is the liquidity on Uniswap.
+bendETH 和 aETH 的区别在于 Uniswap 上的流动性。
