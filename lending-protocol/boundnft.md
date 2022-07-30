@@ -21,5 +21,5 @@ boundNFT 具有与您拥有的原始 NFT 相同的元数据和代币 ID，这意
 
 比如：
 
-* Looksrare 系列：[boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24), [boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e), [boundMAYC](https://looksrare.org/collections/0x69f37e419bD1457d2a25ed3f5d418169caAe8D1F)
+* Looksrare 系列：[boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24)、[boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e)、[boundMAYC](https://looksrare.org/collections/0x69f37e419bD1457d2a25ed3f5d418169caAe8D1F)
 * Twitter NFT 头像：[如何使用 boundBAYC 作为头像](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)
