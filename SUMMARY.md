@@ -38,7 +38,7 @@
 * [boundNFT](lending-protocol/boundnft.md)
 * [利率模型](lending-protocol/interest-model.md)
 * [bendETH 估值](lending-protocol/bendeth-valuation.md)
-* [预言机价格喂养（Oracle Price Feeding）](lending-protocol/oracle-price-feeding.md)
+* [预言机价格推送（Oracle Price Feeding）](lending-protocol/oracle-price-feeding.md)
 * [清算和赎回](lending-protocol/liquidation-and-redeem.md)
 * [拍卖](lending-protocol/auction.md)
 
