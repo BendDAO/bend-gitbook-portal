@@ -1,28 +1,28 @@
-# BendDAO on Mobile
+# 移动端的 BendDAO
 
-For a better experience on Android/IOS mobile devices, we recommend using the MetaMask built-in browser.
+为了在 Android/IOS 移动设备上获得更好的体验，我们建议使用 MetaMask 内置浏览器。
 
-## Installing MetaMask
+## 安装 MetaMask
 
-1. Install MetaMask mobile at [MetaMask.io](https://metamask.io).
-2. Open the MetaMask mobile app.
-3. If you want to import exist accounts from your desktop MetaMask wallet, please select 'Sync or Import' > 'Scan QR code', and follow MetaMask guides.
-4. If you want to create new accounts, follow MetaMask guides.
+1. 在 [MetaMask.io](https://metamask.io) 安装 MetaMask 移动端。
+2. 打开 MetaMask 移动端程序。
+3. 如果您想从您的桌面 MetaMask 钱包导入现有账户，请选择 'Sync or Import'（同步或导入） > 'Scan QR code'（扫描二维码），并按照 MetaMask 的指导操作。
+4. 如果您想创建新的账户，请按照 MetaMask 的指导。
 
-## Using BendDAO
+## 使用 BendDAO
 
-1. Open builtin Browser in MetaMask.
+1. 使用 MetaMask 的内置浏览器打开。
 
 ![](../.gitbook/assets/WechatIMG52.jpg)
 
-2.Input BendDAO website URL.
+2.输入 BendDAO 网址 URL。
 
-Mainnet: [https://www.benddao.xyz/](https://www.benddao.xyz)
+主网：[https://www.benddao.xyz/](https://www.benddao.xyz)
 
-Rinkeby: [https://rinkeby.benddao.xyz](https://rinkeby.benddao.xyz)
+测试网（Rinkeby）：[https://rinkeby.benddao.xyz](https://rinkeby.benddao.xyz)
 
 ![](../.gitbook/assets/WechatIMG53.jpg)
 
-3\. Let us experience BendDAO.
+3\. 让我们体验 BendDAO。
 
 ![](../.gitbook/assets/WechatIMG54.jpeg)
