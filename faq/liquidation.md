@@ -26,7 +26,7 @@
 
 ## **Bend 是如何计算抵押的 NFT 的价值的？**
 
-当前 NFT 地板价被用作抵押 NFT 的价格推送。原始价格数据来自最知名的NFT市场 —— OpenSea。Bend 上的抵押品价值以以太坊计价，而非 USDT。更多细节，见：[https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
+当前 NFT 地板价被用作抵押 NFT 的价格推送。原始价格数据来自最知名的NFT市场——OpenSea。Bend 上的抵押品价值以以太坊计价，而非 USDT。更多细节，见：[https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
 
 ## **有无计划升级 NFT 的价格推送设计？**
 
@@ -35,8 +35,6 @@
 ## **为什么 Bend 上面不会发生市场清算危机？**
 
 48 小时的清算保护和 NFT 拍卖机制的存在意味着 NFT 不会被立即清算。同时，清算人的出价必须等同于 OpenSea 的地板价。
-
-48h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
 
 更多关于[ 48h 清算保护](../highlights/48h-liquidation-protection.md))的细节。
 
