@@ -1,27 +1,27 @@
-# Interest Model
+# 利率模型
 
-Bend’s interest rate model is calibrated to manage liquidity risk and optimize utilization. The borrow interest rates come from the Utilization Rate $$U$$.
+Bend 的利率模型经过校准，以管理流动性风险和优化利用。借款利率来自于利用率 $$U$$。
 
-$$U$$ is an indicator of the availability of capital in the pool. The interest rate model is used to manage liquidity risk through user incentivizes to support liquidity:
+$$U$$ 是资金池中可用资金的一个指标。利率模型被用来通过用户激励支持流动性来管理流动性风险：
 
-* When capital is available: low interest rates to encourage loans.
-* When capital is scarce: high interest rates to encourage repayments for the loans and additional deposits.
+* 当资本可用时：低利率以鼓励贷款。
+* 当资本匮乏时：高利率以鼓励偿还贷款和增加存款。
 
-## Borrow Interest Rate Curve
+## 借款利率曲线
 
 ![](<../.gitbook/assets/Borrow Interest Rate Model.png>)
 
-## Deposit Interest Rate Curve
+## 存款利率曲线
 
 ![](<../.gitbook/assets/Deposit Interest Rate Model.png>)
 
-## Interest Rate Models
+## 利率模型
 
-We have listed three different sets of base interest rate models, and the final interest rate model will be decided by the community through voting.
+我们列出了三套不同的基础利率模型，而最终的利率模型将由社区通过投票决定。
 
-### Base Interet Rate 3%
+### 3% 基础利率
 
-| Utilization Rate(%) | Borrow Rate(%) | Deposit Rate(%) |
+| 使用率（%） | 借款率（%） | 存款率（%） |
 | ------------------- | -------------- | --------------- |
 | 1                   | 3.12           | 0.02            |
 | 5                   | 3.62           | 0.13            |
@@ -45,9 +45,9 @@ We have listed three different sets of base interest rate models, and the final 
 | 95                  | 96.71          | 64.31           |
 | 100                 | 111            | 77.7            |
 
-### Base Interest Rate 5%
+### 5% 基础利率
 
-| Utilization Rate(%) | Borrow Rate(%) | Deposit Rate(%) |
+| 使用率（%） | 借款率（%） | 存款率（%） |
 | ------------------- | -------------- | --------------- |
 | 1                   | 5.12           | 0.04            |
 | 5                   | 5.62           | 0.2             |
@@ -71,9 +71,9 @@ We have listed three different sets of base interest rate models, and the final 
 | 95                  | 98.71          | 65.64           |
 | 100                 | 113            | 79.1            |
 
-### Base Interest Rate 10%
+### 10% 基础利率
 
-| Utilization Rate(%) | Borrow Rate(%) | Deposit Rate(%) |
+| 使用率（%） | 借款率（%） | 存款率（%） |
 | ------------------- | -------------- | --------------- |
 | 1                   | 10.12          | 0.07            |
 | 5                   | 10.62          | 0.37            |
