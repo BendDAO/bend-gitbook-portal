@@ -8,7 +8,7 @@
 
 Bend 支持两类空投项目，第一类是用户主动发起交易领取空投，第二类是项目方主动空投给用户。
 
-对于第一种类型，Bend 使用 boundNFT 的闪电贷来支持用户领取空投，空投闪电贷的代码在[Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropFlashLoanReceiver.sol)，以及合约地址在 [Etherscan](https://etherscan.io/address/0xa8Ae91Dd8CD8f410BA59626caef160925A033734)。
+对于第一种类型，Bend 使用 boundNFT 的闪电贷来支持用户领取空投，空投闪电贷的代码在 [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropFlashLoanReceiver.sol)，以及合约地址在 [Etherscan](https://etherscan.io/address/0xa8Ae91Dd8CD8f410BA59626caef160925A033734)。
 
 ![](<../.gitbook/assets/Flash claim 04191810.jpg>)
 
