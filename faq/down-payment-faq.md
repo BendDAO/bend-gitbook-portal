@@ -21,7 +21,7 @@
 
 ## 首付买支持什么藏品系列？
 
-BAYC, CryptoPunks, MAYC, Doodles, Space Doodles, CloneX and Azuki
+BAYC、CryptoPunks、MAYC、Doodles、Space Doodles、CloneX 以及 Azuki
 
 ## 首付过后我的钱包将会有什么？
 
