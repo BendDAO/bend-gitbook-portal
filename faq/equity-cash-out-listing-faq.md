@@ -1,34 +1,31 @@
-# Instant Liquidity Listing FAQ
+# 即时流动性挂单 FAQ
 
-## Why this feature is designed?
+## 为什么要设计这个功能？
 
-This functionality is designed to provide better liquidity for sellers. Sellers can cash out while waiting for the deal. The instant liquidity can be considered as the upfront payment from the future buyer. &#x20;
+这一功能是为了给卖家提供更好的流动资金。卖家可以在等待交易的同时套现。即时流动资金可以被视为未来买家的预付款。&#x20;
 
-## What happens when I choose Instant Liquidity Listing (ILL)?
+## 当我选择即时流动性挂单（ILL）会发生什么？
 
-You can instantly get up to 40% of the floor price of your listing before it even sells. Meanwhile, your NFT is deposited as collateral in the pool. The upfront payment is actually provided by the instant NFT-backed loan.
+您可以在您的挂单出售前立即获得高达 40% 的底价。同时，您的 NFT 被作为抵押品存入池中。预付款实际上是由即时 NFT 支持的贷款提供的。
 
-## Do I need to pay the loan interest after ILL?
+## 我需要在 ILL 之后支付贷款利息吗？
 
-When the deal is done, the buyer will pay off the loan including interests after the deal.&#x20;
+当交易完成后，买方将在交易后偿还贷款包括利息。&#x20;
 
-_The amount Seller will receive = Total price - debt with interests_
+_卖方将获得的金额 = 总价 - 含息贷款_
 
-## Can I cancel my ILL?
+## 我可以取消我的 ILL 吗？
 
-Yes, you can delist anytime you like. And you are also a borrower on BendDAO after the ILL. If you want to redeem the NFT, you need to pay off the loan.
+是的，您可以随时取消挂单。而且您在 ILL 后也是 BendDAO 的借款人。如果您想赎回 NFT，您需要还清贷款。
 
-## Can I list again after the delisting?
+## 我可以在取消挂单后再次挂单吗？
 
-Yes, you can list again anytime you like. But the Instant Liquidity Listing is not an option for the same NFT anymore, since you already used the NFT as collateral.&#x20;
+是的，你可以随时再次挂单。但是，同一个 NFT 已不能成为即时流动性挂单的选择，因为您已经用该 NFT 作为抵押品。&#x20;
 
-## What if no one buys my NFT after ILL?
+## 如果 ILL 后没有人买我的 NFT 怎么办？
 
-Liquidation may happen. Since you actually take a loan when you listing_._ You should keep an eye on the health factor of the loan. As time passes, the accrued interest will grow making the health factor decrease, which might result in 48h liquidation protection.
+清算可能发生。由于您实际上是在挂单时得到了一笔贷款，您应该留意贷款的健康系数。随着时间推移，应计利息的增长会使健康系数下降，这可能会导致 48h 清算保护。
 
 {% content-ref url="liquidation.md" %}
-[liquidation.md](liquidation.md)
+[清算.md](liquidation.md)
 {% endcontent-ref %}
-
-##
-
