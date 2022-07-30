@@ -21,7 +21,7 @@ BEND 质押人选择了 MAYC、Azuki、CloneX 以及 Doodles。关于社区投�
 
 ## NFT 价格发现
 
-**NFT 地板价** 由一个复杂的算法计算得出。原始价格数据来自一个知名的 NFT 市场，即 Opensea。
+**NFT 地板价**由一个复杂的算法计算得出。原始价格数据来自一个知名的 NFT 市场，即 Opensea。
 
 * Bend 团队当前负责维护 NFT 价格预言机。
 * 在未来，Bend 治理机制将会管理数据源的选择。
