@@ -1,23 +1,23 @@
-# Tokenomics FAQ
+# 代币经济FAQ
 
-## More details of [Bendenomics](../governance/bendenomics.md).
+## 更多关于 [Bendenomics](../governance/bendenomics.md)的细节。
 
-## What is the utility of the BEND token?
+## 代币有什么实用价值？
 
-BEND is the governance token of BendDAO.
+BEND 是 BendDAO 的治理代币。
 
-BEND holders can stake BEND to get vote-escrowed BEND (veBEND).
+BEND 持有人可以质押 BEND 以获得 BEND 选票（veBEND）。
 
-## What is veBEND?
+## 什么是 veBEND？
 
-**veBEND** has two main uses: **Voting** and **Earning**.
+**veBEND** 有两个主要用途：**投票** 和 **收益分成**。
 
-#### **Voting**
+#### **投票**
 
-Holders of veBEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+veBEND 的持有者可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品以借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，它将使所有的 NFT 持有者受益。
 
-Bend DAO Governance: [https://snapshot.org/#/benddao.eth](https://snapshot.org/#/benddao.eth)
+Bend DAO 治理：[https://snapshot.org/#/benddao.eth](https://snapshot.org/#/benddao.eth)
 
-#### **Earning**
+#### **收益分成**
 
-* To earn ETH income that is collected from NFT-backed loans.
+赚取从 NFT 支持的贷款中收取的 ETH 收入。
