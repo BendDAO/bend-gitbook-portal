@@ -1,11 +1,11 @@
-# Royalties on secondary sales (Creator)
+# 二次销售版税（创作者）
 
-Every time an item is sold on BendDAO, the project creator can take a percentage of the sale as revenue. This means that you can not only earn money from selling your initial set of items to users, but you can continue to earn as the NFT marketplace heats up.
+每次在 BendDAO 上出售物品，项目创建者都可以从销售中抽取一定比例作为收入。这意味着您不仅可以从向用户出售最初的一组项目中赚钱，而且可以随着 NFT 市场的升温继续赚钱。
 
-To set your secondary sale fee, simply go to your collection management and adjust the "Percentage fee" field under the Royalty section. And specify the payout address where you wish to receive the fees.
+要设置您的二次销售费用，只需进入您的藏品管理，调整版税（Royalty）部分下的“费用百分比”（Percentage fee）项目栏。并指定您希望收到费用的支付地址。
 
-Royalties are charged to the seller. When a seller is take part in a NFT marketplace, you can also earn money with a seller fee.
+版税是由卖家收取的。当卖家参加 NFT 市场时，您也可以通过卖家费赚钱。
 
-For example, Creator A gets a collection and sets a 2.5% royalty for that collection. When orders are created, we include those fees into the order = adding 4.5% on top. That means a 2% trading fee for BendDAO, and another 2.5% royalty for the collection creator.
+例如，创造者A 得到一个藏品系列，并为该系列设定了 2.5% 的版税。当订单被创建时，我们将这些费用纳入订单 = 在此基础上增加至 4.5%。这意味着BendDAO 收取 2% 的交易费用，而系列创造者收取 2.5% 的版税。
 
-When the payment address has been specified, royalties will be distributed in realtime once an order is matched successfully.\
+当支付地址被指定后，一旦订单被成功匹配，版税将被实时分配。\
