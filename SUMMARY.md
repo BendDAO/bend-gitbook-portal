@@ -8,7 +8,7 @@
 
 * [安全 FAQ](faq/security-faq.md)
 * [交易市场 FAQ](faq/marketplace-faq.md)
-* [首付 FAQ](faq/down-payment-faq.md)
+* [首付买 FAQ](faq/down-payment-faq.md)
 * [即时流动性挂单 FAQ](faq/equity-cash-out-listing-faq.md)
 * [闪电领取（Flash Claim） FAQ](faq/flash-claim-faq.md)
 * [清算 FAQ](faq/liquidation.md)
