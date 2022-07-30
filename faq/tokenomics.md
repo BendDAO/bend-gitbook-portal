@@ -1,6 +1,6 @@
 # 代币经济 FAQ
 
-## 更多关于 [Bendenomics](../governance/bendenomics.md)的细节。
+## 更多关于 [Bendenomics](../governance/bendenomics.md) 的细节。
 
 ## 代币有什么实用价值？
 
