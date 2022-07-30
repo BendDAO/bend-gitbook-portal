@@ -1,23 +1,21 @@
-# Instant Liquidity Listing (Seller)
+# 即时流动性挂单（卖家）
 
-NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The seller is also a borrower on BendDAO with the Instant Liquidity listing.
+NFT持有人/卖家可以选择在挂单前即时获得高达地板价的 40%。即时流动资金实际上是由即时 NFT 支持的贷款提供的。卖方也是 BendDAO 上的借款人，拥有即时流动性挂单。
 
-In the first version only Listing an NFT for a Fixed Price is supported.
+在首个版本中，只支持 NFT 以固定价格挂单。
 
-![Workflow of Instant Liquidity Listing (ILL)](https://lh3.googleusercontent.com/pnZHqu5SapL\_7JfQwODl-V-WTJMBuuCGgUV6OiH9SHieFXX2UYnz9dPuSXyHNUG5xo\_SII98GgojAoKHffaHKP-jqBwQf9IqNdTvUixRaoKFrqHU6bWSnRT8i3O8YvwdUtejxTbfozw\_CYGgftiLRA)
+![即时流动性挂单（ILL）的流程](https://lh3.googleusercontent.com/pnZHqu5SapL\_7JfQwODl-V-WTJMBuuCGgUV6OiH9SHieFXX2UYnz9dPuSXyHNUG5xo\_SII98GgojAoKHffaHKP-jqBwQf9IqNdTvUixRaoKFrqHU6bWSnRT8i3O8YvwdUtejxTbfozw\_CYGgftiLRA)
 
-## After the deal
+## 交易之后
 
-The buyer will pay off the loan including interests after the deal. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
+买方将在交易后偿还包括利息在内的贷款。扣除债务与利息后的余额将在交易后转给借款人（卖方）。&#x20;
 
-The amount Seller will receive = Total price - debt with interests  &#x20;
+卖方将获得的金额 = 总价 - 含息债务  &#x20;
 
-## Delisting
+## 取消挂单
 
-The seller can delist the listing anytime. But the loan will still be effective which means the accrued interest will grow making the loan health factor decrease, which might result in liquidation.&#x20;
+卖家可以随时取消挂单。但是贷款仍然生效意味着应计利息的增长会使健康系数下降，这可能会导致清算。&#x20;
 
-
-
-[equity-cash-out-listing-faq.md](../faq/equity-cash-out-listing-faq.md "mention")
+[股权-变现-挂单-faq.md](../faq/equity-cash-out-listing-faq.md "mention")
 
 [ ](../faq/equity-cash-out-listing-faq.md)
