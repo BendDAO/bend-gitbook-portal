@@ -1,40 +1,40 @@
-# Down Payment FAQ
+# 首付 FAQ
 
-## How to decide the percentage of the down payment?&#x20;
+## 如何决定首付款的比例？&#x20;
 
-Down Payment = Total price - 40%/30% of the Floor Price
+首付 = 总价格 - 地板价的 40%/30% 
 
-| Collection                                                     | LTV                    | Down Payment |
-| -------------------------------------------------------------- | ---------------------- | ------------ |
-| <p>BAYC<br>CryptoPunks</p>                                     | 40% of the floor price | 60% or more  |
-| <p>MAYC<br>Doodles &#x26; Space Doodles<br>CloneX<br>Azuki</p> | 30% of the floor price | 70% or more  |
+| 系列                                                           | 贷款价值比（LTV）              | 首付 |
+| -------------------------------------------------------------- | -------------------------- | ------------ |
+| <p>BAYC<br>CryptoPunks</p>                                     | 地板价的 40%                 | 60% 或更多  |
+| <p>MAYC<br>Doodles &#x26; Space Doodles<br>CloneX<br>Azuki</p> | 地板价的 30%             | 70% 或更多  |
 
-If the total price of the NFT is much higher than the collection floor price, the percentage of the down payment will increase.
+如果 NFT 的总价远远高于系列地板价，首付款的比例将增加。
 
-## What are the details of **payment installments?**
+## **分期付款**的细节是什么？
 
-**No payment installment.** You take an NFT-backed loan and then become a borrower on BendDAO. You can repay any time you like. There is no fixed time period to pay back the loan. But you do need to keep an eye on the loan health factor to avoid liquidation. As time passes, the accrued interest will grow making the health factor decrease, which might result in more likely to be liquidated.
+**无分期付款。** 您拿到 NFT 支持的贷款，然后成为 BendDAO 的借款人。您可以在任何时候还款。没有固定的时间段来偿还贷款。但您确实需要关注贷款健康系数，以避免清算。随着时间的推移，应计利息将增长，使健康系数下降，这可能导致您的贷款更有可能被清算。
 
 {% content-ref url="liquidation.md" %}
-[liquidation.md](liquidation.md)
+[清算.md](liquidation.md)
 {% endcontent-ref %}
 
-## Which collections are supported with a down payment?
+## 首付买支持什么藏品系列？
 
 BAYC, CryptoPunks, MAYC, Doodles, Space Doodles, CloneX and Azuki
 
-## What will be in my wallet after the down payment?
+## 首付过后我的钱包将会有什么？
 
-The boundNFT will be in your wallet since the original NFT is used as collateral.
+由于原始 NFT 被用作抵押品，boundNFT 将会在您的钱包里。
 
 {% content-ref url="../lending-protocol/boundnft.md" %}
 [boundnft.md](../lending-protocol/boundnft.md)
 {% endcontent-ref %}
 
-## How can I get my mortgaged NFT back?
+## 我怎样才能拿回我抵押的 NFT ？
 
-You will receive the NFT when you pay off the loan.&#x20;
+当您还清贷款时，您将会收到 NFT。&#x20;
 
-## Which marketplace is supported?
+## BendDAO 支持什么交易市场？
 
-BendDAO, OpenSea, Looksrare and X2Y2.
+BendDAO、OpenSea、Looksrare 以及 X2Y2。
