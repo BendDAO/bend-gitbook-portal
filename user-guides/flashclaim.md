@@ -1,6 +1,6 @@
 # 闪电领取（Flash Claim）
 
-闪电领取是建立在 BoundNFT 的 Flash Loan 之上。通过 Flash Claim，您可以使用您的 NFT 来领取第三方的空投，而不需要偿还给贷款池。
+闪电领取是建立在 BoundNFT 的闪电贷（Flash Loan）之上。通过闪电领取，您可以使用您的 NFT 来领取第三方的空投，而不需要偿还给贷款池。
 
 对于知名空投项目，Bend 将正式进行适配。用户不需要开发合约代码和了解基础的技术细节。他们只需要在网页上选择空投项目和自己的 NFT 就可以快速完成领取。
 
@@ -34,4 +34,4 @@ Bend 支持两类空投项目，第一类是用户主动发起交易领取空投
 
 ## 闪电领取代码 Demo
 
-对于高级用户，您可以写一个合约来实现领取，请在 [Github](https://github.com/BendDAO/bend-flashclaim-demo) 查看演示。
+对于高级用户，您可以写一个合约来实现领取，请在 [Github](https://github.com/BendDAO/bend-flashclaim-demo) 中查看演示。
