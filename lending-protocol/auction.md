@@ -1,31 +1,31 @@
-# Auction
+# 拍卖
 
-The NFT auction design ensures Bend remains both decentralized and sustainable. It is likely the best method to find the real price of NFT assets.
+NFT 拍卖的设计确保 Bend 保持去中心化和可持续。这可能是发掘 NFT 资产的真实价格的最佳方法。
 
-## The Design of NFT Auction
+## NFT 拍卖的设计
 
-An NFT auction will be initiated when the health factor is below 1. More specifically, if the collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+当健康系数低于 1 时，系统就会启动 NFT 拍卖。更具体地说，如果抵押品的清算阈值为 90%，那么当债务价值为抵押品价值的 90% 时，贷款将被清算。每种抵押品有专门规定的清算阈值，并以百分点表示。
 
-* An open-outcry ascending dynamic auction system
-* The system opens the auction with a starting price. The starting price will be 1) more than 95% of the floor price; and 2) bigger than the total accumulated debt.
-* If the borrowers repay the loan in 48 hours, he/she will pay a fine to the first bidder.
-* The fine will take the larger of 5% debt or 0.2 ETH. Fine = maximum (5% of the debt, 0.2 ETH)
+* 一个公开叫价的上升式动态拍卖系统
+* 系统以一个起始价格开启拍卖。起拍价将是：1）超过地板价的 95%；2）大于累计债务总额。
+* 如果借款人在 48 小时内偿还贷款，他/她将向第一个出价人支付罚金。
+* 罚款将采取债务的 5% 或 0.2 ETH 中的最大值。罚金 = maximum(债务的 5%，0.2 ETH)
 
-### Bidder
+### 出价人
 
-* Anyone can take part in an auction.
-* The bid must be:1) no less than the starting price; and 2) higher than the previous bid.
-* The first bidder will receive at least 0.2 ETH paid by the borrower as the penalty if the borrower repays within 48 hours.&#x20;
-* The highest bidder will get the collateral if the borrower doesn't repay the loan.
-* The bidder needs to deposit ETH to bid.
-* The deposited ETH will automatically be refunded when his/her bid is not the highest bid.
+* 任何人都可以参与拍卖。
+* 出价必须是：1）不低于起价；2）高于前次出价。
+* 如果借款人在 48 小时内还款，第一个出价人将获得由借款人支付的至少 0.2 ETH 作为罚金。&#x20；
+* 如果借款人不偿还贷款，出价最高的人将得到抵押品。
+* 出价人需要存入 ETH 来竞价。
+* 当他/她的出价不是最高价时，存入的 ETH 将自动被退回。
 
-### Borrower
+### 借款人
 
-* The borrower will have a [48-hour liquidation protection](../highlights/48h-liquidation-protection.md) period to repay the loan.
-* If the borrower repays within 48 hours, he/she will pay a fine of a maximum(5% of the debt, 0.2 ETH) to the first bidder.
-* If the collateral is sold in auction for greater than the loan amount, the excess will belong to the borrower.
+* 借款人将有 [48-小时 清算保护](../highlights/48h-liquidation-protection.md)时间来偿还贷款。
+* 如果借款人在 48 小时内还款，他/她将支付一笔罚金（债务的 5% 和 0.2 ETH 中的最大值）给最高出价人。
+* 如果抵押品在拍卖中的卖价高于贷款金额，那么超出部分将属于借款人。
 
 {% hint style="info" %}
-[Liquidation FAQ](../faq/liquidation.md)
+[清算 FAQ](../faq/liquidation.md)
 {% endhint %}
