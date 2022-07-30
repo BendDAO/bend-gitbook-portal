@@ -1,9 +1,9 @@
-# Deposit ETH (Lender)
+# 存入 ETH（贷款人）
 
-## Deposit and withdraw ETH anytime&#x20;
+## 随时存入并取出 ETH&#x20;
 
-1. Click “Deposit ETH”&#x20;
-2. Approve ETH&#x20;
-3. Enter the ETH amount and Deposit
+1. 点击 “Deposit ETH” （存入 ETH）&#x20;
+2. 授权 ETH&#x20;
+3. 输入 ETH 金额并存入
 
 ![](<../.gitbook/assets/image (11).png>)
