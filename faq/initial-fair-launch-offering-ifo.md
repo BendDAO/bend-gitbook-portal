@@ -15,8 +15,6 @@ A: 首次公平发售（IFO）是 BEND 代币[公平启动](../highlights/fair-l
 
 **66%** 募集的 ETH 将会用于 Bend 的 ETH 借贷池，**34%** 的 ETH 将用于 Bend 的开发运营。
 
-**66%** of the raised ETH will be used for the ETH lending pool on Bend, and **34%** of the ETH will be used for the Bend dev operation.
-
 规则如下：
 * 1,000,000,000（10%）的 BEND 代币将被分配给首次公平发售（IFO）；
 * 向公众开放；
