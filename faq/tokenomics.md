@@ -1,4 +1,4 @@
-# 代币经济FAQ
+# 代币经济 FAQ
 
 ## 更多关于 [Bendenomics](../governance/bendenomics.md)的细节。
 
