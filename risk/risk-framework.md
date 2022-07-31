@@ -1,9 +1,9 @@
-# Risk Framework
+# 风险框架
 
-With billions of locked assets, Decentralized Finance (DeFi) and Non-Fungible Tokens (NFTs) have boomed in recent years. Bend Protocol launched on the Rinkeby in January 2022, now among the top NFT lending markets for depositors and borrowers.&#x20;
+凭借数十亿的锁定资产，去中心化金融（DeFi）和非同质化代币（NFT）在最近几年蓬勃发展。2022 年 1 月，Bend 协议在测试网（Rinkeby）上推出，现在是储户和借款人的顶级 NFT 借贷市场之一。&#x20;
 
-The industry has been forming various standards to manage the emerging risks related to the hyper-connected ecosystem. Bend holds security at its core with audits by [CertiK](https://www.certik.com/projects/bend-dao) as detailed in [Security & Audits](security-and-audits.md).&#x20;
+该行业一直在形成各种标准，以管理与超级连接的生态系统相关的新兴风险。Bend 以安全为核心，由 [CertiK](https://www.certik.com/projects/bend-dao) 进行审计，详情见 [安全和审计](security-and-audits.md).&#x20;
 
-The following documentation analyses the fundamental risks of the protocol and describes the processes in place to mitigate them. A Bend Market Risk Assessment has been produced by the quantitative modeling team of Bend. Bend and the Safety Module have been stress tested via agent-based simulation. The simulations show that the model can remain solvent under extreme market conditions, exhibiting proper risk management. As a result, Bend provided some parameter suggestions to reduce insolvency risk further.
+下面的文件分析了协议的基本风险，并描述了为减轻这些风险而制定的程序。Bend 市场风险评估已经由 Bend 的量化建模团队制作完成。Bend 和其安全模块已经通过基于代理的模拟进行了压力测试。模拟结果显示，该模型在极端的市场条件下可以保持偿付能力，表现出适当的风险管理。因此，Bend 提供了一些参数建议，以进一步降低破产风险。
 
-If you have any questions, join us on Discord; our team and community members look forward to helping you understand Bend's risks and risk management procedures.
+如果您有任何问题，请加入我们的 Discord；我们的团队和社区成员期待着帮助您了解 Bend 的风险和风险管理程序。
