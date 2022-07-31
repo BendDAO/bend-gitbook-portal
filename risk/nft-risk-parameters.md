@@ -1,22 +1,22 @@
-# NFT Risk Parameters
+# NFT 风险参数
 
-The DeFi ecosystem is built by DeFi projects. The risk assessment considers market and smart contract risks for the NFTs selected for Bend protocol.
+DeFi 生态系统是由 DeFi 项目建立的。风险评估考虑了为 Bend 协议选择的 NFT 的市场和智能合约风险。
 
-The risk framework aims to analyse the inherent risks of the NFT assets in the Bend Protocol and describes the processes in place to mitigate them.
+该风险框架旨在分析 Bend 协议中的 NFT 资产的固有风险，并描述了为减轻这些风险而制定的程序。
 
-With Bend, NFT holders will now be able to actively participate in the DeFi ecosystem. However, it also exposes the protocol to financial contagion. NFT collateral used in the protocol affects the protocol at its core, in particular NFT projects accepted as collateral which safeguard the solvency of the protocol. To ensure a currency holds a reasonable amount of risk, we investigate five different parameters.
+有了 Bend，NFT 持有人现在将能够积极参与 DeFi 生态系统。然而，它也使协议暴露在金融系统的传导中。协议中使用的 NFT 抵押品影响了协议的核心，特别是作为抵押品被接受的 NFT 项目，它保障了协议的偿付能力。为了确保货币持有合理的风险量，我们调查了五个不同的参数。
 
-Refer to the NFT Performance Map designed by nonfungible.com, five key metrics will be involved.
+参照 nonfungible.com 设计的 NFT 表现图，风险参数将涉及五个关键指标。
 
-* Trade Volume (Number of sales)
-* Asset value (Average asset sales value)
-* Interactions (Number of dapp transactions, including bids and other interactions)
-* Community (Number of unique wallets interacting at the dapp level)
-* Retention (Percentage of how many days a wallet is active in the time period, for example a retention rate of 14.3% indicates that users are only active one day of the week)
+* 交易量（交易的数量）
+* 资产价值（平均资产交易价值）
+* 交互（dapp 交易数量，包括竞价和其它交互）
+* 社群（在 dapp 上交互的独立钱包的数量）
+* 留存（一个钱包在时间段内活跃的天数的百分比，例如，14.3% 的保留率表明用户在一周内只有一天是活跃的） 
 
-The table below shows a summary of the latest values.
+下列图表显示了最新数值的摘要。
 
-| Name           | Symbol      | Collateral Ratio | Liquidation Threshold | Liquidation Bonus | Redeem Duration | Auction Duration | Redeem Fine |
+| 名称           | 代号      | 抵押率 | 清算阈值 | 清算奖励 | 赎回期限 | 拍卖时长 | 赎回罚金 |
 | -------------- | ----------- | ---------------- | --------------------- | ----------------- | --------------- | ---------------- | ----------- |
 | Bored Ape YC   | BAYC        | 40%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
 | CryptoPunks    | CryptoPunks | 40%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
