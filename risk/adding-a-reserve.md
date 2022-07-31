@@ -1,9 +1,10 @@
-# - Adding a Reserve
+# - 增加一个储备资产
 
-Bend enables users to deposit and borrow digital currencies through the pooling of funds. Depositors receive protocol-issued bTokens, which gather deposits and the interest generated. Each loan is secured by NFT collateral acting as a risk mitigation tool against default. As the means of exchange, currencies are central in Bend’s non-custodial lending operations.Given the specificities of Bend’s evaluation model, the selection of currencies has been performed with the following constraints:
+Bend 使用户能够通过汇集资金来存入和借出数字货币。存款人收到协议发行的 bTokens，它收集存款和产生的利息。每笔贷款都有 NFT 抵押品作为担保，作为防止违约的风险缓解工具。作为交换手段，货币是 Bend 非托管贷款业务的核心。鉴于 Bend 评估模型的特殊性，货币的选择有以下限制。
 
-1. Each additional currency will slightly increase the gas cost of the borrow and repay actions permanently. The currency must be included in the smart contract, adding complexity and thus costs.
-2. A centralized currency accepted as collateral exposes the protocol to its centralization risk. The single point of failure risks of underlying currencies flow into Bend Protocol.
-3. Currencies only enabled for depositing and borrowing (not usable as collaterals) present lower risk for the protocol.
 
-When adding a currency to the protocol, significant controls are required to ensure the currency will add more value than risk. Only currencies with a worthy product and significant community are considered. The currency risk assessment explores whether the currencies represent a reasonable amount of risk for the protocol, calibrating the currencies parameters to mitigate those risks.
+1. 每一个额外的货币将永久略微增加借贷和偿还行为的 gas 成本（手续费）。货币必须包含在智能合约中，增加了复杂性，从而增加了成本。
+2. 一个被接受为抵押品的中心化代币使协议面临其中心化的风险。基础货币的单点故障风险流入 Bend 协议。
+3. 货币仅能用于存款和借款（不能作为抵押品）为协议带来较低的风险。
+
+当添加一个货币到协议时，需要进行重要的管控，以确保该货币将增加更多的价值而不是风险。只有那些有有价值的产品和知名的社区的货币才被考虑。货币风险评估探讨了这些货币是否代表了协议的合理风险量，调校货币参数以减轻这些风险。
