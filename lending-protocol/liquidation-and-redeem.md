@@ -1,26 +1,26 @@
-# Liquidation and Redeem
+# 清算和赎回
 
-The Bend Protocol utilizes a scored 'health factor' for loans. The formula is outlined below.
+Bend 协议利用“健康系数”评分进行贷款。该公式概述如下。
 
-When the 'health factor' of an NFT loan is below 1, anyone can trigger a liquidation in terms of an [**NFT Auction**](auction.md). The liquidator is called Bidder on Bend. The bidder will pay back all of the debt and receive the collateralized NFT in return.
+当 NFT 贷款的“健康系数”低于 1 时，任何人都可以以 [**NFT拍卖**](auction.md) 的方式触发清算。清算人在 Bend 上被称为 Bidder（出价人）。出价人将偿还所有的债务，并获得抵押的 NFT 作为回报。
 
 ![](<../.gitbook/assets/image (3).png>)
 
-Please read the[ auction](auction.md) for liquidation details.
+请阅读[ 拍卖](auction.md) 中的清算细节。
 
-## Meaning of Health Factor
+## 健康系数的含义
 
-The definition for Health Factor: (Floor Price \* Liquidation Threshold) / Debt with Interests.
+健康系数的定义：(地板价 \* 清算阈值) / 含息债务。
 
-The risk level of the health factor:
+健康系数（HF）的风险水平：
 
-* 0.0 < HF < 1.0: <mark style="color:red;background-color:red;">Dangerous</mark>, borrower maybe lose collateral if the debt is not repaid timely.
-* 1.0 <= HF <= 1.5: <mark style="color:orange;background-color:red;">Risky</mark>, borrower should repay partly the debt timely.
-* 1.5 < HF < 2.0: <mark style="color:yellow;background-color:yellow;">Careful</mark>, borrower should pay attention and monitor the debt timely.
-* 2.0 <= HF: <mark style="color:green;background-color:green;">Safe</mark>, borrower no need to worry and keep the debt last.
+* 0.0 < HF < 1.0: <mark style="color:red;background-color:red;">危险</mark>，如果不及时偿还债务，借款人可能会失去抵押品。
+* 1.0 <= HF <= 1.5: <mark style="color:orange;background-color:red;">有风险</mark>，借款人应及时偿还部分债务。
+* 1.5 < HF < 2.0: <mark style="color:yellow;background-color:yellow;">请注意</mark>，借款人应注意并及时监控债务情况。
+* 2.0 <= HF: <mark style="color:green;background-color:green;">安全</mark>，借款人不需要担心，可以保持债务。
 
-Liquidation will be triggered if the NFT loan's health factor is below 1.
+如果 NFT 贷款的健康系数低于 1，将会触发清算。
 
-## NFT Loan State
+## NFT 贷款状态
 
 ![](<../.gitbook/assets/NFT Loan State 0320.jpg>)

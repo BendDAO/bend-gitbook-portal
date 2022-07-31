@@ -1,29 +1,29 @@
-# Governance Mechanism
+# 治理机制
 
-The Bend economy is driven by a governance forum (Snapshot Space) and uses BEND to approve Bend Improvement Proposals (BIPs). This process is designed to ensure that proposals are extensively discussed before being pushed on-chain. All BENDs in the market can be used to vote on BIPs or delegated to Bend protocol politicians to vote on your behalf.
+Bend 经济由一个治理论坛（Snapshot Space）驱动，并使用 BEND 来批准 Bend 改进提案（BIPs）。这个过程旨在确保提案在被推上链之前得到广泛的讨论。市场上的所有 BEND 都可以用来对 BIP 进行投票，或者委托 Bend 协议的政治家代表你投票。
 
-## Governance Process
+## 治理过程
 
-1. Community Created BIP.
-2. The community evaluates the BIP, collects feedback, and refines the BIP.
-3. The community signals the implementation of the proposal.
-4. The founding team implements the proposal and submits it to governance.
-5. Governance evaluates the implementation and approves or rejects proposals.
+1. 社区创建 BIP。
+2. 社区对 BIP 进行评估，收集反馈意见，并对BIP进行完善。
+3. 社区发出实施该提案的信号。
+5. 创始团队实施提案并提交给管理层。
+6. 治理部门对实施情况进行评估，并批准或拒绝提案。
 
-## What is the voting threshold?
+## 什么是投票阈值？
 
-The threshold is based on the quorum and support of votes for/against a BIP.
+阈值是基于支持/反对一项 BIP 的规定（quorum）票数和支持（support）票数的数值。
 
-The quorum means the total "<mark style="color:blue;">**yes**</mark>**"** and "<mark style="color:blue;">**no**</mark>**"** votes of a BIP.
+规定票数的意思是全部 BIP 的 "<mark style="color:blue;">**同意**</mark>**"** 和 "<mark style="color:blue;">**不同意**</mark>**"** 的票数。
 
-The support means the total "<mark style="color:blue;">**yes**</mark>**"** votes of a BIP.
+支持票数的意思是全部 BIP 的 "<mark style="color:blue;">**同意**</mark>**"** 的票数。
 
-For example:
+例如：
 
-1\. If the quorum is 30% and the support is 60%, the "<mark style="color:blue;">**yes**</mark>" is 18%, and "<mark style="color:blue;">**no**</mark>" is 7% of the total votes, the BIP will not be passed, because 18%+7% = 25% < 30%.
+1\. 如果规定票数为 30%，支持票数为 60%，"<mark style="color:blue;">**同意**</mark>" 票为 18%，以及 "<mark style="color:blue;">**不同意**</mark>" 为总票数的 7%，BIP 将不会通过，因为 18% + 7% = 25% < 30%。
 
-2\. If the quorum is 30% and the support is 60%, the "<mark style="color:blue;">**yes**</mark>" is 23% and "<mark style="color:blue;">**no**</mark>" is 8% of the total votes, the BIP will be passed, because 23%+8% = 31% > 30%, and 23% / (23% + 8%) = 74% > 60%.
+2\. 如果规定票数为 30%，支持票数为 60%，"<mark style="color:blue;">**同意**</mark>" 票为 23%， 以及 "<mark style="color:blue;">**不同意**</mark>" 为总票数的 8%，BIP 将会通过，因为 23% + 8% = 31% > 30%，以及 23% / (23% + 8%) = 74% > 60%。
 
-## Want to participate?
+## 想要参加？
 
-We invite those eager to participate in discussions of any of the concepts above to join our [governance forum](https://snapshot.org/#/benddao.eth) or [Discord](https://discord.gg/H8b6Ynjefx), as readers like you will shape the Bend protocol of tomorrow.
+我们邀请那些急切参与讨论上述任何概念的人加入我们的[治理论坛](https://snapshot.org/#/benddao.eth)或 [Discord](https://discord.gg/H8b6Ynjefx)，因为像您这样的读者将塑造明天的 Bend 协议。

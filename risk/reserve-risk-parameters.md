@@ -1,13 +1,13 @@
-# Reserve Risk Parameters
+# 储备金风险参数
 
-The composability of the DeFi ecosystem implies risks from an individual component flow into all dependent systems. Currencies are at the heart of the Bend protocol as they enable operations and hold the assets and liabilities of the protocol.
+DeFi 生态系统的可组合性意味着来自单个组件的风险会流入所有从属系统。货币是 Bend 协议的核心，因为它们能够实现操作并持有协议的资产和负债。
 
-This documentation, developed by the Risk Management Team, focuses on the risk assessment for currencies supported by Bend. The risk assessment considers market, counter-party and smart contract risks for the currencies selected for Bend protocol, aiming to contribute to higher risk standards within DeFi.
+本文件由风险管理团队开发，重点是对 Bend 支持的货币进行风险评估。该风险评估考虑了为 Bend 协议选择的货币的市场、对手方和智能合约风险，旨在为 DeFi 内更高的风险标准作出贡献。
 
-Each Reserve asset in the Bend protocol has specific values related to their risk, which influences how they are supplied and borrowed. The calibration of the parameters for Bend is more aggressive as the Bend ecosystem is mature with some educated users and liquidators.
+Bend 协议中的每个储备资产都有与其风险相关的特定值，这影响了它们的供应和借出方式。由于 Bend 生态系统已经成熟，有一些受过教育的用户和清算者，因此 Bend 的参数调校更加激进。
 
-The table below shows a summary of the latest values.
+下表显示了最新数值的摘要。
 
-| Name     | Symbol | Reserve Factor |
+| 名称     | 代号 | 储备系数 |
 | -------- | ------ | -------------- |
-| Ethereum | ETH    | 30%            |
+| 以太坊 | ETH    | 30%            |

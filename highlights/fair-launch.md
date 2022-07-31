@@ -1,54 +1,54 @@
 ---
-description: Driven by community
+介绍：由社区驱动
 ---
 
-# Fair Launch
+# 公平启动
 
-## Governance
+## 治理
 
-Holders of BEND can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+BEND 的持有人可以参与投票，决定哪些 NFT 作为抵押品，Bend 协议可以支持以借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，所有 NFT 持有者都会受益。
 
-CryptoPunks and Bored Ape YC are the recognized blue chips that are supported as collaterals when Bend officially launches.
+在 Bend 官方启动时，CryptoPunks 和 Bored Ape YC 被认作蓝筹并被支持作为抵押物。
 
-MAYC, Azuki, CloneX, and Doodles are now supported as collateral via Community Voting. Details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+MAYC、Azuki、CloneX、和 Doodles 现已通过社区投票，被支持作为抵押品。细节见：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-After BEND’s fair launch, BEND holders can deposit BEND to get veBEND which stands for voting escrow BEND.
+在 BEND 公平启动后，BEND 持有人可以将 BEND 存入，以获得 veBEND，即 BEND 托管选票。
 
-## Initial Fair-launch Offering
+## 首次公平启动发售
 
-All the funds obtained through the Initial Fair-launch Offering will be used for the BEND team's research and development, market operations, advertising and other activities.
+通过最初的公平启动发售获得的所有资金将用于 BEND 团队的研发、市场运营、营销和其他活动。
 
-### What the ETH raised will be used for?
+### 募集的 ETH 将用于什么？
 
-66% of the ETH will be used for the bend protocol lending pool, and 34% of the ETH will be used for the bend dev operation.
+66% 的 ETH 将用于 bend 协议借贷池，34% 的 ETH 将用于 bend 开发运营。
 
-### **The rules are as follows:**
+### **规则如下：**
 
-* 1,000,000,000 (10%) BEND tokens will be allocated to the Initial Fair-Launch Offering;
-* Open for the public;
-* 1 ETH = 333,333 BEND;
-* After the IFO, all unsold BEND will go towards DAO Treasury.
+* 1,000,000,000 (10%) BEND 代币将分配到首次公平启动发售；
+* 向公众开放；
+* 1 ETH = 333,333 BEND；
+* IFO 之后，所有未售出的 BEND 将被纳入 DAO 金库。
 
-## Release Schedule
+## 释放日程
 
-### [Airdrop](../resources/airdrop.md)
+### [空投](../resources/airdrop.md)
 
-### IFO (F for Fair Launch)
+### IFO（F 代表公平启动）
 
-### the Bend DAO Treasury.
+### Bend DAO 金库
 
-### Bluechip NFT Community Voting
+### 蓝筹 NFT 社区投票
 
-NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price support and long-term community development.
+有即时 NFT 贷款支持的 NFT 项目将为项目创造一个正向的流动循环，这将带来更强的价格支撑和长期社区发展。
 
-CryptoPunks and Bored Ape YC are the recognized blue chips which are supported as collaterals when Bend officially launches. There will be 4 more NFTs selected as the first batch of NFT collaterals with governance. Those are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+在 Bend 官方启动时，CryptoPunks 和 Bored Ape YC 被认作蓝筹并被支持作为抵押物。 还将有 4 个 NFT 被选为第一批有治理权的 nft。它们是**Mutant Ape YC、Cool Cats、Doodles、CLONE X** 以及 **Azuki**。
 
-MAYC, Azuki, CloneX, and Doodles are now supported as collateral via Community Voting. Details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
+MAYC、Azuki、CloneX、和 Doodles 现已通过社区投票，被支持作为抵押品。细节见：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-After BEND’s fair launch, BEND holders can deposit BEND to get veBEND which stands for voting escrow BEND. More details will be released soon.
+在 BEND 的公平启动之后，BEND 持有人可以将 BEND 存入，以获得代表 BEND 托管选票的 veBEND。更多细节将很快发布。
 
-### Bend official mainnet launch
+### Bend 官方主网启动
 
-### Multi-sig Election
+### 多签选举（Muti-sig Election）
 
-Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of&#x20;
+多签选举是为了组建委员会来监管交易，并拒绝那些不应该代表 Bend DAO 金库所执行的交易。&#x20;

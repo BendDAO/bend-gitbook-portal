@@ -1,98 +1,96 @@
-# Liquidation FAQ
+# 清算 FAQ
 
-## An example of liquidation
+## 清算示例
 
-Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly on BendDAO.
+假设当您在 Bend DAO 中抵押 BAYC 即时借款 40 ETH 时，BAYC 地板价是 100 ETH。
 
-If the floor price drops to 44 ETH, the 48h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
+如果地板价跌至 44 ETH，由于您的 NFT 支持的借贷的健康系数低于 1，48 小时清算保护将被触发。
 
-Health Factor = (44 \* 90%) / (40 + interests) <1&#x20;
+健康系数 = (44 \* 90%) / (40 + 利息) < 1&#x20;
 
-Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
+健康系数 = (地板价 \* 清算阈值) / 含息债务。
 
-## What is the health factor?
+## 什么是健康系数？
 
-The health factor is the numeric representation of the safety of your deposited NFT against the borrowed ETH and its underlying value. The higher the value is, the safer the state of your funds are against a liquidation scenario.
+健康系数是您存入的 NFT 对借出的 ETH 及其基础价值的安全性的数字表示。该值越高，说明您的资金状况在清算情况下越安全。
 
-If the health factor reaches 1, the liquidation of your deposits can be triggered. A Health Factor below 1 may get liquidated. For a HF=2, the collateral value vs borrow can reduce by 1 out of 2: 50%.
+如果健康系数达到 1，将触发对您抵押品的清算。健康系数低于 1 的抵押品将会被清算。对于健康系数 = 2，抵押品价值相比于借款会减少二分之一———即 50%。
 
-The health factor depends on the liquidation threshold of your collateral against the value of your borrowed funds.
+健康系数取决于您的抵押品相比于您借出资金的价值的清算阈值。
 
-You can find all of the collateral parameters in the [risk parameters](../risk/nft-risk-parameters.md) section.
+您可以在[风险参数](../risk/nft-risk-parameters.md)部分找到所有抵押品的参数。
 
-## What happens when my health factor is reduced?
+## 当我的健康系数降低时会发生什么？
 
-Depending on the value fluctuation of your deposits, the health factor will increase or decrease. If your health factor increases, it will improve your borrow position by making the liquidation threshold more unlikely to be reached. In the case that the value of your collateralized assets against the borrowed assets decreases instead, the health factor is also reduced, causing the risk of liquidation to increase.
+取决于您抵押资产价值的波动，健康系数将上升或下降。如果您的健康系数上升，您的借款状况将会改善，使清算阈值变得更加不可能达到。若您的抵押资产相较借出资产的价值下降，健康系数将下降，导致清算的风险增加。
 
-## **How does Bend calculate the value of the collateralized NFT?**
+## **Bend 是如何计算抵押的 NFT 的价值的？**
 
-NFT floor prices are currently used as the price feeds for the collateralized NFTs. The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend. More details: [https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
+当前 NFT 地板价被用作抵押 NFT 的价格推送。原始价格数据来自最知名的 NFT 市场——OpenSea。Bend 上的抵押品价值以以太坊计价，而非 USDT。更多细节，见：[https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
 
-## **Any plan to upgrade the NFT price feeds design?**
+## **有无计划升级 NFT 的价格推送设计？**
 
-Since there is no sophisticated NFT price feed solution in the market now, using floor prices may be the safest choice. Bend will consider involving a new NFT Oracle when a better option arises.
+由于现在市场上没有成熟的 NFT 价格推送解决方案，使用地板价可能是最安全的选择。当出现更好的选择时，Bend 会考虑使用新的 NFT 预言机。
 
-## **Why does the market liquidation crisis NOT happen in Bend?**
+## **为什么 Bend 上面不会发生市场清算危机？**
 
-48h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
+48 小时的清算保护和 NFT 拍卖机制的存在意味着 NFT 不会被立即清算。同时，清算人的出价必须等同于 OpenSea 的地板价。
 
-More details of [48h Liquidation Protection](../highlights/48h-liquidation-protection.md).
+更多关于[ 48h 清算保护](../highlights/48h-liquidation-protection.md) 的细节。
 
-## **What will happen if liquidation occurs?**
+## **当清算发生时会怎么样？**
 
-When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) **** and the 48h liquidation protection**.**&#x20;
+当一个 NFT 贷款的“健康系数”低于 1 时，竞价者可以触发一个基于 [**NFT 拍卖**](../lending-protocol/auction.md)**和 48 小时清算保护** 的拍卖。&#x20;
 
-The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.
+借款人（持有抵押的 NFT 的用户）将能够在 48 小时的时间窗口内偿还贷款。
 
-## **What's the liquidation threshold on Bend?**
+## **Bend 上的清算阈值是什么？**
 
-The liquidation threshold is the maximum loan to value (LTV) which means debt plus interest to collateral value. If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+清算阈值是最大的贷款价值比（LTV），即债务加利息与抵押品价值之比。如果抵押品的清算阈值为 90%，当债务价值为抵押品价值的 90% 时，贷款将被清算。每种抵押品有专门规定的清算阈值，并以百分点表示。
 
-## **Will my loan be liquidated if the price of Ether drops?**
+## **如果以太坊的价格下跌，我的贷款是否会被清算？**
 
-All NFTs are denominated in Ether instead of USDT on Bend. The price of Ether and the price of NFT are not necessarily related.
+所有 NFT 在 Bend 上都以以太坊计价而非 USDT。以太坊价格和 NFT 的价格没有必然联系。
 
-## **Does the borrower need to keep paying interest while the 48-hour liquidation protection mechanism is active?**
+## **在 48 小时清算保护机制生效期间，借款人是否需要继续支付利息？**
 
-Yes. Because the NFT-backed loan is still active during the 48-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty of a maximum(5% of the debt, 0.2 ETH) to the first bidder, even after NFT floor prices recover to the normal price.
+是的。因为在 48 小时的清算保护期间内，NFT 支持的贷款仍然生效。为了安全和公平起见，借款人需要向首位清算人支付罚金（债务的 5% 和 0.2 ETH 中的最大值），即使在 NFT 地板价恢复到正常价格之后。
 
-We believe that this will not happen. The liquidation mechanism is designed with a comprehensive incentive mechanism, such as the discount purchase of NFT, redeeming fines, etc., and the liquidator participating in the auction can get a generous arbitrage.
+我们相信这不会发生。清算机制的设计包含了完善的激励机制，如折扣购买 NFT、赎回罚金等，参与拍卖的清算人可以获得丰厚的套利回报。
 
-## What if the floor price drops and the auction bid can’t cover it?
+## 如果地板价下跌，拍卖出价无法覆盖怎么办？
 
-It will not happen, since the bid must be:
+这不会发生，因为出价必须是：
+1. 超过地板价的 95%。
+2. 大于累计债务总。
+3. 高于之前的出价 + 1% 的债务。
 
-1. more than 95% of the floor price.
-2. bigger than the total accumulated debt.
-3. higher than the previous bid plus 1% debt.
+## 如果地板价下跌，没有清算人参与拍卖会发生什么？
 
-## What will happen if the floor price drops and there is no liquidator involved in the auction?
+在这种情况下，平台只有暂时的浮动损失，没有实际损失。要么是借款人在未来某个时间偿还债务，要么在市场价格恢复后，出现一些清算人参与拍卖债务。
 
-In this case, the platform only has a temporary floating loss and no actual losses. Either the borrower will repay the debt at some point in the future, or after the market price recovers, some liquidators emerge to take part in auctioning off the debt.
+## 如果地板价下跌至 0，会发生什么？
 
-## What will happen if the floor price drops to 0?
+蓝筹 NFT 是快速增长的资产，比 ETH 升值更快，而且整个市场还处于早期。
 
-Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
+蓝筹 NFT 的市场共识的建立需要长期的积累，不会在短时间内丢失。
 
-The establishment of market consensus for blue-chip NFTs requires a long period of accumulation, and it will not be lost in a short period of time.
+BendDAO 只会上架已被市场认可的高质量蓝筹 NFT，而且它们至少经历了多个周期的涨跌。
 
-BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
+BendDAO 正持续监测蓝筹 NFT 的市场指标，并通过社区治理及时调整风险参数，如抵押率以及下架 NFT。
 
-BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
+## 拍卖是否有抽成？
 
-## Any royalty for the auction?
+无。BendDAO 上的拍卖没有平台抽成。
 
-No. There is no royalty for the auction on BendDAO.
+## 如果我是最高出价人，我如何获得 NFT？
 
-## If I'm the highest bidder, how can I get the NFT?
+拍卖结束后，拍卖页面上会有一个最高出价人的 "Liquidate"（清算）按钮。在您点击该按钮后，清算的 NFT 将被转移到您的钱包里。
 
-There will be a "Liquidate" button on the auction page for the highest bidder after the auction. The liquidated NFT will be transferred to your wallet after you click the button.
+## 如果我使用了批量借款，我将创建多少笔贷款？
 
-## If I use batch borrow, how many loans will be created?
+一个 NFT 一笔贷款。每笔贷款都用自己的健康系数。
 
-One NFT one loan. Each loan has its own health factor.
+## 如果我的出价不是最高的，我是否需要领取我的出价金额？
 
-## If my bid is not the highest one, do I need to claim my bid?
-
-No. Your bid will automatically be refunded to your wallet in WETH.
-
+不。您的出价金额将会以 WETH 的形式被自动退回到您的钱包中。

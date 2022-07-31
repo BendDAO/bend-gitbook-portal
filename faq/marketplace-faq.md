@@ -1,35 +1,35 @@
-# Exchange FAQ
+# 交易市场 FAQ
 
-## What's the Difference Between WETH and ETH?
+## WETH 和 ETH 的区别是什么？
 
-Ether, more commonly known as ETH, is the native currency of the Ethereum blockchain. ETH is used for things such as paying for the transaction fees on Ethereum to incentivise miners.
+以太币，通常被称为 ETH，是以太坊区块链的原始货币。ETH 用于支付以太坊的交易费等，以激励矿工。
 
-WETH is Wrapped Ether. WETH is an ERC-20 compatible version of ETH. 1 ETH will always be equivalent to 1 WETH. ETH on its own cannot be pre-approved (no approval) for bidding on items. That's why it needs to be wrapped.
+WETH 是封装的以太币。WETH 是 ERC-20 兼容版本的 ETH。1 个 ETH 将永远相当于 1 个 WETH。ETH 本身不能被预先授权（没有授权）于物品的竞价。这就是为什么它需要被封装的原因。
 
-Once ETH is wrapped into WETH, it can be used for advanced interactions on decentralized applications like BendDAO lending and exchange.
+一旦 ETH 被封装成 WETH，它就可以用于 BendDAO 借贷和交易等去中心化应用的高级应用交互。
 
-## What currencies are supported on BendDAO?
+## BendDAO 上面支持什么货币？
 
-BendDAO supports both ETH and WETH. Some features are quite complex and require WETH to be able to make the interaction.
+BendDAO 同时支持 ETH 和 WETH。有些相当复杂的功能需要 WETH 才能进行交互。
 
-**You can use ETH on the following features:**
+**您可以在以下功能中使用 ETH：**
 
-Buying an NFT for a fixed price.
+以固定价格购买 NFT。
 
-**You can use WETH on the following features:**
+**您可以在以下功能中使用 WETH：**
 
-Buying an NFT for a fixed price.
+以固定价格购买 NFT。
 
-Making an offer on an NFT.
+对一个NFT提出报价。
 
-## What are the fees on BendDAO?
+## BendDAO 上面的费用是什么？
 
-Trading fee: 2% of the sale price;
+交易费用：成交价的 2%；
 
-Royalty fee: 0\~10% of the sale price, paid to collection creator;
+版税费用：成交价的 0\~10% 支付给系列创作者；
 
-Flash loan fee: 0.09% of the borrowed debt, paid to DeFi protocol, etc. AAVE.
+闪电贷费用：借款债务的 0.09%，支付给 DeFi 协议等。AAVE。 
 
-## Is there any real-life analogy?&#x20;
+## 是否有任何现实生活中的类比？&#x20;
 
-The housing market can be a good real-world analogy to this leveraged bluechip NFT trading platform. You can buy a house with a down payment and pay interest on the loan. You also can sell the house even if your loan is not paid off.
+住房市场可以成为这种杠杆式蓝筹 NFT 交易平台的一个很好的现实世界的类比。您可以用首付买房，并支付贷款利息。即使您的贷款没有还清，您也可以出售房子。

@@ -1,8 +1,8 @@
 ---
-description: 'Last updated: 2022-02-24'
+介绍: '上次更新于：2022-02-24'
 ---
 
-# TERMS OF SERVICE
+# 服务条款
 
 ## Introduction
 

@@ -1,24 +1,23 @@
-# Bluechip NFT Eligibility Requirements
+# 蓝筹 NFT 资格要求
 
-Before BendDAO adds a new NFT as collateral, the NFT collection must pass the community voting and meet the following eligibility requirements.&#x20;
+在 BendDAO 增加新的 NFT 作为抵押品之前，NFT 系列必须通过社区投票并满足以下资格要求。&#x20;
 
+以下是所建议的资格要求。
 
+1. 地板价以及 30 天平均地板价超过 **10 ETH**；
+2. 市值大过地板价 \* 10,000；
+3. 藏品数量大过 5,000；
+4. NFTs 的流通量超过总量的 50%；
+5. 持有人数大过 1,000；
+6. OpenSea 上的历史交易量（all-time Trading Volume）超过 **5 万 ETH**（相关系列为 Space Doodles）；
+7. 系列已部署超过 **30 天**；
+8. NFT 揭示时为随机铸造。
 
-The following are the suggested eligibility requirements.
+**对现有要求的修正**
 
-1. The floor price and the 30-day average floor price are over **10 ETH**;
-2. The market cap is bigger than Floor Price \* 10,000;
-3. The number of items is bigger than 5,000;
-4. The circulation of NFTs is more than 50% of the total items;
-5. The number of owners is bigger than 1,000;
-6. The all-time Trading Volume on OpenSea is more than **50K ETH** (related collections Space Doodles);
-7. The collection has been deployed for more than **30 days**;
-8. Random NFT minting when reveal.
+对于一个官方封装的系列，其指标可以参考原始系列。\
+   例如，Space Doodles 系列被支持作为抵押品，但其交易量没有达到 5 万 ETH。由于 Space Doodles 是被封装的 Doodles，也就是被认为是 Doodles 的一部分。
 
-**Amendments to existing requirements**
+Snapshot: [https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824](https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824).
 
-1. For an official wrapped collection, its metrics can be referred to the original collection.\
-   For example, Space Doodles collection is supported as collateral, but the trading volume doesn’t meet 50K ETH. Since Space Doodles are wrapped Doodles which is considered part of Doodles as well.\
-   Snapshot: [https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824](https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824).
-
-Community voting record: [https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d](https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d)
+社区投票记录：[https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d](https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d)

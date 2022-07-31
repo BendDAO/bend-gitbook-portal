@@ -1,55 +1,55 @@
-# Bug Bounty
+# 漏洞（Bug）赏金
 
-Bend DAO [Bug Bounty](https://immunefi.com/bounty/benddao/) goes live on Immunefi. In addition to audit reports, Bug Bounty might be the best way to incentivize white hats to regularly search for bugs and potential vulnerabilities. The bug bounty can provide users with an additional level of security and show our long-term commitment.
+Bend DAO [漏洞赏金](https://immunefi.com/bounty/benddao/) 在 Immunefi 上线。除了审计报告，漏洞赏金可能是激励白帽子们定期搜索漏洞和潜在漏洞的最佳方式。漏洞赏金可以为用户提供额外的安全水平，并表示我们的长期义务。
 
-## Community Voting&#x20;
+## 社区投票&#x20;
 
-The Funding of Bug Bounty has passed quorum with 94.29% approval. [Voting Details](https://snapshot.org/#/benddao.eth/proposal/0x874dfb4a31fdf3521a8d0cead3370792ef991a1807beed77f6a490ad414e382e)
+漏洞赏金的经费以 94.29% 的支持率通过了规定人数。[投票细节](https://snapshot.org/#/benddao.eth/proposal/0x874dfb4a31fdf3521a8d0cead3370792ef991a1807beed77f6a490ad414e382e)
 
-$1,500,000 worth of BEND tokens based on the IFO price will be transferred from the Treasury Reserve to Bug Bounty Reserve. If Bug Bounty ends, all remaining funds will be transferred back to the Treasury Reserve.
+基于 IFO 价格的价值 150 万美元的 BEND 代币将从金库储备中转入漏洞赏金储备。如果漏洞赏金结束，所有剩余资金将转回金库储备。
 
-BEND IFO price: 0.009 USDT&#x20;
+BEND IFO 价格：0.009 USDT&#x20;
 
-Bug Bounty Allocation: 166,666,666 BEND&#x20;
+漏洞赏金分配：166,666,666 BEND&#x20;
 
-Bug Bounty Reserve: 0x055c51478B232246eC8D06062Fa36bA89b6e038A
+漏洞赏金储备：0x055c51478B232246eC8D06062Fa36bA89b6e038A
 
-## Bug Bounty Distribution&#x20;
+## 漏洞赏金分配&#x20;
 
-### Payout
+### 支付
 
-Payouts are denominated in USD, but done in BEND.&#x20;
+支付以美元计价，但以 BEND 进行。&#x20;
 
-The BEND price in USD is calculated by **averaging prices** over a specified period of time. This period is from the **bug submission** to the **bounty distribution**.
+以美元为单位的 BEND 价格是通过指定时间段内的**平均价格**来计算。这段时间是从**漏洞提交**到**赏金分配**。
 
-Calculation formula:
+计算公式：
 
-Day Average Price = (Day High Price + Day Low Price) / 2;
+日均价 = (当日最高价 + 当日最低价) / 2;
 
-Time Weight Average Price = Sum(Day Average Price) / Period;
+时间加权均价（TWAP）= sum(日均价) / 时间期;
 
-### Rewards by Threat Level
+### 按威胁程度划分的奖励
 
-The breakdown of the rewards is in accordance with ImmuneFi’s distribution criteria for the impact of the vulnerability, see here for [more details](https://immunefi.com/bounty/benddao/).&#x20;
+奖励的细分符合 ImmuneFi 对漏洞影响的分配标准，在此查看[更多细节](https://immunefi.com/bounty/benddao/)。&#x20;
 
-| Threat Level | Smart Contract      | Websites and Applications |
+| 威胁程度 | 智能合约      | 网站和应用 |
 | ------------ | ------------------- | ------------------------- |
-| Critical     | Up to USD 1,000,000 | USD 20,000                |
-| High         | USD 10,000          | USD 4,000                 |
-| Medium       | USD 2,000           | USD 2,000                 |
-| Low          | USD 1,000           | USD 1,000                 |
+| 严重     | 最高 USD 1,000,000 | USD 20,000                |
+| 高         | USD 10,000          | USD 4,000                 |
+| 中       | USD 2,000           | USD 2,000                 |
+| 低          | USD 1,000           | USD 1,000                 |
 
-## Rewards Distribution Record
+## 奖励分配记录
 
-| Bug Submission Date | Threat Level                       | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status      |
+| 漏洞提交日期 | 威胁程度                       | 奖励（USD） | BEND TWAP 价格 | 奖励（BEND） | 状态      |
 | ------------------- | ---------------------------------- | ------------- | --------------- | -------------- | ----------- |
-| April 4th, 2022     | <p>Website </p><p>High</p>         | 10,000        | 0.01846752      | 541,491        | Distributed |
-| April 7th, 2022     | <p>Smart contract</p><p>Medium</p> | 2,000         | 0.01846752      | 108,298        | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 2,000         | 0.0458915       | 43,581         | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Low</p>           | 1,000         | 0.0458915       | 21,791         | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>        | 20,000        | 0.03721         | 53,7490        | Distributed |
-| May 8th, 2022       | <p>Website</p><p>Low</p>           | 1,000         | 0.04071         | 24564          | Distributed |
-| May 12th, 2022      | Smart contract High                | 10,000        | 0.02538         | 394011         | Distributed |
-| May 27th, 2022      | <p>Website</p><p>Low</p>           | 1,000         | 0.0255          | 39216          | Distributed |
-| June 16th, 2022     | Smart contract Low                 | 1,000         | 0.006096        | 164042         | Distributed |
-| June 23rd, 2022     | Smart contract Medium              | 5,000         | 0.005376        | 930060         | Distributed |
+| April 4th, 2022     | <p>网站 </p><p>高</p>         | 10,000        | 0.01846752      | 541,491        | 已分发 |
+| April 7th, 2022     | <p>智能合约</p><p>中</p> | 2,000         | 0.01846752      | 108,298        | 已分发 |
+| April 23rd, 2022    | <p>网站</p><p>中</p>        | 2,000         | 0.0458915       | 43,581         | 已分发 |
+| April 23rd, 2022    | <p>网站</p><p>低</p>           | 1,000         | 0.0458915       | 21,791         | 已分发 |
+| April 23rd, 2022    | <p>网站</p><p>中</p>        | 20,000        | 0.03721         | 53,7490        | 已分发 |
+| May 8th, 2022       | <p>网站</p><p>低</p>           | 1,000         | 0.04071         | 24564          | 已分发 |
+| May 12th, 2022      | 智能合约 高                | 10,000        | 0.02538         | 394011         | 已分发 |
+| May 27th, 2022      | <p>网站</p><p>低</p>           | 1,000         | 0.0255          | 39216          | 已分发 |
+| June 16th, 2022     | 智能合约 低                 | 1,000         | 0.006096        | 164042         | 已分发 |
+| June 23rd, 2022     | 智能合约 中              | 5,000         | 0.005376        | 930060         | 已分发 |

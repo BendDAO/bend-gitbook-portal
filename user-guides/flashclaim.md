@@ -1,30 +1,30 @@
-# Flash Claim
+# 闪电领取（Flash Claim）
 
-Flash Claim is build on BoundNFT's Flash Loan. Through Flash Claim, you can use your NFT to claim third parties airdrop without repaying to lending pool.
+闪电领取是建立在 BoundNFT 的闪电贷（Flash Loan）之上。通过闪电领取，您可以使用您的 NFT 来领取第三方的空投，而不需要偿还给贷款池。
 
-For well-known airdrop projects, Bend will officially make adaptations. Users do not need to develop contract codes and understand the underlying technical details. They only need to select the airdrop project and their own NFT on the webpage to quickly complete the claim.
+对于知名空投项目，Bend 将正式进行适配。用户不需要开发合约代码和了解基础的技术细节。他们只需要在网页上选择空投项目和自己的 NFT 就可以快速完成领取。
 
-For those airdrop projects that have not officially supported, if you think it is good project, please give feedback in the Discord community. Bend will try to give priority to support if there is sufficient manpower and time.
+对于那些没有得到官方支持的空投项目，如果您认为它是好项目，请在 Discord 社区反馈。如果有足够的人力和时间，Bend 会尽量优先支持。
 
-Bend supports two types of airdrop projects, the first type is that the user actively initiates the transaction to claim airdrop, the second is that the project party actively airdrops to the user.
+Bend 支持两类空投项目，第一类是用户主动发起交易领取空投，第二类是项目方主动空投给用户。
 
-For the first type, Bend use boundNFT's Flash Loan to support user claim airdrop, the code for airdrop flash loan is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropFlashLoanReceiver.sol), and contract address on [Etherscan](https://etherscan.io/address/0xa8Ae91Dd8CD8f410BA59626caef160925A033734).
+对于第一种类型，Bend 使用 boundNFT 的闪电贷来支持用户领取空投，空投闪电贷的代码在 [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropFlashLoanReceiver.sol)，以及合约地址在 [Etherscan](https://etherscan.io/address/0xa8Ae91Dd8CD8f410BA59626caef160925A033734)。
 
 ![](<../.gitbook/assets/Flash claim 04191810.jpg>)
 
-For the second type, Bend will do snapshot and airdrop distribution to support user claim airdrop. If   airdrop project party use some random algorithm to distribute tokens, for fairness and safety, we also use random algorithm which is based on [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) to distribute tokens.
+对于第二种类型，Bend 将做快照和空投分发，以支持用户领取空投。如果空投项目方使用一些随机算法来分发代币，为了公平和安全，我们也使用基于 [Chainlink VRF infrastructure](https://vrf.chain.link/mainnet) 的随机算法来分发代币。
 
-The [Chainlink VRF subscription id](https://vrf.chain.link/mainnet/81) is 81, the code for airdrop distribution is on [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol), and contract address on [Etherscan](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD).
+[Chainlink VRF 订阅 ID](https://vrf.chain.link/mainnet/81) 是  81，空投分发的代码在 [Github](https://github.com/BoundNFT/boundnft-protocol/blob/main/contracts/misc/AirdropDistribution.sol)，以及合约地址在 [Etherscan](https://etherscan.io/address/0x6D187449A5664DD87E58A9d3b982989AaeA469BD)。
 
 ![](<../.gitbook/assets/Airdrop Distribution 04191825.jpg>)
 
-## Using Flash Claim UI
+## 使用闪电领取 UI
 
-Step 1: Go to Dashboard and click Claim your airdrop.
+第1步：进入面板，点击 Claim your airdrop（领取您的空投）。
 
-Step 2: Choose airdrop project and click Claim.
+第2步：选择空投项目并点击 Claim（领取）。
 
-Step 3: Your will get airdrop tokens in wallet after claim transaction is succeeded.
+第3步：领取交易成功后，您将在钱包中获得空投代币。
 
 ![](<../.gitbook/assets/Flashclaim Page 04201331.jpg>)
 
@@ -32,6 +32,6 @@ Step 3: Your will get airdrop tokens in wallet after claim transaction is succee
 
 ![](<../.gitbook/assets/Flashclaim Page 04201331.jpg>)
 
-## Flash Claim Code Demo
+## 闪电领取代码 Demo
 
-For advanced users, you can write a contract to implement claim, please check the demo at [Github](https://github.com/BendDAO/bend-flashclaim-demo).
+对于高级用户，您可以写一个合约来实现领取，请在 [Github](https://github.com/BendDAO/bend-flashclaim-demo) 中查看演示。

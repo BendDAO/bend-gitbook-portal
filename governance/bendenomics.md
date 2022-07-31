@@ -1,117 +1,117 @@
 ---
-description: BEND Tokenomics
+介绍：BEND 代币经济
 ---
 
-# Bendenomics
+# Bend 代币经济
 
-We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the goal of being decentralized, fair, liquid, and scalable.
+我们创建 Bend 协议是为了填补去中心化 NFT 流动性的空白，其目标是去中心化、公平、流动和可扩展。
 
-The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality, and the Bend token as a core securing element of the Bend Protocol.
+Bend 代币经济为 Bend 协议的去中心化和自治引入了一条正式的路径。它涵盖了治理机制和金融激励措施，旨在 Bend 生态系统、协议功能性，以及作为 Bend 协议的核心固定要素的 Bend 代币的各利益相关者之间，分享一致的愿景。
 
 {% hint style="info" %}
-BEND Token Distribution and Initial FairLaunch Offering are still in active discussions, any updates will be communicated to the community in a timely manner, and suggestions from early participants are eagerly welcome.
+BEND 代币分发和首次公平启动发售仍在积极讨论中，任何更新都将及时传达给社区，并热切欢迎早期参与者的建议。
 {% endhint %}
 
-## BEND Token Distribution
+## BEND 代币分发
 
-Now, more than ever, the importance of decentralized governance is clear. We take the responsibility of distributing BEND governance tokens seriously. The BEND Community is our top priority.
+现在，去中心化治理的重要性比以往任何时候都更加明显。我们认真对待分发 BEND 治理代币的责任。BEND 社区是我们的最优先考虑的群体。
 
-We would like to share our plans for the BEND governance token distribution. Over the next few weeks, as we prepare for the launch of BEND Protocol, we will release more details about feature updates and the Reserve Crowdfunding launch. As always, we welcome your feedback via Twitter and our Discord.
+我们想分享我们的 BEND 治理代币分发计划。在接下来的几周内，随着我们为 BEND 协议的启动做准备，我们将发布更多关于功能更新和储备募资启动的细节。一如既往，我们欢迎您通过 Twitter 和我们的 Discord 提供反馈。
 
-### The Big Picture
+### 全局概览
 
-The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218) is 10 billion (10,000,000,000). The token distribution breaks down as follows:
+初始 [BEND](https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218) 的总供应为 100 亿枚 (10,000,000,000)。代币分发细分如下：
 
-![BEND Token Allocation](<../.gitbook/assets/image (9).png>)
+![BEND 代币分配](<../.gitbook/assets/image (9).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-| Group                                | Allocation | Vesting Period                                                                               |
-| ------------------------------------ | ---------- | -------------------------------------------------------------------------------------------- |
-| Developer Team                       | 21 %       | 1-year locked and then linearly released in 3 years                                          |
-| Initial Fair-launch Offering         | 10%        | Offering in 90 days                                                                          |
-| Treasury Reserve                     | 21%        | Lockup in treasury, decided by the community                                                 |
-| Airdrop                              | 5%         | Airdrop in 90 days, 100% TGE                                                                 |
-| Uniswap LP Incentive (by Governance) | 3%         | Decided by the community                                                                     |
-| Lend/Borrow Incentive                | 40%        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 |
+| 组别                                | 配额 |  释放规则                                                     |
+| ------------------------------------ | ---------- | ---------------------------------------------------- |
+| 开发团队                       | 21 %     | 锁仓一年，然后三年内线性释放                                    |
+| 首次公平启动发售               | 10%        | 发售期为 90 天                                               |
+| 金库储备                       | 21%        | 锁在金库内，由社区决定                                        |
+| 空投                          | 5%         | 空投领取期为 90 天，TGE（代币铸造事件）时 100% 分发             |
+| Uniswap 流动性激励（由治理推出） | 3%      | 由社区决定                                                     |
+| 借贷激励                | 40%        | 在主网上线时锁仓，然后五年内线性解锁，借和贷的奖励为 3：1           |
 
-A critical consideration is that the community of BEND holders collectively maintains the ability to safe the Bend Protocol. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
+一个重要的考虑因素是，BEND 持有者集体保持使 Bend 协议安全运行的能力。这可能有几个理由符合社区的集体利益，包括创造改善点，如优化预言机和新拍卖机制功能以抵御黑天鹅情况。
 
-## The Utility of BEND and veBEND
+## BEND 和 veBEND 的实用价值
 
-BEND is the governance token of Bend DAO. BEND holders can stake BEND to get vote-escrowed BEND ([**veBEND**](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E)).
+BEND 是 Bend DAO 的治理代币。BEND 持有者可以质押 BEND 获得 BEND 托管选票（[**veBEND**](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E)）.
 
 ### veBEND
 
-#### Voting
+#### 投票
 
-BEND stakers (veBEND holders) can participate in voting on which NFT as collateral that Bend protocol can support for borrowing ETH and providing liquidity. It will benefit all the NFT holders as long as the supported NFT liquidity improved.
+BEND 质押者（veBEND 持有者）可以参与投票，决定 Bend 协议可以支持哪些 NFT 作为抵押品，借出 ETH 并提供流动性。只要支持的 NFT 的流动性得到改善，所有 NFT 持有者都会受益。
 
-veBEND holders will be able to vote for 4 of 7 bluechip NFTs that will get initial ETH lending pool support. 7 NFT collections are **Mutant Ape YC, Cool Cats, Doodles, CLONE X, Azuki, World of Women** and **CyberKongz**.
+veBEND 持有者将能够投票选出 7 个蓝筹 NFT 中的 4 个，这些 NFT 将获得初始 ETH 借贷池支持。7 个 NFT 系列为 **Mutant Ape YC、Cool Cats、Doodles、CLONE X、Azuki、World of Women** 以及 **CyberKongz**。
 
-#### Share Protocol Income
+#### 分享协议收入
 
-BEND stakers (veBEND holders) share 100% of the protocol income. More details of [veBEND](vote-escrowed-bend-vebend.md).
+BEND 质押者（veBEND 持有者）分享 100% 的协议收入。更多关于 [veBEND](vote-escrowed-bend-vebend.md) 的细节。
 
-## Initial Fair-launch Offering
+## 首次公平启动发售
 
-### What the ETH raised will be used for?
+### 募集的 ETH 将用于什么？
 
-66% of the raised ETH will be used for the ETH lending pool on Bend, and 34% of the ETH will be used for the Bend dev operation.
+66% 募集的 ETH 将会用于 Bend 的 ETH 借贷池，34% 的 ETH 将用于 Bend 的开发运营。
 
-### **The rules are as follows:**
+### **规则如下：**
 
-* 1,000,000,000 (10%) BEND tokens will be allocated to the Initial Fair-Launch Offering;
-* Open for the public;
-* No ETH allocation limit for each participant;
-* 1 ETH = 333,333 BEND;
-* After the IFO, all unsold BEND will go towards DAO Treasury.
-* Each participant can choose the lockup period during IFO. The lockup period is from 0 weeks to 4 years.
+* 1,000,000,000（10%）的 BEND 代币将被分配给首次公平启动发售（IFO）；
+* 向公众开放；
+* 每个参与者的 ETH 配额没有限制；
+* 1 ETH = 333,333 BEND；
+* IFO 之后，所有未售出的 BEND 将被纳入 DAO 金库；
+* 每个参与者都可以选择 IFO 期间的锁定期。锁定期从 0 周到 4 年。
 
-### DAO Treasury (31% - 3,100,000,000)
+### DAO 金库（31% - 3,100,000,000）
 
-#### Initial Fair-launch Offering (10% - 1,000,000,000 )
+#### 首次公平启动发售（10% - 1,000,000,000）
 
-Initial Offering is our Fair Launch Strategy and aims to distribute the supply of BEND as fairly as possible.
+首次发售是我们的公平启动的策略，旨在尽可能公平地分发 BEND 的供给。
 
-#### Treasury Reserve (21% - 2,100,000,000)
+#### 金库储备（21% - 2,100,000,000）
 
-In order to build an ecosystem and also to deal with the security of funds in emergencies, we are going to use some of the BEND Token as a reserve fund. To that end, 21% of all BEND tokens are to be locked in reserve. The use of these tokens can only be determined through community voting.
+为了建立一个生态系统，同时也为了处理紧急情况下的资金安全问题，我们将使用部分 BEND 代币作为储备资金。为此，所有 BEND 代币的 21% 将被锁定在储备金中。这些代币的使用只能通过社区投票决定。
 
-### Community Incentive (48% - 4,800,000,000)
+### 社区激励（48% - 4,800,000,000）
 
-DeFi Protocols have made use of liquidity programs to jumpstart growth and distribute protocol tokens to community members. To that end, 48% of all BEND tokens are to be distributed through various airdrop, yield farming, liquidity incentives, and exclusive governance proposals across a number of years.
+DeFi 协议已经使用流动性计划来启动增长，并向社区成员分发协议代币。为此，总 BEND 代币的 48% 将通过各种空投、挖矿收益、流动性激励和独家治理提案在几年内分发。
 
-#### Airdrop (5% - 500,000,000)
+#### 空投（5% - 500,000,000）
 
-As part of Bend’s initial launch, we’re distributing 500,000,000 Bends tokens (5% of total supply) to the NFT community.
+作为 Bend 首次启动的一部分，我们将向 NFT 社区分发 500,000,000 枚 Bend 代币（总供应量的 5%）。
 
-#### Uniswap LP Incentive (3% - 300,000,000)
+#### Uniswap LP 激励（3% - 300,000,000）
 
-To encourage market makers to provide liquidity on Uniswap, 3% of BEND total supply will be distributed through liquidity incentives. Since DAO will be formed after the BEND token fair launch, the Uniswap LP Incentive will be decided through DAO governance.
+为了鼓励做市商在 Uniswap 上提供流动性，BEND 总供应量的 3% 将通过流动性激励来分发。由于 DAO 将在 BEND 代币公平启动后成立，Uniswap LP 激励将通过 DAO 治理决定。
 
-#### Lend/Borrow Incentive (40% - 4,000,000,000)
+#### 借贷激励（40% - 4,000,000,000）
 
-To encourage lenders and borrowers providing liquidity to lend pool, 40% of all BEND tokens are to be distributed through lend/borrow incentives and vesting linearly across 5 years. Lend/Borrow Incentive ratio is 1:3.
+为了鼓励贷款人和借款人给借贷池提供流动性，所有 BEND 代币的 40% 将通过借贷激励分发，并在 5 年内线性释放。借和贷的奖励为 3：1。
 
-### Developer Team (21% - 2,100,000,000)
+### 开发团队（21% - 2,100,000,000）
 
-Developer Team tokens are retained for founders and original early contributors to Bend. The Bend Protocol was conceived in Q3 2021 and work began in Q4 2021. Although the Mainnet is just now being launched, the contributions of founders and early members that have been working on Bend was crucial to improving the protocol continually. The team will continue to work on Bend for its lifetime along with the greater community. To that end, 21% of all BEND tokens are locked across a number of years.
+开发者团队代币是为 Bend 的创始人和原始早期贡献者保留的。Bend 协议是在 2021 年第三季度构思的，工作开始于 2021 年第四季度。虽然主网刚刚启动，但一直在 Bend 上工作的创始人和早期成员的贡献对于不断完善协议至关重要。该团队将与更大的社区一起在 Bend 的生命周期内继续工作。为此，所有 BEND 代币的 21% 被锁定在几年内。
 
-* 7% of BEND tokens locked for 12 months, then to be released linearly in seconds over a year.
-* 7% of BEND tokens locked for 24 months, then to be released linearly in seconds over a year.
-* 7% of BEND tokens locked for 36 months, then to be released linearly in seconds over a year.
+* 7% 的 BEND 代币锁仓 12 个月，然后将在一年内以秒为单位线性释放。
+* 7% 的 BEND 代币锁仓 24 个月，然后将在一年内以秒为单位线性释放。
+* 7% 的 BEND 代币锁仓 36 个月，然后将在一年内以秒为单位线性释放。
 
-So in the first year, the team will not sell any tokens to the market and can only participate in the distribution of protocol income.
+所以在第一年，该团队不会向市场出售任何代币，并只能参与协议收入的分配。
 
-## Wallet Addresses
+## 钱包地址
 
-| Name                                           | Address                                                                                                               |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Developer Team                                 | [0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3](https://etherscan.io/address/0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3) |
-| ~~Initial Fair-Launch Offering v1 (Obsolete)~~ | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
-| Initial Fair-Launch Offering v2 (Sold Out)     | [0xA1756D785F4abD4ec06dB71c65f18D25083CbF88](https://etherscan.io/address/0xA1756D785F4abD4ec06dB71c65f18D25083CbF88) |
-| Treasury Reserve                               | [0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B](https://etherscan.io/address/0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B) |
-| Airdrop                                        | [0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27](https://etherscan.io/address/0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27) |
-| Community Incentive                            | [0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8](https://etherscan.io/address/0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8) |
-| veBEND Locker                                  | [0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E) |
+| 名称                                           | 地址                                                   |
+| ------------------------------------- | ------------------------------------------------------------------ |
+| 开发团队                                | [0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3](https://etherscan.io/address/0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3) |
+| ~~首次公平启动发售 v1（已失效）~~ | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
+| 首次公平启动发售 v2（售罄）     | [0xA1756D785F4abD4ec06dB71c65f18D25083CbF88](https://etherscan.io/address/0xA1756D785F4abD4ec06dB71c65f18D25083CbF88) |
+| 金库储备                               | [0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B](https://etherscan.io/address/0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B) |
+| 空投                                        | [0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27](https://etherscan.io/address/0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27) |
+| 社区激励                            | [0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8](https://etherscan.io/address/0xAd36eb917Eeb957c90b577B7051D0C9BE930a1F8) |
+| veBEND 锁仓柜                                  | [0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E) |
