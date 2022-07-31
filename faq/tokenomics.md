@@ -6,7 +6,7 @@
 
 BEND 是 BendDAO 的治理代币。
 
-BEND 持有人可以质押 BEND 以获得 BEND 选票（veBEND）。
+BEND 持有人可以质押 BEND 以获得 BEND 托管选票（veBEND）。
 
 ## 什么是 veBEND？
 
