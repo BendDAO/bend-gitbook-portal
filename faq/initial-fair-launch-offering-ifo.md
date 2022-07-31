@@ -54,9 +54,9 @@ A: 无。
 
 ## Q: 如果我参与了 IFO，我能得到什么？
 
-BEND 选票——veBEND。veBEND 就是质押中的 BEND。当您把 veBEND 代币地址添加到您的钱包里时，您就可以看到您的 veBEND 余额。
+BEND 托管选票——veBEND。veBEND 就是质押中的 BEND。当您把 veBEND 代币地址添加到您的钱包里时，您就可以看到您的 veBEND 余额。
 
-veBEND 是 BEND 选票（vote-escrowed BEND）的缩写，也就是您在质押 BEND 时获得的代币。您质押 BEND 的时间越长，您获得的 veBEND 就越多。
+veBEND 是 BEND 托管选票（vote-escrowed BEND）的缩写，也就是您在质押 BEND 时获得的代币。您质押 BEND 的时间越长，您获得的 veBEND 就越多。
 
 ## Q: 那么我将会获得多少 veBEND 代币？
 
