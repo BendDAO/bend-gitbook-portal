@@ -28,8 +28,8 @@ BendDAO 已将 bound NFT 协议合约的所有者设置为 7 天时间锁控制�
 
 | 名称              | 时长 | 地址                                                                                                               |
 | ----------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| BendDAO Timelock  | 24 小时 | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
-| BoundNFT Timelock | 7 天   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
+| BendDAO 时间锁  | 24 小时 | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
+| BoundNFT 时间锁 | 7 天   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
 
 ## 多签钱包（Multi-signature Wallet）
 
