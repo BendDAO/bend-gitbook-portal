@@ -52,7 +52,7 @@
 
 * [Bend 代币经济](governance/bendenomics.md)
 * [治理机制](governance/governance-mechanism.md)
-* [BEND 选票（veBEND）](governance/vote-escrowed-bend-vebend.md)
+* [BEND 托管选票（veBEND）](governance/vote-escrowed-bend-vebend.md)
 * [费用收取和分配](governance/fee-collection-and-distribution.md)
 * [治理论坛](https://snapshot.org/#/benddao.eth)
 
