@@ -12,7 +12,7 @@ BEND 的持有人可以参与投票，决定哪些 NFT 作为抵押品，Bend �
 
 MAYC、Azuki、CloneX、和 Doodles 现已通过社区投票，被支持作为抵押品。细节见：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-在 BEND 公平启动后，BEND 持有人可以将 BEND 存入，以获得 veBEND，即托管选票 BEND。
+在 BEND 公平启动后，BEND 持有人可以将 BEND 存入，以获得 veBEND，即 BEND 托管选票。
 
 ## 首次公平启动发售
 
@@ -45,7 +45,7 @@ MAYC、Azuki、CloneX、和 Doodles 现已通过社区投票，被支持作为�
 
 MAYC、Azuki、CloneX、和 Doodles 现已通过社区投票，被支持作为抵押品。细节见：[https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-在 BEND 的公平启动之后，BEND 持有人可以将 BEND 存入，以获得代表托管选票 BEND 的 veBEND。更多细节将很快发布。
+在 BEND 的公平启动之后，BEND 持有人可以将 BEND 存入，以获得代表 BEND 托管选票的 veBEND。更多细节将很快发布。
 
 ### Bend 官方主网启动
 
