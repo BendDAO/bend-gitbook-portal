@@ -11,12 +11,12 @@ A: F 代表 Fair Launch（即公平启动）。
 
 ## Q: 什么是 BEND IFO?
 
-A: 首次公平发售（IFO）是 BEND 代币[公平启动](../highlights/fair-launch.md)的一部分。BEND IFO 是一种从公众中汇集 ETH 的募资方式。
+A: 首次公平启动发售（IFO）是 BEND 代币[公平启动](../highlights/fair-launch.md)的一部分。BEND IFO 是一种从公众中汇集 ETH 的募资方式。
 
 **66%** 募集的 ETH 将会用于 Bend 的 ETH 借贷池，**34%** 的 ETH 将用于 Bend 的开发运营。
 
 规则如下：
-* 1,000,000,000（10%）的 BEND 代币将被分配给首次公平发售（IFO）；
+* 1,000,000,000（10%）的 BEND 代币将被分配给首次公平启动发售（IFO）；
 * 向公众开放；
 * 每个参与者的 ETH 配额没有限制；
 * 1 ETH = 333,333 BEND；
