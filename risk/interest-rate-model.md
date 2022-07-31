@@ -1,70 +1,70 @@
-# Interest Rate Model
+# 利率模型
 
-## Overview
+## 概述
 
-Bend is an NFT liquidity and lending protocol that enables borrowing ETH from the liquidity pools. Depositors receive bETH, in exchange of cryptocurrency deposits.
+Bend 是一个NFT流动性和借贷协议，能够让用户从流动性池中借出 ETH。存款人收到 bETH，以换取加密货币存款。
 
-The liquidity of the protocol is the availability of the capital to face business operations: borrowing amounts and redeeming bTokens. It is a key metric, as lack of liquidity will block business operations.
+协议的流动性是面对商业运作的资本可用性：借出金额和赎回 bTokens。这是一个关键指标，因为缺乏流动性将阻碍商业运作。
 
-At any point in time, the liquidity of the protocol can be assessed through the utilisation ratio: the share of reserve that is currently borrowed for each currency.
+在任何时候，协议的流动性都可以通过利用率来评估：目前每种货币所借的储备份额。
 
-In this section, we dive into Bend's liquidity risk by analysing the historical availability of Bend's assets and identify periods of lack of liquidity. Then we look at the valuation of bTokens, illiquid assets often suffer from illiquidity discounts due to the difficulty to find counter parties.
+在这节中，我们通过分析 Bend 资产的历史可用性和识别缺乏流动性的时期来深入研究 Bend 的流动性风险。然后我们看一下 bTokens 的估值，缺乏流动性的资产往往由于难以找到对手方而遭受流动性折价。
 
-The historical utilisation and bToken valuation help us assess the level of liquidity risk of the protocol. Once this risk is understood, we can put in place risk management techniques through the borrow interest rate model and set up alternative sources of bToken liquidity.
+历史利用率和 bToken 的估值有助于我们评估协议的流动性风险水平。一旦了解了这种风险，我们就可以通过借贷利率模型来实施风险管理技术，并建立 bToken 流动性的替代来源。
 
-## Interest Rate Model
+## 利率模型
 
-Bend’s interest rate model is calibrated to manage liquidity risk and optimize utilization. The borrow interest rates come from the Utilization Rate U.U is an indicator of the availability of capital in the pool. The interest rate model is used to manage liquidity risk through user incentivizes to support liquidity:
+Bend 的利率模型被调校以管理流动性风险和优化利用。借款利率来自于利用率 U. U 是资金池中可用资金的一个指标。利率模型被用来通过用户激励支持流动性来管理流动性风险：
 
-* When capital is available: low interest rates to encourage loans.
-* When capital is scarce: high interest rates to encourage repayments for the loans and additional deposits.
+* 当资本可用时：低利率以鼓励贷款。
+* 当资本匮乏时：高利率以鼓励偿还贷款和增加存款。
 
-## Interest Rate Model <a href="#interest-rate-model" id="interest-rate-model"></a>
+## 利率模型 <a href="#interest-rate-model" id="interest-rate-model"></a>
 
-Liquidity risk materializes when utilization is high, it becomes more problematic as gets closer to 100%. To tailor the model to this constraint, the interest rate curve is split into two parts around an optimal utilization rate $$U_{optimal}$$. Before $$U_{optimal}$$ the slope is small, after it starts rising sharply.
+当利用率较高时，流动性风险就会出现，当接近 100% 时，流动性风险就会变得更有问题。为了使模型适应这种约束，利率曲线围绕着一个最佳的利用率 $$U_{optimal}$$ 被分成两部分。在 $$U_{optimal}$$ 之前，斜率很小，在其之后，利率开始急剧上升。
 
-The interest rate $$R_t$$ follows the model:
+利率 $$R_t$$ 跟随着这个模型：
 
-$$if U < U_{optimal}: R_t = R_o + U_t / U_{optimal} * R_{slope1}$$
+$$若 U < U_{optimal}: R_t = R_o + U_t / U_{optimal} * R_{slope1}$$
 
-$$if U \ge U_{optimal}: R_t = R_o + R_{slope1} + (U_t - U_{optimal}) / (1 - U_{optimal}) * R_{slope2}$$
+$$若 U \ge U_{optimal}: R_t = R_o + R_{slope1} + (U_t - U_{optimal}) / (1 - U_{optimal}) * R_{slope2}$$
 
-In the borrow rate technical implementation, the calculateCompoundedInterest method relies on an approximation that mostly affects high interest rates.
+在借款利率的技术实现中，calculateCompoundedInterest（计算复利）的方法依赖于一个近似值，它主要影响高利率。
 
-## Model Parameters
+## 模型参数
 
-It's also key to consider market conditions: how can the asset be used in the current market Bend's borrowing costs must be aligned with market yield opportunities. Or there would be a rate arbitrage with rational users incentivized to borrow all the liquidity on Bend to take advantage of higher yield opportunities.
+考虑市场条件也是关键：在目前的市场上如何使用该资产——Bend 的借贷成本必须与市场收益机会相一致。否则就会出现利率套利，理性的使用者会被激励去借用 Bend 上所有的流动性，以利用更高的收益机会。
 
-When market conditions change, the interest rate parameters can be adapted. These changes must adapt to utilization on Bend’s market.
+当市场条件发生变化时，利率参数可以进行调整。这些变化必须适应 Bend 市场上的利用率。
 
-Bend also adapted its cost of borrowing by lowering of the assets affected. This increased the borrow costs that are now partially offset by the liquidity reward.
+Bend 还通过降低受影响的资产来调整其借款成本。增加了的借贷成本，现在被流动性收益部分抵消。
 
-Following the favorable historical review of liquidity risk, the interest rate models have been optimized to be more competitive while keeping theirs risk mitigation properties.
+在对流动性风险进行有利的历史审查之后，利率模型已经被优化，在保持其风险缓解特性的同时，更具有竞争力。
 
-| Asset | Uoptimal | Ro | Rslope1 | Rslope2 |
+| 资产 | Uoptimal | Ro | Rslope1 | Rslope2 |
 | ----- | -------- | -- | ------- | ------- |
 | ETH   | 65%      | 0  | 8%      | 100%    |
 
-### Borrow Interest Rate Curve
+### 借款利率曲线
 
 ![](<../.gitbook/assets/Borrow Interest Rate Model.png>)
 
-## Deposit APY
+## 存款 APY
 
-The borrow interest rates paid are distributed as yield for bendETH holders who have deposited in the protocol, excluding a share of yields sent to the ecosystem reserve defined by the reserve factor. This interest rate is paid on the capital that is lent out then shared among all the liquidity providers.
+是指支付的借款利率作为收益分配给在协议中存款的 bendETH 持有人，不包括发送到由储备系数定义的生态系统储备的收益份额。这个利率是对借出的资本支付的，然后在所有流动性提供者之间共享。
 
-The deposit APY, $$D_t$$, is:
+存款 APY，$$D_t$$，为：
 
 $$D_t = U_t * B_t * (1-R_t)$$.
 
-$$U_t$$: the utilisation ratio.
+$$U_t$$：使用率
 
-$$B_t$$: the variable borrow rate.
+$$B_t$$：浮动借款利率（variable borrow rate）
 
-$$R_t$$: the reserve factor.
+$$R_t$$：储备系数
 
-### Deposit Interest Rate Curve
+### 存款利率曲线
 
-![Deposit Interest Rate Model](<../.gitbook/assets/Deposit Interest Rate Model.png>)
+![存款利率模型](<../.gitbook/assets/Deposit Interest Rate Model.png>)
 
-You can view the protocol's deposit APY on the Bend App for each asset.
+您可以在 Bend App 上查看每种资产的协议存款 APY。
