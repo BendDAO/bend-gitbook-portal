@@ -109,7 +109,7 @@ DeFi 协议已经使用流动性计划来启动增长，并向社区成员分发
 | 名称                                           | 地址                                                   |
 | ------------------------------------- | ------------------------------------------------------------------ |
 | 开发团队                                | [0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3](https://etherscan.io/address/0x7941D082D46a9A8c3E8c2106187A24B74cc1bdD3) |
-| ~~Initial Fair-Launch Offering v1 (Obsolete)~~ | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
+| ~~首次公平启动发售 v1（已失效）~~ | [0x3984235DC18f07d9AEAaEcD9D62eC95402291524](https://etherscan.io/address/0x3984235DC18f07d9AEAaEcD9D62eC95402291524) |
 | 首次公平启动发售 v2（售罄）     | [0xA1756D785F4abD4ec06dB71c65f18D25083CbF88](https://etherscan.io/address/0xA1756D785F4abD4ec06dB71c65f18D25083CbF88) |
 | 金库储备                               | [0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B](https://etherscan.io/address/0x472FcC65Fab565f75B1e0E861864A86FE5bcEd7B) |
 | 空投                                        | [0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27](https://etherscan.io/address/0x1b5d2904bE3E4711a848Be09b17dEE89E6A5BC27) |
