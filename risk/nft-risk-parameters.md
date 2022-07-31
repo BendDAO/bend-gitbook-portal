@@ -18,11 +18,11 @@ DeFi 生态系统是由 DeFi 项目建立的。风险评估考虑了为 Bend 协
 
 | 名称           | 代号      | 抵押率 | 清算阈值 | 清算奖励 | 赎回期限 | 拍卖时长 | 赎回罚金 |
 | -------------- | ----------- | ---------------- | --------------------- | ----------------- | --------------- | ---------------- | ----------- |
-| Bored Ape YC   | BAYC        | 40%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| CryptoPunks    | CryptoPunks | 40%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| Mutant Ape YC  | MAYC        | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| Azuki          | AZUKI       | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| CLONE X        | CLONEX      | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| Doodles        | DOODLE      | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
-| Space Doodles  | SDOODLE     | 30%              | 90%                   | 5%                | 48 hours        | 48 hours         | 1%          |
+| Bored Ape YC   | BAYC        | 40%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| CryptoPunks    | CryptoPunks | 40%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| Mutant Ape YC  | MAYC        | 30%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| Azuki          | AZUKI       | 30%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| CLONE X        | CLONEX      | 30%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| Doodles        | DOODLE      | 30%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
+| Space Doodles  | SDOODLE     | 30%              | 90%                   | 5%                | 48 小时        | 48 小时         | 1%          |
 
