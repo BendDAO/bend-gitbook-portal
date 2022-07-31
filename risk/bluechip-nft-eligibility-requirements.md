@@ -15,8 +15,9 @@
 
 **对现有要求的修正**
 
-1. 对于一个官方封装的系列，其指标可以参考原始系列。\
-   例如，Space Doodles 系列被支持作为抵押品，但其交易量没有达到 5 万 ETH。由于 Space Doodles 是被封装的 Doodles，也就是被认为是 Doodles 的一部分。\
-   Snapshot: [https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824](https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824).
+对于一个官方封装的系列，其指标可以参考原始系列。\
+   例如，Space Doodles 系列被支持作为抵押品，但其交易量没有达到 5 万 ETH。由于 Space Doodles 是被封装的 Doodles，也就是被认为是 Doodles 的一部分。
+
+Snapshot: [https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824](https://snapshot.org/#/benddao.eth/proposal/0xd541d40a9072573ef718287d95d6bd5d5bb5a269a135e5c23d68769884fdf824).
 
 社区投票记录：[https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d](https://snapshot.org/#/benddao.eth/proposal/0xae941ac51880c53ac9b534195f8c359f165cf61debcb56932698603db8e4c48d)
