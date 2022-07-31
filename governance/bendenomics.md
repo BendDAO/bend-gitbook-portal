@@ -39,7 +39,7 @@ BEND 代币分发和首次公平启动发售仍在积极讨论中，任何更新
 
 ## BEND 和 veBEND 的实用价值
 
-BEND 是 Bend DAO 的治理代币。BEND 持有者可以质押 BEND 获得托管选票 BEND（[**veBEND**](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E)）.
+BEND 是 Bend DAO 的治理代币。BEND 持有者可以质押 BEND 获得 BEND 托管选票（[**veBEND**](https://etherscan.io/address/0xd7e97172C2419566839Bf80DeeA46D22B1B2E06E)）.
 
 ### veBEND
 
