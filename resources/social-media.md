@@ -1,4 +1,4 @@
-# Social Media
+# 社交媒体
 
 | Twitter | [https://twitter.com/BendDAO](https://twitter.com/BendDAO)     |
 | ------- | -------------------------------------------------------------- |
