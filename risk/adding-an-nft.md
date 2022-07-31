@@ -1,14 +1,14 @@
-# - Adding an NFT
+# - 增加一个 NFT 资产
 
-Bend protocol enables NFT loans through the pooling of funds. Each loan is secured by an NFT collateral acting as a risk mitigation tool against default.
+Bend 协议通过汇集资金实现 NFT 贷款。每笔贷款都有一个 NFT 抵押品作担保，作为防止违约的风险缓解工具。
 
-Given the specificities of Bend’s evaluation model, the selection of NFTs has been performed with the following constraints:
+鉴于 Bend 的评估模型的特殊性，在选择 NFT 时有以下限制：
 
-1. Each additional NFT will slightly increase the gas cost of the borrow and repay actions permanently. The currency must be included in the smart contract, adding complexity and thus costs.
-2. Each NFT added to Bend protocol as collateral increases the protocol risk of insolvency. From a financial perspective, the assets of Bend Protocol are the collaterals, while the liabilities are the loaned amounts. The underlying floor price of assets and liabilities often differ, with loans mostly taken in ETHs and backed by volatile NFTs. This means the protocol is heavily exposed to the failure of supported token systems as well as market fluctuations.
-3. A centralized NFT accepted as collateral exposes the protocol to its centralization risk. The single point of failure risks of underlying currencies flow into Bend Protocol.
-4. Collaterals are the assets of the protocol. To remain solvent, these assets must remain greater than the liabilities, the loans.
+1. 每一个额外的 NFT 将永久略微增加借贷和偿还行为的 gas 成本（手续费）。货币必须包含在智能合约中，增加了复杂性，从而增加了成本。
+2. 每一个加入 Bend 协议的 NFT 作为抵押品都会增加协议的无力偿付的风险。从金融角度来看，Bend 协议的资产是抵押品，而负债是贷款金额。资产和负债背后的地板价往往不同，贷款大多以 ETH 为单位，由波动较大的 NFT 支撑。这意味着该协议严重暴露于所支持的代币系统的失败以及市场波动。
+3. 一个被接受为抵押品的中心化 NFT 使协议面临其中心化的风险。基础货币的单点故障风险流入 Bend 协议。
+4. 抵押品是协议的资产。为了保持偿付能力，这些资产必须保持大于负债，即贷款。
 
-When adding a NFT to the protocol, significant controls are required to ensure the NFT will add more value than risk. Only NFTs with a great reputation and significant community are considered.&#x20;
+当添加 NFT 到协议时，需要进行重要的管控，以确保 NFT 将增加更多的价值而不是风险。只有具有良好声誉和知名的社区的 NFT 才会被考虑。&#x20;
 
-In the first phase of project development, CryptoPunks, Bored Ape Yacht Club, Doodles, Meebits and Cool Cats can be used as collateral for NFT loans.
+在项目开发的第一阶段，CryptoPunks、Bored Ape Yacht Club、Doodles、Meebits 和 Cool Cats 可以作为 NFT 贷款的抵押品。
