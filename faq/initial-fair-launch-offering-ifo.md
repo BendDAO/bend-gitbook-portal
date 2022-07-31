@@ -26,7 +26,7 @@ A: 首次公平启动发售（IFO）是 BEND 代币[公平启动](../highlights/
 
 ## Q: 我能用 BEND 代币做什么？
 
-A: BEND 持有人可以质押 BEND 获得 BEND 选票（即 veBEND）。
+A: BEND 持有人可以质押 BEND 获得 BEND 托管选票（即 veBEND）。
 
 如果您参与 IFO，您的 BEND 将被自动质押。您将获得 veBEND 代币。您锁定 BEND 代币的时间越长，您获得的 veBEND 越多。
 
