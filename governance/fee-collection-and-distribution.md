@@ -1,30 +1,30 @@
-# Fee Collection and Distribution
+# 费用收取和分配
 
-Bend lending pool contracts have the capability to charge an “admin fee”, that is Bend protocol income, 100% claimable by the veBEND holders proportionally. The admin fee is represented as a 30% of the total interest income collected on NFT loans.
+Bend 贷款池合同有能力收取“管理费”，也就是 Bend 协议收入，可由 veBEND 持有人按比例 100% 领取。管理费表示为 NFT 贷款总利息收入的 30%。
 
-For borrowing the fee is taken in the borrowed currency and calculated against the final amount received. For example, if borrowing ETH using NFTs as collateral, the fee is taken in **ETH**.
+对于借贷，费用以借出的货币为单位，并与最终收到的金额进行计算。例如，如果使用 NFT 作为抵押品借出 ETH，费用以 **ETH** 计。
 
-### VeBEND holder income estimation
+### VeBEND 持有者收入估算
 
-The first column is the estimated Bend loan volume in ETH.
+第一列是以 ETH 为单位的 Bend 贷款量估算。
 
-The second column is the estimated protocol annual fee. It is assumed that 30% of the ETH in the pool is lent out, the borrowing interest rate is 15%, and the protocol "admin fee" is 30%.
+第二列是估算的协议年费。假设池中 30% 的 ETH 被借出，借贷利率为 15%，协议“管理费”为30%。
 
-The third column is the estimated APR in ETH for veBEND holders.
+第三列是对 veBEND 持有者的 APR （年化利率）的估算（以 ETH 计）。
 
-![Estimated earnings for veBEND holders](<../.gitbook/assets/image (3) (1).png>)
+![veBEND 持有者的收益估算](<../.gitbook/assets/image (3) (1).png>)
 
-All fees are distributed to **veBEND holders** by week. The proportional amount of fees that each user is to receive is calculated based on their veBEND balance relative to the total veBEND supply.
+所有的费用都是按周分配给 **veBEND** 持有人。每个用户收到的费用比例是根据他们的 veBEND 余额相对于 veBEND 总供应量来计算的。
 
-This amount is calculated at the _start_ of the week. The actual distribution occurs at the _end_ of the week based on the fees that were collected. As such, **users who create a new voting lock will have no fee income for the current epoch week and should expect to receive their first fee payment at the end of the next epoch week**.
+这一数额是在周 _开始_ 时计算的。实际的分配是在该周 _结束_ 时根据所收取的费用进行的。因此，**创建新选票锁的用户在当前纪元周（epoch week）没有任何费用收入，应该预计在下一个纪元周结束时收到他们的第一笔费用收入**。
 
-It should be noted that the week here is not the ISO\_8601 standard week, but epoch week based on unix timestamp , so the first day of the week is not Monday, for more details please refer to Wikipedia [unix time](https://en.wikipedia.org/wiki/Unix\_time) , [ISO 8601](https://en.wikipedia.org/wiki/ISO\_8601)
+应该注意的是，这里的周不是 ISO\_8601 标准周，而是基于 unix 时间戳的纪元周，所以一周的第一天不是周一，更多细节请参考维基百科 [unix 时间](https://en.wikipedia.org/wiki/Unix_time)，[ISO 8601](https://en.wikipedia.org/wiki/ISO\_8601)。
 
-Example:\
-Suppose user lock bend at the current time Mon Apr 18 2022 06:40:39 GMT+0000\
-Then the timestamp is 1650264039\
-Current epoch week = 1650264039/604800(seconds of one week) = 2728.6111756\
-So the current epoch week 2728 starts on Thu Apr 14 2022 00:00:00 GMT+0000, and ends on Thu Apr 21 2022 00:00:00 GMT+0000\
-And next week 2729 will end on Thu Apr 28 2022 00:00:00 GMT+0000, when the user's first fee will be received
+示例：\
+假设用户在当前时间 Mon Apr 18 2022 06:40:39 GMT+0000 锁仓 bend\
+那么时间戳是 1650264039\
+当前纪元周 = 1650264039/604800(一周的秒数) = 2728.6111756\
+所以当前纪元周 2728 起始于 Thu Apr 14 2022 00:00:00 GMT+0000，结束于 Thu Apr 21 2022 00:00:00 GMT+0000\
+以及下周 2729 将结束于 Thu Apr 28 2022 00:00:00 GMT+0000，也就是用户将收到第一笔费用的时间
 
-The available BWETH balance to distribute is tracked via the “token distribute checkpoint”. This is updated at a minimum every 24 hours. Fees that are received between the last checkpoint of the previous week and the first checkpoint of the new week will be split evenly between the weeks.
+可供分配的 BWETH 余额是通过 "代币分配检查点 "来跟踪的。这至少每 24 小时更新一次。在前一周的最后一个检查点和新一周的第一个检查点之间收到的费用将在这几周之间平均分配。
