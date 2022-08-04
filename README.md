@@ -12,7 +12,7 @@ BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. NF
 
 ### Listing by Borrowers
 
-Borrowers can list mortgaged NFTs directly on the BendDAO marketplace. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
+Borrowers can list mortgaged NFTs directly on the BendDAO. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
 
 ### Instant Liquidity Listing (ILL)
 
@@ -22,7 +22,7 @@ NFT holders/sellers can choose to instantly get up to 40% of the floor value of 
 
 The buyer may pay a minimum down payment of 60%, depending on the actual price, to buy a bluechip NFT from major NFT marketplaces while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 
-The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
+The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale as well.
 
 ## For NFT Communities
 
