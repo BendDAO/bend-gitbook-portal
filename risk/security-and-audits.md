@@ -6,10 +6,11 @@ BendDAO protocol has been implemented with security as the top priority. The sys
 
 Below are the links to all audit reports for BendDAO.
 
-| Auditor           | Date       | Report                                                                                         |
-| ----------------- | ---------- | ---------------------------------------------------------------------------------------------- |
-| Verilog Solutions | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/) |
-| Certik            | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao)           |
+| Auditor           | Date       | Report                                                                                                               |
+| ----------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| Verilog Solutions | 2022-08-03 | [https://www.verilog.solutions/audits/benddao\_liquidity/](https://www.verilog.solutions/audits/benddao\_liquidity/) |
+| Verilog Solutions | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/)                       |
+| Certik            | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao)                                 |
 
 {% hint style="info" %}
 Regarding the Unresolved Major issues in the Certik report:
