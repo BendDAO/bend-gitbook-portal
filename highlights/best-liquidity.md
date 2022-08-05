@@ -1,4 +1,4 @@
-# Leveraged NFT Trading
+# Best Liquidity
 
 Based on the [instant NFT-backed loan](instant-lending-and-repayments.md), leverage trading becomes possible for NFT players.&#x20;
 
@@ -22,6 +22,8 @@ NFT holders/sellers can choose to receive up to 40% of the floor price instantly
 
 The buyer can pay **a minimum down payment of 60%**, depending on the actual price, to buy a bluechip NFT while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 
-The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
+The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale as well.
+
+![](<../.gitbook/assets/image (6).png>)
 
 ### [nft-down-payment-buyer.md](../marketplace/nft-down-payment-buyer.md "mention")
