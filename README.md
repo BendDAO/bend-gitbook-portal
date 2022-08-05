@@ -18,7 +18,7 @@ Borrowers can list mortgaged NFTs directly on the BendDAO. The balance after ded
 
 NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The buyer will pay off the loan including interests after the deal.&#x20;
 
-## NFT Down Payment
+## Buy with Down Payment
 
 The buyer may pay a minimum down payment of 60%, depending on the actual price, to buy a bluechip NFT from major NFT marketplaces while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 

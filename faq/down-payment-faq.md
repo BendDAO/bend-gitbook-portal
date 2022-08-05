@@ -11,6 +11,10 @@ Down Payment = Total price - 40%/30% of the Floor Price
 
 If the total price of the NFT is much higher than the collection floor price, the percentage of the down payment will increase.
 
+## What's the difference between Down Payment and Buy Now Pay Later?
+
+The Buy with Down Payment on BendDAO is not P2P based which means users can execute the purchase instantly. And there is no payment installments.
+
 ## What are the details of **payment installments?**
 
 **No payment installment.** You take an NFT-backed loan and then become a borrower on BendDAO. You can repay any time you like. There is no fixed time period to pay back the loan. But you do need to keep an eye on the loan health factor to avoid liquidation. As time passes, the accrued interest will grow making the health factor decrease, which might result in more likely to be liquidated.
@@ -37,4 +41,4 @@ You will receive the NFT when you pay off the loan.&#x20;
 
 ## Which marketplace is supported?
 
-BendDAO, OpenSea, Looksrare and X2Y2.
+BendDAO, OpenSea, Looksrare and X2Y2.&#x20;
