@@ -1,6 +1,6 @@
 # Introducing BendDAO
 
-BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **leveraged NFT trading**, and **NFT down payment.** The seamless experience of down payment, borrowing, and selling creates a perfect closed loop for users, a one-stop NFT liquidity solution.
+BendDAO is the best NFT liquidity protocol supporting **instant NFT-backed loans**, **Collateral Listing**, and **NFT Down Payment.** The seamless experience of down payment, borrowing, and listing creates a perfect closed loop for users, a one-stop NFT liquidity solution.
 
 ## Best Liquidity
 
@@ -10,13 +10,11 @@ This is how bluechip NFT holders are able to get the best liquidity on BendDAO.
 
 BendDAO is the first decentralized peer-to-pool based NFT liquidity protocol. NFT holders are able to borrow ETH through the lending pool using NFTs as collateral instantly, while depositors provide ETH liquidity to earn interest. The leveraged NFT trading is built on instant NFT-backed loans.
 
-### Listing by Borrowers
-
-Borrowers can list mortgaged NFTs directly on the BendDAO. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
-
-### Instant Liquidity Listing (ILL)
+### Collateral Listing&#x20;
 
 NFT holders/sellers can choose to instantly get up to 40% of the floor value of the listing before it even sells. The instant liquidity is actually provided by the instant NFT-backed loan. The buyer will pay off the loan including interests after the deal.&#x20;
+
+Existing borrowers can list the collateral directly on the BendDAO. The balance after deducting debt with interests will be transferred to the borrower (seller) after the deal.&#x20;
 
 ## Buy with Down Payment
 
