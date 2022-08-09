@@ -11,9 +11,13 @@
 
 如果 NFT 的总价远远高于系列地板价，首付款的比例将增加。
 
+## 首付买 和 先买后付 有什么差别？
+
+BendDAO 上面的首付买不是基于 P2P 的，也就是说用户可以即时完成购买。以及没有分期付款。
+
 ## **分期付款**的细节是什么？
 
-**无分期付款。** 您拿到 NFT 支持的贷款，然后成为 BendDAO 的借款人。您可以在任何时候还款。没有固定的时间段来偿还贷款。但您确实需要关注贷款健康系数，以避免清算。随着时间的推移，应计利息将增长，使健康系数下降，这可能导致您的贷款更有可能被清算。
+**没有分期付款。** 您拿到 NFT 支持的贷款，然后成为 BendDAO 的借款人。您可以在任何时候还款。没有固定的时间段来偿还贷款。但您确实需要关注贷款健康系数，以避免清算。随着时间的推移，应计利息将增长，使健康系数下降，这可能导致您的贷款更有可能被清算。
 
 {% content-ref url="liquidation.md" %}
 [清算.md](liquidation.md)
@@ -37,4 +41,4 @@ BAYC、CryptoPunks、MAYC、Doodles、Space Doodles、CloneX 以及 Azuki
 
 ## BendDAO 支持什么交易市场？
 
-BendDAO、OpenSea、Looksrare 以及 X2Y2。
+BendDAO、OpenSea、Looksrare 以及 X2Y2。&#x20;
