@@ -9,7 +9,7 @@
 * [安全 FAQ](faq/security-faq.md)
 * [交易市场 FAQ](faq/marketplace-faq.md)
 * [首付买 FAQ](faq/down-payment-faq.md)
-* [即时流动性挂单 FAQ](faq/equity-cash-out-listing-faq.md)
+* [抵押品挂单 FAQ](faq/collateral-listing-faq.md)
 * [闪电领取（Flash Claim） FAQ](faq/flash-claim-faq.md)
 * [清算 FAQ](faq/liquidation.md)
 * [公平启动（Fair-launch） FAQ](faq/initial-fair-launch-offering-ifo.md)
@@ -45,7 +45,7 @@
 ## NFT 流动性
 
 * [NFT 首付（买家）](marketplace/nft-down-payment-buyer.md)
-* [即时流动性挂单（卖家）](nft-liquidity/instant-liquidity-listing-seller.md)
+* [抵押品挂单（卖家）](nft-liquidity/collateral-listing-seller.md)
 * [二次销售版税（创作者）](marketplace/royalties-on-secondary-sales-creator.md)
 
 ## 治理
