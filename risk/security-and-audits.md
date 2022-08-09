@@ -8,6 +8,7 @@ BendDAO 协议的实施以安全为首要考虑。该系统的设计是安全的
 
 | 审计方             | 日期       | 报告                                                                                   |
 | ----------------- | ---------- | ------------------------------------------------------------------------------------ |
+| Verilog Solutions | 2022-08-03 | [https://www.verilog.solutions/audits/benddao\_liquidity/](https://www.verilog.solutions/audits/benddao\_liquidity/) |
 | Verilog Solutions | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/) |
 | Certik            | 2022-04-01 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao)   |
 
