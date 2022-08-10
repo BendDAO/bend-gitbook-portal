@@ -41,4 +41,4 @@ You will receive the NFT when you pay off the loan.&#x20;
 
 ## Which marketplace is supported?
 
-BendDAO, OpenSea, Looksrare and X2Y2.&#x20;
+Currently, BendDAO. More NFT aggregators and marketplaces will come soon. &#x20;
