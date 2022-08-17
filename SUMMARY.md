@@ -17,7 +17,7 @@
 
 ## Highlights
 
-* [Best Liquidity](highlights/best-liquidity.md)
+* [NFT Liquidity](highlights/nft-liquidity.md)
 * [Instant Lending and Repayments](highlights/instant-lending-and-repayments.md)
 * [48h Liquidation Protection](highlights/48h-liquidation-protection.md)
 * [True Ownership](highlights/true-ownership.md)
