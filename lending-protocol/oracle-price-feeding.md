@@ -21,7 +21,7 @@ For security and reliability, we will run multiple nodes to ensure that valid pr
 
 The frequency of the oracle update will automatically be adjusted based on the market volatility. A higher volatility means a higher update frequency.&#x20;
 
-end devs are working with the Chainlink team to complete the NFT oracle price feeding.
+Bend devs are working with the Chainlink team to complete the NFT oracle price feeding.
 
 ### CryptoPunks Price Curve in 6 months
 
