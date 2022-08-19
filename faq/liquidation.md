@@ -26,7 +26,9 @@ Depending on the value fluctuation of your deposits, the health factor will incr
 
 ## **How does Bend calculate the value of the collateralized NFT?**
 
-NFT floor prices are currently used as the price feeds for the collateralized NFTs. The original price data comes from OpenSea, the most well-known NFT marketplace. The collateral value is denominated in Ether instead of USDT on Bend. More details: [https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
+NFT floor prices are currently used as the price feeds for the collateralized NFTs. The original price data comes from OpenSea and LooksRare, the most well-known NFT marketplaces. The collateral value is denominated in Ether instead of USDT on Bend.&#x20;
+
+More details: [https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding](https://docs.benddao.xyz/portal/protocol-overview/oracle-price-feeding)
 
 ## **Any plan to upgrade the NFT price feeds design?**
 
@@ -68,13 +70,19 @@ It will not happen, since the bid must be:
 
 ## What will happen if the floor price drops and there is no liquidator involved in the auction?
 
-In this case, the platform only has a temporary floating loss and no actual losses. Either the borrower will repay the debt at some point in the future, or after the market price recovers, some liquidators emerge to take part in auctioning off the debt.
+First, we should define whether is it short-term fluctuations. The short-term fluctuations in NFT floor price are normal. Consensus on bluechip NFTs wasn't built in a day, and it will not be collapsed in a short period of time.
+
+In this case, the platform only has a temporary floating loss and no actual losses. Either the borrower will repay the debt at some point in the future, or after the market price recovers, some liquidators emerge to take part in auctioning off the debt. Liquidation records: [Dune](https://dune.com/cgq0123/Bend-DAO)
+
+The delisting may happen when the collection is not considered bluechip NFTs anymore.
+
+Delisting reference: [https://governance.benddao.xyz/t/nft-delisting-reference/53](https://governance.benddao.xyz/t/nft-delisting-reference/53)
 
 ## What will happen if the floor price drops to 0?
 
 Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
 
-The establishment of market consensus for blue-chip NFTs requires a long period of accumulation, and it will not be lost in a short period of time.
+The establishment of market consensus for blue-chip NFTs requires a long period of accumulation, and it will not be collapsed in a short period of time.
 
 BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
 
