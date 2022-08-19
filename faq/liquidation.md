@@ -70,7 +70,7 @@ It will not happen, since the bid must be:
 
 ## What will happen if the floor price drops and there is no liquidator involved in the auction?
 
-First, we should define whether is it short-term fluctuations. The short-term fluctuations in NFT floor price are normal. Consensus on bluechip NFTs wasn't built in a day, and it will not be collapsed in a short period of time.
+First, we should define whether it is short-term fluctuations. The short-term fluctuations in NFT floor price are normal. Consensus on bluechip NFTs wasn't built in a day, and it will not be collapsed in a short period of time.
 
 In this case, the platform only has a temporary floating loss and no actual losses. Either the borrower will repay the debt at some point in the future, or after the market price recovers, some liquidators emerge to take part in auctioning off the debt. Liquidation records: [Dune](https://dune.com/cgq0123/Bend-DAO)
 
@@ -80,13 +80,13 @@ Delisting reference: [https://governance.benddao.xyz/t/nft-delisting-reference/5
 
 ## What will happen if the floor price drops to 0?
 
-Bluechip NFTs are fast-growing assets that appreciate faster than ETH and the whole market is still early.
-
-The establishment of market consensus for blue-chip NFTs requires a long period of accumulation, and it will not be collapsed in a short period of time.
-
-BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs.
+BendDAO will only list high-quality bluechip NFTs that have been recognized by the market, and that have at least experienced multiple cycles of ups and downs. Here are the bluechip NFT eligibility requirements decided through governance.  [https://docs.benddao.xyz/portal/risk/bluechip-nft-eligibility-requirements](https://docs.benddao.xyz/portal/risk/bluechip-nft-eligibility-requirements)
 
 BendDAO is continuously monitoring the market indicators of bluechip NFTs, and timely adjust risk parameters through community governance, such as collateral ratio and delisting NFTs.
+
+The delisting may happen when the collection is not considered bluechip NFTs anymore.
+
+Delisting reference: [https://governance.benddao.xyz/t/nft-delisting-reference/53](https://governance.benddao.xyz/t/nft-delisting-reference/53)
 
 ## Any royalty for the auction?
 
