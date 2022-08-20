@@ -19,9 +19,9 @@ For CryptoPunks, we get the floor price from [CryptoPunksMarket](https://ethersc
 
 For security and reliability, we will run multiple nodes to ensure that valid price data can be uploaded to the on-chian oracle contract in a timely manner at all times and the on-chain contract limits the frequency of price feed and the difference between two price feeds cannot exceed a threshold.
 
-The frequency of the oracle update will automatically be adjusted based on the market volatility. A higher volatility means a higher update frequency. for security reasons, the tecnical details will keepen closed temporarily, but we have plan to disclose them to the community.
+The frequency of the oracle update will automatically be adjusted based on the market volatility. A higher volatility means a higher update frequency. for security reasons and to avoid attacks, the technical details will keep closed temporarily, but we plan to disclose them to the community.
 
-The TWAP time interval is 6 hours now, and it can be adjusted according community voting.
+The TWAP time interval is 6 hours now, and it can be adjusted according to community voting.
 
 Bend devs are working with the Chainlink team to complete the NFT oracle price feeding.
 
