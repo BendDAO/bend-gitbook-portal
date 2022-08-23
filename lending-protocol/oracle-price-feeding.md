@@ -23,7 +23,7 @@ The frequency of the oracle update will automatically be adjusted based on the m
 
 The TWAP time interval is 6 hours now, and it can be adjusted according to community voting.
 
-Bend devs are working with the Chainlink team to complete the NFT oracle price feeding.
+BendDAO team works closely with Chainlink. We will integrate Chainlink NFT oracle when it goes live. Before that, we run the Oracle by ourselves.
 
 ### CryptoPunks Price Curve in 6 months
 
