@@ -16,13 +16,13 @@ Refer to the NFT Performance Map designed by nonfungible.com, five key metrics w
 
 The table below shows a summary of the latest values.
 
-| Name           | Symbol      | LTV / Collateral Ratio | Liquidation Threshold | Liquidation Bonus | Redeem Duration | Auction Duration | Redeem Fine                       |
-| -------------- | ----------- | ---------------------- | --------------------- | ----------------- | --------------- | ---------------- | --------------------------------- |
-| Bored Ape YC   | BAYC        | 40%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| CryptoPunks    | CryptoPunks | 40%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| Mutant Ape YC  | MAYC        | 30%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| Azuki          | AZUKI       | 30%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| CLONE X        | CLONEX      | 30%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| Doodles        | DOODLE      | 30%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
-| Space Doodles  | SDOODLE     | 30%                    | 90%                   | 5%                | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) |
+| Name           | Symbol      | LTV / Collateral Ratio | Liquidation Threshold | Redeem Duration | Auction Duration | Redeem Fine                       | Redeem Threshold |
+| -------------- | ----------- | ---------------------- | --------------------- | --------------- | ---------------- | --------------------------------- | ---------------- |
+| Bored Ape YC   | BAYC        | 40%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| CryptoPunks    | CryptoPunks | 40%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Mutant Ape YC  | MAYC        | 30%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Azuki          | AZUKI       | 30%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| CLONE X        | CLONEX      | 30%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Doodles        | DOODLE      | 30%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Space Doodles  | SDOODLE     | 30%                    | 90%                   | 48 hours        | 48 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
 
