@@ -52,6 +52,7 @@
 
 * [Bendenomics](governance/bendenomics.md)
 * [Governance Mechanism](governance/governance-mechanism.md)
+* [BendDAO Improvement Proposals (BIPs)](governance/benddao-improvement-proposals-bips.md)
 * [Vote-escrowed BEND (veBEND)](governance/vote-escrowed-bend-vebend.md)
 * [Fee Collection and Distribution](governance/fee-collection-and-distribution.md)
 * [Governance Forum](https://snapshot.org/#/benddao.eth)
