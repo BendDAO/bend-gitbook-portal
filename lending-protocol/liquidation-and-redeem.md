@@ -21,4 +21,4 @@ Liquidation will be triggered if the NFT loan's health factor is below 1.
 
 ## NFT Loan State
 
-![](<../.gitbook/assets/NFT Loan State 0320.jpg>)
+<figure><img src="../.gitbook/assets/NFT Loan State 20220830.jpg" alt=""><figcaption></figcaption></figure>
