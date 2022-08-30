@@ -4,7 +4,7 @@
 
 Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly on BendDAO.
 
-If the floor price drops to 44 ETH, the 48h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
+If the floor price drops to 44 ETH, the 24h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
 
 Health Factor = (44 \* 90%) / (40 + interests) <1&#x20;
 
@@ -36,27 +36,29 @@ Since there is no sophisticated NFT price feed solution in the market now, using
 
 ## **Why does the market liquidation crisis NOT happen in Bend?**
 
-48h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
+24h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
 
-More details of [48h Liquidation Protection](../highlights/48h-liquidation-protection.md).
+More details of [Liquidation Protection](../highlights/48h-liquidation-protection.md).
 
 ## **What will happen if liquidation occurs?**
 
-When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) **** and the 48h liquidation protection**.**&#x20;
+When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) **** and the 24h liquidation protection**.**&#x20;
 
-The borrower (user with the collateralized NFT) will be able to repay the loan within the 48-hour window.
+The borrower (user with the collateralized NFT) will be able to repay the loan within the 24-hour window.
 
 ## **What's the liquidation threshold on Bend?**
 
-The liquidation threshold is the maximum loan to value (LTV) which means debt plus interest to collateral value. If collateral has a liquidation threshold of 90%, the loan will be liquidated when the debt value is worth 90% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+The liquidation threshold is the maximum loan to value (LTV) which means debt plus interest to collateral value. If collateral has a liquidation threshold, the loan will be liquidated when the debt value is worth the liquidation threshold of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+
+_\*More details of the adjustment of the_ [_Liquidation Threshold_](../governance/benddao-improvement-proposals-bips.md)_._&#x20;
 
 ## **Will my loan be liquidated if the price of Ether drops?**
 
 All NFTs are denominated in Ether instead of USDT on Bend. The price of Ether and the price of NFT are not necessarily related.
 
-## **Does the borrower need to keep paying interest while the 48-hour liquidation protection mechanism is active?**
+## **Does the borrower need to keep paying interest while the liquidation protection mechanism is active?**
 
-Yes. Because the NFT-backed loan is still active during the 48-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty of a maximum(5% of the debt, 0.2 ETH) to the first bidder, even after NFT floor prices recover to the normal price.
+Yes. Because the NFT-backed loan is still active during the 24-hour liquidation protection. For safety and fairness, borrowers need to pay a penalty of a maximum(5% of the debt, 0.2 ETH) to the first bidder, even after NFT floor prices recover to the normal price.
 
 We believe that this will not happen. The liquidation mechanism is designed with a comprehensive incentive mechanism, such as the discount purchase of NFT, redeeming fines, etc., and the liquidator participating in the auction can get a generous arbitrage.
 
@@ -64,9 +66,8 @@ We believe that this will not happen. The liquidation mechanism is designed with
 
 It will not happen, since the bid must be:
 
-1. more than 95% of the floor price.
-2. bigger than the total accumulated debt.
-3. higher than the previous bid plus 1% debt.
+1. bigger than the total accumulated debt.
+2. higher than the previous bid plus 1% debt.
 
 ## What will happen if the floor price drops and there is no liquidator involved in the auction?
 
