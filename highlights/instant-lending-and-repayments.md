@@ -27,11 +27,13 @@ MAYC, Azuki, CloneX and Doodles are selected by BEND stakers. Details of the Com
 
 ## What's the Collateral Ratio?
 
-| Name         | Symbol      | Collateral Ratio | Liquidation Threshold | Liquidation Bonus | Redeem Duration (Days) | Auction Duration (Days) | Redeem Fine |
-| ------------ | ----------- | ---------------- | --------------------- | ----------------- | ---------------------- | ----------------------- | ----------- |
-| CryptoPunks  | CryptoPunks | 40%              | 90%                   | 5%                | 2                      | 2                       | 1%          |
-| Bored Ape YC | BAYC        | 40%              | 90%                   | 5%                | 2                      | 2                       | 1%          |
-| Others       | TBC         | 30%              | 90%                   | 5%                | 2                      | 2                       | 1%          |
+Collateral Ration is the ratio of maximum borrowable ETH amount to the NFT floor price.
+
+| Name         | Collateral Ration |
+| ------------ | ----------------- |
+| CryptoPunks  | 40%               |
+| Bored Ape YC | 40%               |
+| Others       | 30%               |
 
 [More details](../risk/nft-risk-parameters.md)
 
