@@ -30,4 +30,4 @@ In order to avoid losses caused by the market fluctuations, an NFT auction will 
 
 
 
-_\*The liquidation protection is adjusted to 24 hours based on_ [_BIP#9 & BIP#10._](../governance/benddao-improvement-proposals-bips.md)__
+_\*The liquidation protection is adjusted to 24 hours based on_ [_BIP#9 & BIP#10._](../governance/benddao-improvement-proposals-bips.md) _Updated as of August 30th, 2022._

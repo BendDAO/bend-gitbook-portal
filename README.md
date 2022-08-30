@@ -24,9 +24,9 @@ The buyers will automatically become borrowers with the down payment. And borrow
 
 ## For NFT Communities
 
-### A 48-hour liquidation protection &#x20;
+### A 24-hour liquidation protection &#x20;
 
-In order to avoid losses caused by the market fluctuations, the borrower will have a 48-hour liquidation protection period to repay the loan.&#x20;
+In order to avoid losses caused by the market fluctuations, the borrower will have a 24-hour liquidation protection period to repay the loan.&#x20;
 
 ### Same airdrop right for borrowers&#x20;
 
@@ -36,3 +36,6 @@ Borrowers will be eligible for all related NFT holder airdrops. BendDAO will col
 
 NFTs will be converted into representing ERC721 boundNFTs through instant NFT loans. boundNFT is untransferable avoiding the risk of theft. On the other side, boundNFT has the same digital self-expression which can be used on Web2 social media platforms that support the NFT avatar.
 
+
+
+_\*The liquidation protection is adjusted to 24 hours based on_ [_BIP#9 & BIP#10._](governance/benddao-improvement-proposals-bips.md) _Updated as of August 30th, 2022._
