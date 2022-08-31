@@ -1,6 +1,6 @@
 # Rewards
 
-### Deposit/Borrow Rewards
+## Deposit/Borrow Rewards
 
 To encourage lenders and borrowers to provide liquidity to lend pool, 40% of all BEND tokens are to be distributed through lend/borrow incentives,  the Lend/Borrow Incentive ratio is 1:3.
 
