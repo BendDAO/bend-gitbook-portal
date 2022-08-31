@@ -3,6 +3,7 @@
 * [Introducing BendDAO](README.md)
 * [Discord](https://discord.gg/benddao)
 * [Roadmap](roadmap.md)
+* [Chinese version 中文](chinese-version-zhong-wen.md)
 
 ## FAQ
 
