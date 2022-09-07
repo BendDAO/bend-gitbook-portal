@@ -41,13 +41,13 @@ Bend also adapted its cost of borrowing by lowering of the assets affected. This
 
 Following the favorable historical review of liquidity risk, the interest rate models have been optimized to be more competitive while keeping theirs risk mitigation properties.
 
-| Asset | Uoptimal | Ro | Rslope1 | Rslope2 |
-| ----- | -------- | -- | ------- | ------- |
-| ETH   | 80%      | 0  | 8%      | 100%    |
+| Asset | Uoptimal | Ro  | Rslope1 | Rslope2 |
+| ----- | -------- | --- | ------- | ------- |
+| ETH   | 80%      | 20% | 8%      | 100%    |
 
 ### Borrow Interest Rate Curve
 
-![](<../.gitbook/assets/Borrow Interest Rate Model.png>)
+<figure><img src="../.gitbook/assets/Borrow Interest Rate Model 0907.png" alt=""><figcaption></figcaption></figure>
 
 ## Deposit APY
 
@@ -65,6 +65,6 @@ $$R_t$$: the reserve factor.
 
 ### Deposit Interest Rate Curve
 
-![Deposit Interest Rate Model](<../.gitbook/assets/Deposit Interest Rate Model.png>)
+<figure><img src="../.gitbook/assets/Deposit Interest Rate Model 0907.png" alt=""><figcaption></figcaption></figure>
 
-You can view the protocol's deposit APY on the Bend App for each asset.
+You can view the protocol's deposit APY on the BendDAO App for each asset.
