@@ -15,9 +15,9 @@ You can read the technical details about the interest rate model [here](../risk/
 
 #### 2022-09-07 For Ethereum Merge
 
-| UtilizationRate | BaseRate | Slope1 | Slope2 |
-| --------------- | -------- | ------ | ------ |
-| 45%             | 20%      | 16%    | 200%   |
+| UtilizationRate | BaseRate  | Slope1    | Slope2     |
+| --------------- | --------- | --------- | ---------- |
+| 0.45(45%)       | 0.20(20%) | 0.16(16%) | 2.00(200%) |
 
 <figure><img src="../.gitbook/assets/Borrow Rate and Deposit Rate-45-0907.png" alt=""><figcaption></figcaption></figure>
 
@@ -47,9 +47,9 @@ You can read the technical details about the interest rate model [here](../risk/
 
 #### 2022-08-23 For Liquidity Crisis
 
-| UtilizationRate | BaseRate | Slope1 | Slope2 |
-| --------------- | -------- | ------ | ------ |
-| 80%             | 20%      | 8%     | 100%   |
+| UtilizationRate | BaseRate | Slope1   | Slope2     |
+| --------------- | -------- | -------- | ---------- |
+| 0.8(80%)        | 0.2(20%) | 0.08(8%) | 1.00(100%) |
 
 <figure><img src="../.gitbook/assets/Borrow Rate and Deposit Rate-80-0907.png" alt=""><figcaption></figcaption></figure>
 
@@ -79,9 +79,9 @@ You can read the technical details about the interest rate model [here](../risk/
 
 #### 2022-03-21 For The Begining
 
-| UtilizationRate | BaseRate | Slope1 | Slope2 |
-| --------------- | -------- | ------ | ------ |
-| 65%             | 10%      | 8%     | 100%   |
+| UtilizationRate | BaseRate  | Slope1   | Slope2     |
+| --------------- | --------- | -------- | ---------- |
+| 0.65(65%)       | 0.10(10%) | 0.08(8%) | 1.00(100%) |
 
 <figure><img src="../.gitbook/assets/Borrow Rate and Deposit Rate-65-0907.png" alt=""><figcaption></figcaption></figure>
 
