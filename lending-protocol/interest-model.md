@@ -19,7 +19,7 @@ You can read the technical details about the interest rate model [here](../risk/
 
 <figure><img src="../.gitbook/assets/Borrow Rate and Deposit Rate-45-0907.png" alt=""><figcaption></figcaption></figure>
 
-#### 2022-08-23
+#### 2022-08-23 Liquidity Crisis
 
 | UtilizationRate | BaseRate | Slope1 | Slope2 |
 | --------------- | -------- | ------ | ------ |
