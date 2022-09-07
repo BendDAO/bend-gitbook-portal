@@ -38,7 +38,7 @@
 
 * [bendETH](lending-protocol/bendeth.md)
 * [boundNFT](lending-protocol/boundnft.md)
-* [Interest Model](lending-protocol/interest-model.md)
+* [Interest Rate Model](lending-protocol/interest-model.md)
 * [bendETH Valuation](lending-protocol/bendeth-valuation.md)
 * [Oracle Price Feeding](lending-protocol/oracle-price-feeding.md)
 * [Liquidation and Redeem](lending-protocol/liquidation-and-redeem.md)
