@@ -2,13 +2,13 @@
 
 ## Overview
 
-Bend is an NFT liquidity and lending protocol that enables borrowing ETH from the liquidity pools. Depositors receive bETH, in exchange of cryptocurrency deposits.
+Bend is an NFT liquidity and lending protocol that enables borrowing ETH from the liquidity pools. Depositors receive bendETH, in exchange of cryptocurrency deposits.
 
-The liquidity of the protocol is the availability of the capital to face business operations: borrowing amounts and redeeming bTokens. It is a key metric, as lack of liquidity will block business operations.
+The liquidity of the protocol is the availability of the capital to face business operations: borrowing amounts and redeeming bendETH. It is a key metric, as lack of liquidity will block business operations.
 
 At any point in time, the liquidity of the protocol can be assessed through the utilisation ratio: the share of reserve that is currently borrowed for each currency.
 
-In this section, we dive into Bend's liquidity risk by analysing the historical availability of Bend's assets and identify periods of lack of liquidity. Then we look at the valuation of bTokens, illiquid assets often suffer from illiquidity discounts due to the difficulty to find counter parties.
+In this section, we dive into Bend's liquidity risk by analysing the historical availability of Bend's assets and identify periods of lack of liquidity. Then we look at the valuation of bendETH, illiquid assets often suffer from illiquidity discounts due to the difficulty to find counter parties.
 
 The historical utilisation and bToken valuation help us assess the level of liquidity risk of the protocol. Once this risk is understood, we can put in place risk management techniques through the borrow interest rate model and set up alternative sources of bToken liquidity.
 
@@ -19,7 +19,7 @@ Bend’s interest rate model is calibrated to manage liquidity risk and optimize
 * When capital is available: low interest rates to encourage loans.
 * When capital is scarce: high interest rates to encourage repayments for the loans and additional deposits.
 
-## Interest Rate Model <a href="#interest-rate-model" id="interest-rate-model"></a>
+## Interest Rate Fomular <a href="#interest-rate-model" id="interest-rate-model"></a>
 
 Liquidity risk materializes when utilization is high, it becomes more problematic as gets closer to 100%. To tailor the model to this constraint, the interest rate curve is split into two parts around an optimal utilization rate $$U_{optimal}$$. Before $$U_{optimal}$$ the slope is small, after it starts rising sharply.
 
@@ -31,7 +31,7 @@ $$if U \ge U_{optimal}: R_t = R_o + R_{slope1} + (U_t - U_{optimal}) / (1 - U_{o
 
 In the borrow rate technical implementation, the calculateCompoundedInterest method relies on an approximation that mostly affects high interest rates.
 
-## Model Parameters
+## Interest Rate Parameters
 
 It's also key to consider market conditions: how can the asset be used in the current market Bend's borrowing costs must be aligned with market yield opportunities. Or there would be a rate arbitrage with rational users incentivized to borrow all the liquidity on Bend to take advantage of higher yield opportunities.
 
@@ -43,7 +43,13 @@ Following the favorable historical review of liquidity risk, the interest rate m
 
 | Asset | Uoptimal | Ro  | Rslope1 | Rslope2 |
 | ----- | -------- | --- | ------- | ------- |
-| ETH   | 80%      | 20% | 8%      | 100%    |
+| ETH   | 45%      | 20% | 16%     | 200%    |
+
+### **Changing histories**
+
+* 2022-09-07, To adapt impact of Ethereum Merge, Adjusting Uoptimal to 45%, Rslope1 to 16%, Rslope2 to 200%;
+* 2022-09-02,  To adapt impact of Ethereum Merge, Adjusting Uoptimal to 80%;
+* 2022-08-23, To solve the liquidity crisis caused by NFT price fluctuation and Liquidation, adjusting Ro to 20%;
 
 ### Borrow Interest Rate Curve
 
