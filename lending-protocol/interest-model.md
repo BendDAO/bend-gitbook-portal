@@ -4,8 +4,10 @@ Bend’s interest rate model is calibrated to manage liquidity risk and optimize
 
 $$U$$ is an indicator of the availability of capital in the pool. The interest rate model is used to manage liquidity risk through user incentivizes to support liquidity:
 
-* When capital is available: low interest rates to encourage loans.
-* When capital is scarce: high interest rates to encourage repayments for the loans and additional deposits.
+* When capital is available: lower interest rates to encourage loans.
+* When capital is scarce: higher interest rates encourage repayments for the loans and additional deposits.
+
+You can read the technical details about the interest rate model with liquidity risk [here](../risk/interest-rate-model.md).
 
 ## Borrow Interest Rate Curve
 
