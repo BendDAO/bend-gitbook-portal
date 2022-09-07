@@ -13,7 +13,7 @@ You can read the technical details about the interest rate model [here](../risk/
 
 ## Interest Rate Curves
 
-#### 2022-09-07 Ethereum Merge
+#### 2022-09-07 For Ethereum Merge
 
 | UtilizationRate | BaseRate | Slope1 | Slope2 |
 | --------------- | -------- | ------ | ------ |
@@ -45,7 +45,7 @@ You can read the technical details about the interest rate model [here](../risk/
 | 0.95             | 2.1782      | 1.4485       |
 | 1.00             | 2.3600      | 1.6520       |
 
-#### 2022-08-23 Liquidity Crisis
+#### 2022-08-23 For Liquidity Crisis
 
 | UtilizationRate | BaseRate | Slope1 | Slope2 |
 | --------------- | -------- | ------ | ------ |
@@ -77,7 +77,7 @@ You can read the technical details about the interest rate model [here](../risk/
 | 0.95             | 1.0300      | 0.6850       |
 | 1.00             | 1.2800      | 0.8960       |
 
-#### 2022-03-21 The Begining
+#### 2022-03-21 For The Begining
 
 | UtilizationRate | BaseRate | Slope1 | Slope2 |
 | --------------- | -------- | ------ | ------ |
