@@ -1,4 +1,4 @@
-# Interest Rate Model
+# Liquidity Risk
 
 ## Overview
 
@@ -43,7 +43,7 @@ Following the favorable historical review of liquidity risk, the interest rate m
 
 | Asset | Uoptimal | Ro | Rslope1 | Rslope2 |
 | ----- | -------- | -- | ------- | ------- |
-| ETH   | 65%      | 0  | 8%      | 100%    |
+| ETH   | 80%      | 0  | 8%      | 100%    |
 
 ### Borrow Interest Rate Curve
 
