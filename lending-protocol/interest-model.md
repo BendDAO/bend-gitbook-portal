@@ -7,21 +7,29 @@ $$U$$ is an indicator of the availability of capital in the pool. The interest r
 * When capital is available: lower interest rates to encourage loans.
 * When capital is scarce: higher interest rates encourage repayments for the loans and additional deposits.
 
-You can read the technical details about the interest rate model with liquidity risk [here](../risk/interest-rate-model.md).
+You can read the technical details about the interest rate model [here](../risk/interest-rate-model.md).
 
 ## Borrow Interest Rate Curve
 
-![](<../.gitbook/assets/Borrow Interest Rate Model.png>)
+<figure><img src="../.gitbook/assets/Borrow Interest Rate Model 0907.png" alt=""><figcaption></figcaption></figure>
 
 ## Deposit Interest Rate Curve
 
-![](<../.gitbook/assets/Deposit Interest Rate Model.png>)
+<figure><img src="../.gitbook/assets/Deposit Interest Rate Model 0907.png" alt=""><figcaption></figcaption></figure>
 
 ## Interest Rate Models
 
 We have listed three different sets of base interest rate models, and the final interest rate model will be decided by the community through voting.
 
-### Base Interet Rate 3%
+Those interest rate tables are based on the following parameters:
+
+* Optimal Utilization Rate: 65%;
+* Rate Slope 1: 8%;
+* Rate Slope 2: 100%;
+
+You can read the technical details about the interest rate model [here](../risk/interest-rate-model.md).
+
+### Base Interest Rate 3%
 
 | Utilization Rate(%) | Borrow Rate(%) | Deposit Rate(%) |
 | ------------------- | -------------- | --------------- |
