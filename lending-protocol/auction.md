@@ -4,7 +4,7 @@ The NFT auction design ensures Bend remains both decentralized and sustainable. 
 
 ## The Design of NFT Auction
 
-An NFT auction will be initiated when the health factor is below 1. More specifically, if the collateral has a liquidation threshold of 85%, the loan will be liquidated when the debt value is worth 85% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
+An NFT auction will be initiated when the health factor is below 1. More specifically, if the collateral has a liquidation threshold of 80%, the loan will be liquidated when the debt value is worth 80% of the collateral value. The liquidation threshold is specified per collateral and expressed in percentage points.
 
 * An open-outcry ascending dynamic auction system
 * The system opens the auction with a starting price. The starting price will be 1) bigger than the total accumulated debt.
@@ -23,7 +23,7 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 ### Borrower
 
 * The borrower will have a[ liquidation protection](../highlights/48h-liquidation-protection.md) period to repay the loan.
-* If the borrower repays within 24 hours, he/she will pay a fine of a maximum(5% of the debt, 0.2 ETH) to the first bidder.
+* If the borrower repays 50% of the debt within 24 hours, he/she will pay a fine of a maximum(5% of the debt, 0.2 ETH) to the first bidder.
 * If the collateral is sold in auction for greater than the loan amount, the excess will belong to the borrower.
 
 {% hint style="info" %}
