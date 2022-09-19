@@ -31,11 +31,13 @@ The work of each season is gathered and presented on its dedicated section, repr
 
 ## 2022 Q3
 
-* P2P NFT Lending Proposals🛠️
-* More Bluechip NFTs Online Proposals🛠️
+* Support Offer in Exchange Protocol🛠️
+* Wrapper Koda for Otherdeed LAND Proposals🛠️
+* Support Moonbirds w/o Nesting Proposals🛠️
+* Support ApeCoin Staking Proposals🛠️
+* Integrating Ecosystem Projects🛠️
 
 ## 2022 Q4
 
-* NFT Renting Proposals
-* Permissionless Pool Proposals
-* Universal Web3 Data Liquidity
+* P2P NFT Lending Proposals
+* Private Lending Pool Proposals
