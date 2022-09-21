@@ -18,12 +18,12 @@ The table below shows a summary of the latest values.
 
 | Name           | Symbol      | LTV / Collateral Ratio | Liquidation Threshold | Redeem Duration | Auction Duration | Redeem Fine                       | Redeem Threshold |
 | -------------- | ----------- | ---------------------- | --------------------- | --------------- | ---------------- | --------------------------------- | ---------------- |
-| Bored Ape YC   | BAYC        | 40%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| CryptoPunks    | CryptoPunks | 40%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| Mutant Ape YC  | MAYC        | 30%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| Azuki          | AZUKI       | 30%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| CLONE X        | CLONEX      | 30%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| Doodles        | DOODLE      | 30%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
-| Space Doodles  | SDOODLE     | 30%                    | 85%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Bored Ape YC   | BAYC        | 40%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| CryptoPunks    | CryptoPunks | 40%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Mutant Ape YC  | MAYC        | 30%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Azuki          | AZUKI       | 30%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| CLONE X        | CLONEX      | 30%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Doodles        | DOODLE      | 30%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
+| Space Doodles  | SDOODLE     | 30%                    | 80%                   | 24 hours        | 24 hours         | maximum (5% of the debt, 0.2 ETH) | 50%              |
 
 _\*The liquidation protection and liquidation threshold are adjusted to 24 hours based on_ [_BIP#9 & BIP#10._](../governance/benddao-improvement-proposals-bips.md) _Updated as of August 30th, 2022._
