@@ -101,7 +101,7 @@ More details of [veBEND](../governance/vote-escrowed-bend-vebend.md).
 
 ## Bend Launch Schedule
 
-* [IFO (F for Fair Launch)](../highlights/fair-launch.md)
+* [IFO (F for Fair Launch)](broken-reference)
 * Bluechip NFT Community Voting
 
 NFT projects with Instant NFT-backed Loan support will create a positive liquidity cycle for the project which will bring more strong price support and long-term community development.
@@ -117,4 +117,4 @@ Community Voting details: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6
 
     Muti-sig Election is to form the committee to monitor the transactions and to reject the transactions that are not supposed to be executed on behalf of the Bend DAO Treasury.
 
-More details of the BEND[ Fair Launch](../highlights/fair-launch.md).
+More details of the BEND[ Fair Launch](broken-reference).

@@ -53,11 +53,9 @@ veBEND holders will be able to vote for 4 of 7 bluechip NFTs that will get initi
 
 BEND stakers (veBEND holders) share 100% of the protocol income. More details of [veBEND](vote-escrowed-bend-vebend.md).
 
-## Initial Fair-launch Offering
+## Initial Fair-launch Offering (IFO)
 
-### What the ETH raised will be used for?
-
-66% of the raised ETH will be used for the ETH lending pool on Bend, and 34% of the ETH will be used for the Bend dev operation.
+Details: [https://medium.com/@BendDAO/benddao-fair-launch-fcb1e3c5e4a3](https://medium.com/@BendDAO/benddao-fair-launch-fcb1e3c5e4a3)
 
 ### **The rules are as follows:**
 

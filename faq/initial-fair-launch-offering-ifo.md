@@ -1,4 +1,4 @@
-# Initial Fair-launch Offering (IFO)
+# Fair-launch FAQ
 
 ## Q: Why it is called IFO?
 
@@ -11,7 +11,7 @@ A: F is for Fair Launch.
 
 ## Q: What is BEND IFO?
 
-A: Initial Fair-launch Offering (IFO) is a part of the BEND Token [Fair Launch](../highlights/fair-launch.md). BEND IFO is a fundraising approach that pools ETH from the public.
+A: Initial Fair-launch Offering (IFO) is a part of the BEND Token Fair Launch. BEND IFO is a fundraising approach that pools ETH from the public.
 
 **66%** of the raised ETH will be used for the ETH lending pool on Bend, and **34%** of the ETH will be used for the Bend dev operation.
 

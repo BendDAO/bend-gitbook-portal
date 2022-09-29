@@ -22,7 +22,6 @@
 * [Instant Lending and Repayments](highlights/instant-lending-and-repayments.md)
 * [Liquidation Protection](highlights/48h-liquidation-protection.md)
 * [True Ownership](highlights/true-ownership.md)
-* [Fair Launch](highlights/fair-launch.md)
 
 ## USER GUIDES
 
