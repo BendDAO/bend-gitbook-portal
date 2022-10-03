@@ -8,15 +8,11 @@ We created Bend Protocol to fill a void in Decentralized NFT liquidity, with the
 
 The Bendenomics introduce a formalized path to the decentralization and autonomy of the Bend Protocol. Covering governance mechanisms and financial incentives, it aims to share a vision of alignment between various stakeholders within the Bend ecosystem, protocol functionality, and the Bend token as a core securing element of the Bend Protocol.
 
-{% hint style="info" %}
-BEND Token Distribution and Initial FairLaunch Offering are still in active discussions, any updates will be communicated to the community in a timely manner, and suggestions from early participants are eagerly welcome.
-{% endhint %}
-
 ## BEND Token Distribution
 
-Now, more than ever, the importance of decentralized governance is clear. We take the responsibility of distributing BEND governance tokens seriously. The BEND Community is our top priority.
+Now, more than ever, the importance of decentralized governance is transparent. We take the responsibility of distributing BEND governance tokens seriously. The BEND Community is our top priority.
 
-We would like to share our plans for the BEND governance token distribution. Over the next few weeks, as we prepare for the launch of BEND Protocol, we will release more details about feature updates and the Reserve Crowdfunding launch. As always, we welcome your feedback via Twitter and our Discord.
+We would like to share our plans for the BEND governance token distribution. Over the next few weeks, as we prepare for the launch of BEND Protocol, we will release more details about feature updates and the Reserve Crowdfunding launch. As always, we welcome your feedback via Twitter and Discord.
 
 ### The Big Picture
 
@@ -35,7 +31,7 @@ The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b
 | Uniswap LP Incentive (by Governance) | 3%         | Decided by the community                                                                     |
 | Lend/Borrow Incentive                | 40%        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 |
 
-A critical consideration is that the community of BEND holders collectively maintains the ability to safe the Bend Protocol. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
+A critical consideration is that the community of BEND holders collectively maintains the ability to keep the Bend Protocol safe. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
 
 ## The Utility of BEND and veBEND
 
@@ -94,13 +90,13 @@ To encourage lenders and borrowers providing liquidity to lend pool, 40% of all 
 
 ### Developer Team (21% - 2,100,000,000)
 
-Developer Team tokens are retained for founders and original early contributors to Bend. The Bend Protocol was conceived in Q3 2021 and work began in Q4 2021. Although the Mainnet is just now being launched, the contributions of founders and early members that have been working on Bend was crucial to improving the protocol continually. The team will continue to work on Bend for its lifetime along with the greater community. To that end, 21% of all BEND tokens are locked across a number of years.
+Developer Team tokens are retained for founders and original early contributors to Bend. The Bend Protocol was conceived in Q3 2021 and work began in Q4 2021. Although the Mainnet is just now being launched, the contributions of founders and early members that have been working on Bend were crucial to improving the protocol continually. The team will continue to work on Bend for its lifetime along with the greater community. To that end, 21% of all BEND tokens are locked across a number of years.
 
 * 7% of BEND tokens locked for 12 months, then to be released linearly in seconds over a year.
 * 7% of BEND tokens locked for 24 months, then to be released linearly in seconds over a year.
 * 7% of BEND tokens locked for 36 months, then to be released linearly in seconds over a year.
 
-So in the first year, the team will not sell any tokens to the market and can only participate in the distribution of protocol income.
+So in the first year, the team will not sell any tokens to the market and will not participate in the distribution of protocol income.
 
 ## Wallet Addresses
 
