@@ -39,5 +39,6 @@ The work of each season is gathered and presented in its dedicated section, repr
 
 ## 2022 Q4
 
+* Providing Open API and SDK
 * P2P NFT Lending Proposals
 * Private Lending Pool Proposals
