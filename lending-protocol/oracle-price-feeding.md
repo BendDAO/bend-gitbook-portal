@@ -1,12 +1,12 @@
 # Oracle Price Feeding
 
-Bend protocol uses NFT floor price from [OpenSea](http://opensea.io) and [LooksRare](https://looksrare.org/) as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuation from [OpenSea](http://opensea.io) and [LooksRare](https://looksrare.org/) marketplace.
+Bend protocol uses NFT floor price from [OpenSea](http://opensea.io), [LooksRare](https://looksrare.org/) and [X2Y2](https://x2y2.io/) as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuation from [OpenSea](http://opensea.io) and [LooksRare](https://looksrare.org/) marketplace.
 
 Bend oracle design and running mechanism:
 
-1. The off-chain node obtains the raw floor price of NFTs from OpenSea and LooksRare trading markets;
+1. The off-chain node obtains the raw floor price of NFTs from OpenSea, LooksRare and X2Y2 trading markets;
 2. Filter the raw floor price data, such as the floor price difference between OpenSea and LooksRare is too big;
-3. Calculate the floor price according to the transaction volume of OpenSea and LooksRare;
+3. Calculate the floor price according to the transaction volume of OpenSea, LooksRare and X2Y2;
 4. Compare the difference between the price on the chain and the latest floor price to determine whether the floor price needs to be uploaded to the chain;
 5. Call the contract interface to upload the floor price to the on-chain contract and calculate the time-weighted average price (TWAP) on-chain to weight the floor price, ensuring the price is reasonable;
 6. The TWAP algorithm is open source on the on-chain contract, and everyone can verify the validity of the data;
