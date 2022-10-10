@@ -12,6 +12,6 @@
 1. Visit [https://www.benddao.xyz/app/liquidity-mining](https://www.benddao.xyz/app/liquidity-mining)&#x20;
 2. Deposit the Uniswap v2 LP tokens
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)

@@ -12,7 +12,7 @@ The second column is the estimated protocol annual fee. It is assumed that 30% o
 
 The third column is the estimated APR in ETH for veBEND holders.
 
-![Estimated earnings for veBEND holders](<../.gitbook/assets/image (3) (1) (1).png>)
+![Estimated earnings for veBEND holders](<../.gitbook/assets/image (3) (1).png>)
 
 All fees are distributed to **veBEND holders** by week. The proportional amount of fees that each user is to receive is calculated based on their veBEND balance relative to the total veBEND supply.
 
