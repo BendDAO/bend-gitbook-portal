@@ -1,4 +1,4 @@
-# Best Liquidity
+# NFT Liquidity
 
 Based on the [instant NFT-backed loan](instant-lending-and-repayments.md), Collateral Listing becomes possible for NFT players.&#x20;
 
@@ -10,7 +10,7 @@ With Collateral Listing, NFT holders/sellers can choose to take an instant NFT-b
 
 The user will become the borrower and the seller on BendDAO after the Collateral Listing.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 ## From buyers' perspective
 

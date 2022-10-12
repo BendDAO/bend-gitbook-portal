@@ -1,6 +1,6 @@
 # Oracle Price Feeding
 
-Bend protocol uses NFT floor price from [OpenSea](http://opensea.io), [X2Y2](https://x2y2.io/) and [LooksRare](https://looksrare.org/)as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuation from OpenSea, X2Y2 and LooksRare marketplaces.
+Bend protocol uses NFT floor price from [OpenSea](http://opensea.io), [X2Y2](https://x2y2.io/) and [LooksRare](https://looksrare.org/) as data of price feeding for NFT collateral. Bend protocol only supports the bluechip NFT asset's floor price for price feeding on-chain. Bluechip NFT's floor price is not easily manipulated. Besides that bend protocol calculate TWAP of floor price to filter the price fluctuation from OpenSea, X2Y2 and LooksRare marketplaces.
 
 Bend oracle design and running mechanism:
 
@@ -15,7 +15,7 @@ Bend oracle design and running mechanism:
 For CryptoPunks, we get the floor price from [CryptoPunksMarket](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code) contract directly!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Oracle Mechanism</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Oracle Mechanism</p></figcaption></figure>
 
 For security and reliability, we will run multiple nodes to ensure that valid price data can be uploaded to the on-chian oracle contract in a timely manner at all times and the on-chain contract limits the frequency of price feed and the difference between two price feeds cannot exceed a threshold.
 

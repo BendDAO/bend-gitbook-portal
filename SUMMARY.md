@@ -27,7 +27,8 @@
 
 * [Getting Started](user-guides/getting-started.md)
 * [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
-* [Deposit NFT (Borrower)](user-guides/deposit-nft-borrower.md)
+* [Borrow ETH (NFT holder)](user-guides/borrow-eth-nft-holder/README.md)
+  * [1. How to borrow](user-guides/borrow-eth-nft-holder/1.-how-to-borrow.md)
 * [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
 * [Flash Claim](user-guides/flashclaim.md)
 * [Uniswap v2 LP Liquidity Mining](user-guides/uniswap-v2-lp-liquidity-mining.md)
