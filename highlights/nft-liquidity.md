@@ -20,6 +20,6 @@ The buyer can pay **a minimum down payment of 60%**, depending on the actual pri
 
 The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale as well.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 ### [nft-down-payment-buyer.md](../marketplace/nft-down-payment-buyer.md "mention")
