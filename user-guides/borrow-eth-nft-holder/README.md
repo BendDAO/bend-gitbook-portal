@@ -6,10 +6,6 @@
 
 ## [3. Interest rates and reward](3.-interest-rates-and-rewards.md)
 
-## 4. Loan Health Factor
+## [4. Loan Health Factor](4.-loan-health-factor.md)
 
-## 5. Collateral Listing
-
-## 6. 24h Liquidation Protection
-
-## 7. Flash Claim
+## 5. Flash Claim
