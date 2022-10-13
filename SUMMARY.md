@@ -31,6 +31,7 @@
   * [1. How to borrow](user-guides/borrow-eth-nft-holder/1.-how-to-borrow.md)
   * [2. How to repay](user-guides/borrow-eth-nft-holder/2.-how-to-repay.md)
   * [3. Interest rates and rewards](user-guides/borrow-eth-nft-holder/3.-interest-rates-and-rewards.md)
+  * [4. Loan Health Factor](user-guides/borrow-eth-nft-holder/4.-loan-health-factor.md)
 * [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
 * [Flash Claim](user-guides/flashclaim.md)
 * [Uniswap v2 LP Liquidity Mining](user-guides/uniswap-v2-lp-liquidity-mining.md)
