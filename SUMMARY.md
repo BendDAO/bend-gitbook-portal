@@ -34,6 +34,7 @@
   * [4. Loan Health Factor](user-guides/borrow-eth-nft-holder/4.-loan-health-factor.md)
   * [5. Flash Claim](user-guides/borrow-eth-nft-holder/5.-flash-claim.md)
 * [Deposit ETH (Lender)](user-guides/deposit-eth-lender.md)
+* [Buy with Down Payments](user-guides/buy-with-down-payments.md)
 * [Flash Claim](user-guides/flashclaim.md)
 * [Uniswap v2 LP Liquidity Mining](user-guides/uniswap-v2-lp-liquidity-mining.md)
 * [Rewards](user-guides/rewards.md)
