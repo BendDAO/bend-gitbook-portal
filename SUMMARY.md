@@ -4,6 +4,7 @@
 * [Discord](https://discord.gg/benddao)
 * [Roadmap](roadmap.md)
 * [Chinese version 中文](chinese-version-zhong-wen.md)
+* [BendApeStaking Intro & FAQ](bendapestaking-intro-and-faq.md)
 
 ## FAQ
 
