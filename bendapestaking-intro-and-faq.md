@@ -75,7 +75,7 @@ A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
 
 #### **Q: How to set the share ratio?**
 
-A: The user who initiates the pairing listing sets the share ratio. The staking rewards will be automatically distributed by the ratio when claimed.
+A: The Ape holder who initiates the pairing listing sets the share ratio. The staking rewards will be automatically distributed by the ratio when claimed.
 
 #### **Q: Can I change the share ratio during the staking?**
 
