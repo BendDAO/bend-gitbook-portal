@@ -69,7 +69,7 @@ A: You can end the staking anytime you want.
 
 #### **Q: What if the paired NFT is sold during the staking?**
 
-A: Your staked ApeCoin and unclaimed rewards will be automatically transferred to your wallet if the NFT is sold.
+A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
 
 ### Share Ratio
 
