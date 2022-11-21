@@ -1,29 +1,89 @@
 # Governance Mechanism
 
-The Bend economy is driven by a governance forum (Snapshot Space) and uses BEND to approve Bend Improvement Proposals (BIPs). This process is designed to ensure that proposals are extensively discussed before being pushed on-chain. All BENDs in the market can be used to vote on BIPs or delegated to Bend protocol politicians to vote on your behalf.
+## PROPOSAL PHASES
 
-## Governance Process
+1. [BendDAO Idea or Draft](governance-mechanism.md#phase-1-idea-or-draft)
+2. [BendDAO Improvement Proposal (BIP)](governance-mechanism.md#phases-2-bip)
+3. [On-chain Voting (Snapshot)](governance-mechanism.md#phase-3.-on-chain-voting)
+4. [Implementation](governance-mechanism.md#phase-4.-implementation)
 
-1. Community Created BIP.
-2. The community evaluates the BIP, collects feedback, and refines the BIP.
-3. The community signals the implementation of the proposal.
-4. The founding team implements the proposal and submits it to governance.
-5. Governance evaluates the implementation and approves or rejects proposals.
+### Phase 1: Idea or Draft
 
-## What is the voting threshold?
+Anyone can participate in Forum or Discord, and vote on improvements.
 
-The threshold is based on the quorum and support of votes for/against a BIP.
+[https://discord.gg/BendDAO](https://discord.gg/BendDAO)
 
-The quorum means the total "<mark style="color:blue;">**yes**</mark>**"** and "<mark style="color:blue;">**no**</mark>**"** votes of a BIP.
+Key points
 
-The support means the total "<mark style="color:blue;">**yes**</mark>**"** votes of a BIP.
+* Mainly for comments collection and feasibility discussion;
+* No requirement for the identification of specific adjustment parameters.
 
-For example:
+#### 1.1. Rules
 
-1\. If the quorum is 30% and the support is 60%, the "<mark style="color:blue;">**yes**</mark>" is 18%, and "<mark style="color:blue;">**no**</mark>" is 7% of the total votes, the BIP will not be passed, because 18%+7% = 25% < 30%.
+Discussion period: 3 - 7 days
 
-2\. If the quorum is 30% and the support is 60%, the "<mark style="color:blue;">**yes**</mark>" is 23% and "<mark style="color:blue;">**no**</mark>" is 8% of the total votes, the BIP will be passed, because 23%+8% = 31% > 30%, and 23% / (23% + 8%) = 74% > 60%.
+Min. number of supports: 10
 
-## Want to participate?
+#### 1.2. Status
 
-We invite those eager to participate in discussions of any of the concepts above to join our [governance forum](https://snapshot.org/#/benddao.eth) or [Discord](https://discord.gg/H8b6Ynjefx), as readers like you will shape the Bend protocol of tomorrow.
+Active: It is under discussion
+
+Completed: It is moved to the next phase.
+
+Not Pass: It is closed because of insufficient community support.
+
+### Phases 2: BIP
+
+The BendDAO Improvement Proposal (BIP) is the second step in the BendDAO governance process where a BIP can be created after the BRC has passed.
+
+[https://governance.benddao.xyz/](https://governance.benddao.xyz/)
+
+BIP Key points
+
+* The BIP needs to identify specific implementation parameters or options
+
+#### 2.1. Submitting a BIP
+
+When submitting a BIP in the Governance Forum, please refer to the template.
+
+#### 2.2. Maintaining the BIP
+
+During the BIP discussion period, the creator needs to
+
+* Collect different parameters or scenarios and update them in the BIP
+* Create polling options for different parameters or scenarios
+
+#### 2.3. BIP rules
+
+Duration: 3 - 7 days
+
+Min. number of voters: 10
+
+#### 2.4. BIP Status
+
+Active: The BIP is under discussion
+
+Implemented: The BIP is implemented.
+
+Not Pass: The BIP is closed because of insufficient community support.
+
+### Phase 3. On-chain Voting
+
+The parameters or solutions defined in the BIP will be finally decided by Snapshot voting.
+
+| Category        | NFT Collateral             | Protocol Parameter         | Protocol Core Code Change  | DAO Treasury (Details)            |
+| --------------- | -------------------------- | -------------------------- | -------------------------- | --------------------------------- |
+| Voting Duration | 3 days                     | 3 days                     | 7 days                     | 7 days                            |
+| Vote Quorum     | 20% of veBEND total supply | 10% of veBEND total supply | 20% of veBEND total supply | 10% or 20% of veBEND total supply |
+| Pass Rate       | 80%                        | 80%                        | 80%                        | From 80%                          |
+
+### Phase 4. Implementation
+
+For Accepted BIPs, implementation will begin based on the steps outlined in the proposal.
+
+## Emergencies
+
+For emergencies, the BendDAO dev team has the right to go through Phase 2 directly.
+
+BendDAO governance keeps moving forward to decentralization. Now community members can not only create BRCs and BIPs but also on-chain voting. BendDAO is in the hands of the community and veBEND holders' votes decide the future development of BendDAO.
+
