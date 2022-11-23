@@ -85,7 +85,7 @@ A: Yes, if the staking hasn't started yet. If the staking starts, you need to en
 
 #### **Q: Any charge if I use BendApeStaking service?**
 
-A: If the NFT and ApeCoin are from the same wallet address, there is no fee. If you pair with others to join the staking, there will be a **4**% management fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
+A: If the NFT and ApeCoin are from the same wallet address, there is no fee. If you pair with others to join the staking, there will be a **4**% management fee. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
 
 #### **Q: How does BendApeStaking charge the management fee?**
 
