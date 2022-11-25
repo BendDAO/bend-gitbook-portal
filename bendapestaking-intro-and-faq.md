@@ -61,7 +61,7 @@ A: Yes. You can choose to pair with other ApeCoin holders or you can join the st
 
 #### **Q: How long do I need to wait for the pairing?**
 
-A: It depends. If you set your share ratio more attractive, your pair listing properly will the ApeCoin very soon.
+A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.
 
 #### **Q: How can I get back my NFT during the staking?**
 
