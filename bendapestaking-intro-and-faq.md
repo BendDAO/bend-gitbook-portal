@@ -29,6 +29,22 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 ## FAQ
 
+### Management Fee
+
+#### **Q: Any charge if I use BendApeStaking service?**
+
+A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.&#x20;
+
+If you pair with others to join the staking, there will be a **4**% management fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
+
+#### **Q: How does BendApeStaking charge the management fee?**
+
+A: The management fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
+
+#### **Q: Any chance to change the management fee?**
+
+A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.&#x20;
+
 ### NFT holder
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
@@ -83,16 +99,4 @@ A: The Ape holder who initiates the pairing listing sets the share ratio. The st
 
 A: Yes, if the staking hasn't started yet. If the staking starts, you need to end the staking and create a new pairing listing.
 
-### Management Fee
-
-#### **Q: Any charge if I use BendApeStaking service?**
-
-A: If the NFT and ApeCoin are from the same wallet address, there is no fee. If you pair with others to join the staking, there will be a **4**% management fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
-
-#### **Q: How does BendApeStaking charge the management fee?**
-
-A: The management fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
-
-#### **Q: Any chance to change the management fee?**
-
-A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.&#x20;
+###
