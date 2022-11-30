@@ -25,31 +25,29 @@ The NFT will automatically be uncommitted when transactions are successful.
 
 When the NFT is sold, the matching contract can perform an uncommit operation in advance through the interceptor at the appropriate time to withdraw all tokens and rewards from the staking contract, and return them to the original NFT holders and ApeCoin holders.
 
-
-
 ## FAQ
 
-### Management Fee
+### Pairing Service Fee
 
 #### **Q: Any charge if I use BendApeStaking service?**
 
-A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.&#x20;
+A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.
 
-If you pair with others to join the staking, there will be a **4**% management fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
+If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
 
-#### **Q: How does BendApeStaking charge the management fee?**
+#### **Q: How does BendApeStaking charge the pairing service fee?**
 
-A: The management fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
+A: The pairing service fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
 
-#### **Q: Any chance to change the management fee?**
+#### **Q: Any chance to change the pairing service fee?**
 
-A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.&#x20;
+A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
 
 ### NFT holder
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 
-A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs need to be deposited before pairing to protect the rights and interests of ApeCoin users.&#x20;
+A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs need to be deposited before pairing to protect the rights and interests of ApeCoin users.
 
 #### **Q: Do I need to find someone with ApeCoin, or will the platform connect?**
 
