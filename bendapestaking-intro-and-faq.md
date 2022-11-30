@@ -29,21 +29,21 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 ## FAQ
 
-### Management Fee
+### BendApeStaking Fee
 
 #### **Q: Any charge if I use BendApeStaking service?**
 
 A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.&#x20;
 
-If you pair with others to join the staking, there will be a **4**% management fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
+If you pair with others to join the staking, there will be a **4**% service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees will go to the DAO Treasury.
 
-#### **Q: How does BendApeStaking charge the management fee?**
+#### **Q: How does BendApeStaking charge the service fee?**
 
-A: The management fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
+A: The service fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim.
 
-#### **Q: Any chance to change the management fee?**
+#### **Q: Any chance to change the service fee?**
 
-A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.&#x20;
+A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the fee by [BendDAO governance](https://docs.benddao.xyz/portal/governance/governance-mechanism).&#x20;
 
 ### NFT holder
 
