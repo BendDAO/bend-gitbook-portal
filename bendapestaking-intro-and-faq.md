@@ -81,7 +81,7 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 
 #### **Q: How can I get back my NFT during the staking?**
 
-A: You can end the staking anytime you want.
+A: Both of NFT stakers and ApeCoin staker can end the staking anytime them want, but the unstaker need to pay the gas to make all the assets go back to the owners.
 
 ### ApeCoin Holder
 
