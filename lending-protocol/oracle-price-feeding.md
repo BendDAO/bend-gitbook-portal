@@ -15,7 +15,7 @@ Bend oracle design and running mechanism:
 For CryptoPunks, we get the floor price from [CryptoPunksMarket](https://etherscan.io/address/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb#code) contract directly!
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Oracle Mechanism</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Oracle Mechanism</p></figcaption></figure>
 
 For security and reliability, we will run multiple nodes to ensure that valid price data can be uploaded to the on-chian oracle contract in a timely manner at all times and the on-chain contract limits the frequency of price feed and the difference between two price feeds cannot exceed a threshold.
 

@@ -19,7 +19,7 @@ This feature lets boundNFT owers claim NFT rewards on other protocols while thei
 
 [boundNFT Github](https://github.com/BoundNFT/)
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/boundNFT poster 0401.png>)
 
 For example:
 
