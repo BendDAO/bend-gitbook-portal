@@ -45,3 +45,13 @@ BenDAO will transfer the Multi-signature wallet to the community after the Multi
 | Timelock Proposer 1     | Gnosis Safe | [0xe6b80f77a8B8FcD124aB748C720B7EAEA83dDb4C](https://etherscan.io/address/0xe6b80f77a8B8FcD124aB748C720B7EAEA83dDb4C) |
 | Timelock Proposer 2     | Gnosis Safe | [0xF1465c7Ea04765853Facc2D1ea68bc6e47bE90e1](https://etherscan.io/address/0xF1465c7Ea04765853Facc2D1ea68bc6e47bE90e1) |
 | Timelock Admin          | Gnosis Safe | [0xe6b80f77a8B8FcD124aB748C720B7EAEA83dDb4C](https://etherscan.io/address/0xe6b80f77a8B8FcD124aB748C720B7EAEA83dDb4C) |
+
+## Proxy Admin
+
+| Name          | Owner Type        | Address                                    |
+| ------------- | ----------------- | ------------------------------------------ |
+| BoundNFT      | 7 Days Timelock   | 0xe635D0fb1608aA54C3ca99c497E887d2e1E3E690 |
+| Lending Pool  | 24 Hours Timelock | 0x501c991E0D31D408c25bCf00da27BdF2759A394a |
+| Treasury Fund | 24 Hours Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
+| Incentive     | 24 Hours Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
+| Team Lockup   | 7 Days Timelock   | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
