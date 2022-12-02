@@ -33,7 +33,7 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.
 
-If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The management fee is decided by the on-chain voting. All the management fees go to the DAO Treasury. [Snapshot](https://snapshot.org/#/benddao.eth)
+If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and will be voted by the community to decide how to deal with it soon. 
 
 #### **Q: How does BendApeStaking charge the pairing service fee?**
 
