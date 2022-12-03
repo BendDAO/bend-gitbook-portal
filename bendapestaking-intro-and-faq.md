@@ -27,6 +27,20 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 ## FAQ
 
+### Security
+
+#### Q: How do you ensure BendApeStaking's security?
+
+A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the owner of the BendApeStaking contracts will be configured with a timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
+
+#### Q: Is my NFTs safe in BendApeStaking?
+
+A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The owner of the BendApeStaking smart contract also will be configured with a timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
+
+#### Q: Is My ApeCoin safe in BendApeStaking?
+
+A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
+
 ### Pairing Service Fee
 
 #### **Q: Any charge if I use BendApeStaking service?**
@@ -79,7 +93,7 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 
 #### **Q: How can I get back my NFT during the staking?**
 
-A: Both of NFT stakers and ApeCoin staker can end the staking anytime them want, but the unstaker need to pay the gas to make all the assets go back to the owners.
+A: Both NFT stakers and ApeCoin staker can end the staking anytime them want, but the unstaker need to pay the gas to make all the assets go back to the owners.
 
 ### ApeCoin Holder
 
@@ -97,16 +111,5 @@ A: The Ape holder who initiates the pairing listing sets the share ratio. The st
 
 A: Yes, if the staking hasn't started yet. If the staking starts, you need to end the staking and create a new pairing listing.
 
-### Security
 
-#### Q: How do you ensure BendApeStaking's security?
 
-A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports here. Third, the owner of the BendApeStaking contracts will be configured with a timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
-
-#### Q: Is my NFTs safe in BendApeStaking?
-
-A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The owner of the BendApeStaking smart contract also will be configured with a timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
-
-#### Q: Is My ApeCoin safe in BendApeStaking?
-
-A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
