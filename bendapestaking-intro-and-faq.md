@@ -57,7 +57,7 @@ A: The pairing service fee is charged at the time of staking rewards claim, and 
 
 A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
 
-### NFT holder
+### BAYC/MAYC holder
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 
@@ -105,7 +105,7 @@ A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
 
 #### **Q: How to set the share ratio?**
 
-A: The Ape holder who initiates the pairing listing sets the share ratio. The staking rewards will be automatically distributed by the ratio when claimed.
+A: The BAYC/MAYC holder who initiates the pairing listing sets the share ratio. The staking rewards will be automatically distributed by the ratio when claimed.
 
 #### **Q: Can I change the share ratio during the staking?**
 
