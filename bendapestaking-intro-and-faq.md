@@ -95,6 +95,10 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 
 A: Both NFT stakers and ApeCoin staker can end the staking anytime them want, but the unstaker need to pay the gas to make all the assets go back to the owners.
 
+#### **Q: Will I miss the airdrop when I am staking?**
+
+A: BendDAO support [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure ape coin holder is safe.
+
 ### ApeCoin Holder
 
 #### **Q: What if the paired NFT is sold during the staking?**
