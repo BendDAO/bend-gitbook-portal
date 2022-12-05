@@ -26,6 +26,7 @@
 
 ## USER GUIDES
 
+* [ApeCoin Staking](user-guides/apecoin-staking.md)
 * [Getting Started](user-guides/getting-started.md)
 * [BendDAO on Mobile](user-guides/benddao-on-mobile.md)
 * [Borrow ETH (NFT holder)](user-guides/borrow-eth-nft-holder/README.md)
