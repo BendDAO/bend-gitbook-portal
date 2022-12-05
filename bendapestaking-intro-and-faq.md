@@ -47,7 +47,7 @@ A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contr
 
 A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.
 
-If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and will be voted by the community to decide how to deal with it soon. 
+If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and will be voted by the community to decide how to deal with it soon.
 
 #### **Q: How does BendApeStaking charge the pairing service fee?**
 
@@ -61,7 +61,7 @@ A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related pr
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 
-A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs need to be deposited before pairing to protect the rights and interests of ApeCoin users.
+A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs (including BAKC) need to be deposited before pairing to protect the rights and interests of ApeCoin users.
 
 #### **Q: Do I need to find someone with ApeCoin, or will the platform connect?**
 
@@ -97,7 +97,7 @@ A: Both NFT stakers and ApeCoin staker can end the staking anytime them want, bu
 
 #### **Q: Will I miss the airdrop when I am staking?**
 
-A: BendDAO support [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure ape coin holder is safe.
+A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure the ApeCoin holder is safe.
 
 ### ApeCoin Holder
 
@@ -114,6 +114,3 @@ A: The BAYC/MAYC holder who initiates the pairing listing sets the share ratio. 
 #### **Q: Can I change the share ratio during the staking?**
 
 A: Yes, if the staking hasn't started yet. If the staking starts, you need to end the staking and create a new pairing listing.
-
-
-
