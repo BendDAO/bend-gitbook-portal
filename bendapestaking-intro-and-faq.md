@@ -57,6 +57,14 @@ A: The pairing service fee is charged at the time of staking rewards claim, and 
 
 A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
 
+#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked $APE?
+
+NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BoundNFT, BendApeStaking will automatically repay the debt and uncommit from the pool when your NFT is been sold. For Orignal NFT, You must manually uncommit from the pool before it's been sold.
+
+**Q: If I sell my NFT while it is committed in a Paired pool, will I lose all of my staked $APE?**
+
+NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BAYC or MAYC holders, please look at the above question. For BAKC holders, You must manually uncommit from the pool before it's been sold.
+
 ### BAYC/MAYC holder
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
