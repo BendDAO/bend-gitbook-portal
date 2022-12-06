@@ -41,6 +41,14 @@ A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured 
 
 A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
 
+#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked $APE?
+
+NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BoundNFT, BendApeStaking will automatically repay the debt and uncommit from the pool when your NFT is been sold. For Orignal NFT, You must manually uncommit from the pool before it's been sold.
+
+**Q: If I sell my NFT while it is committed in a Paired pool, will I lose all of my staked $APE?**
+
+NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BAYC or MAYC holders, please look at the above question. For BAKC holders, You must manually uncommit from the pool before it's been sold.
+
 ### Pairing Service Fee
 
 #### **Q: Any charge if I use BendApeStaking service?**
@@ -56,14 +64,6 @@ A: The pairing service fee is charged at the time of staking rewards claim, and 
 #### **Q: Any chance to change the pairing service fee?**
 
 A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
-
-#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked $APE?
-
-NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BoundNFT, BendApeStaking will automatically repay the debt and uncommit from the pool when your NFT is been sold. For Orignal NFT, You must manually uncommit from the pool before it's been sold.
-
-**Q: If I sell my NFT while it is committed in a Paired pool, will I lose all of my staked $APE?**
-
-NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BAYC or MAYC holders, please look at the above question. For BAKC holders, You must manually uncommit from the pool before it's been sold.
 
 ### BAYC/MAYC holder
 
