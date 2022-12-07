@@ -122,3 +122,7 @@ A: The BAYC/MAYC holder who initiates the pairing listing sets the share ratio. 
 #### **Q: Can I change the share ratio during the staking?**
 
 A: Yes, if the staking hasn't started yet. If the staking starts, you need to end the staking and create a new pairing listing.
+
+#### Q: When can I withdraw my paired NFT/ApeCoin during the staking?
+
+A: Anytime. But the co-staker who ends the pairing will pay the reward distribution gas. The unclaimed reward after the 4% pairing service fee will be distributed to each co-staker based on the sharing ratio.
