@@ -107,6 +107,10 @@ A: Both NFT stakers and ApeCoin staker can end the staking anytime them want, bu
 
 A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure the ApeCoin holder is safe.
 
+#### Q: How many co-stakers can join the pairing?
+
+A: One asset, one address.&#x20;
+
 ### ApeCoin Holder
 
 #### **Q: What if the paired NFT is sold during the staking?**
