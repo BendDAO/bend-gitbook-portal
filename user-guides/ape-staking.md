@@ -1,4 +1,4 @@
-# ApeCoin Staking
+# Ape Staking
 
 ## BAYC/MAYC holder
 
@@ -11,7 +11,7 @@
 
 #### **Listing Parameters**
 
-**Staking amount:** The ApeCoin amount you have. You can leave it blank.
+**Staking amount:** The ApeCoin amount you have. You can input 0.
 
 **Peer’s min. staking amount:** The min. staking amount required for the co-staker.
 
@@ -22,3 +22,17 @@ If the sharing ratio for BAYC, BAKC, and ApeCoin are 40%, 30%, and 30% respectiv
 **Listing duration:** Listing duration is when you can list for pairing to a number of specified days or until you want to cancel.
 
 <img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
+
+### Cancel Listing
+
+Ape Staking > My Pairing Listings > Cancel Listing
+
+## ApeCoin/BAKC Holder
+
+### Accept & Co-stake
+
+1. Choose a listed pairing
+2. Input the staking amount
+3. Approve token and confirm staking
+
+![](../.gitbook/assets/image.png)
