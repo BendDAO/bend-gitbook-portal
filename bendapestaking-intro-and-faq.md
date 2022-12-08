@@ -41,7 +41,7 @@ A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured 
 
 A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
 
-#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked $APE?
+#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked ApeCoin?
 
 NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BoundNFT, BendApeStaking will automatically repay the debt and uncommit from the pool when your NFT is been sold. For Orignal NFT, You must manually uncommit from the pool before it's been sold.
 
@@ -117,6 +117,10 @@ A: One asset, one address.&#x20;
 
 A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
 
+#### Q: What if liquidation happens?
+
+A: After the liquidation, the contract will uncommit and return the unclaimed rewards and ApeCoin to the deposit addresses.
+
 ### Share Ratio
 
 #### **Q: How to set the share ratio?**
@@ -130,3 +134,7 @@ A: Yes, if the staking hasn't started yet. If the staking starts, you need to en
 #### Q: When can I withdraw my paired NFT/ApeCoin during the staking?
 
 A: Anytime. But the co-staker who ends the pairing will pay the reward distribution gas. The unclaimed reward after the 4% pairing service fee will be distributed to each co-staker based on the sharing ratio.
+
+#### Q: Who can claim the staking rewards?
+
+A: Every co-staker can claim the rewards.
