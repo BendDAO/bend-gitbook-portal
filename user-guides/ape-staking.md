@@ -1,5 +1,7 @@
 # Ape Staking
 
+{% embed url="https://youtu.be/wxN3nmSzEx0" %}
+
 ## BAYC/MAYC holder
 
 ### List for Pairing
@@ -36,3 +38,4 @@ Ape Staking > My Pairing Listings > Cancel Listing
 3. Approve token and confirm staking
 
 ![](../.gitbook/assets/image.png)
+
