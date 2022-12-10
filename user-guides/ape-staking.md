@@ -9,7 +9,7 @@
 1. [BendDAO.xyz](https://www.benddao.xyz/) > ApeStaking > My Apes
 2. Pick staking pools; Users can List pairing for both the BAYC/MAYC pool and the BAKC pool.
 3. Set up the listing parameters
-4. Approve tokens and Confirm staking (The NFT will
+4. Approve tokens and Confirm staking&#x20;
 
 #### **Listing Parameters**
 
