@@ -2,7 +2,7 @@
 
 ## Ape Staking
 
-BendDAO Ape Staking's goal is to empower anyone holding Yuga assets to join the ApeCoin Staking. Initially, it is designed to facilitate borrowers' eligibility for the staking when their Apes are used as collateral on BendDAO. Inspired by the community, now the BendApeStaking is open to all users holding Yuga assets.
+BendDAO Ape Staking's goal is to empower anyone holding Yuga assets to join the ApeCoin Staking and maximize the yield. Initially, it is designed to facilitate borrowers' eligibility for the staking when their Apes are used as collateral on BendDAO. Inspired by the community, now the BendApeStaking is open to all users holding Yuga assets.
 
 <figure><img src=".gitbook/assets/BendApeStaking Arch 1201.png" alt=""><figcaption></figcaption></figure>
 
@@ -14,7 +14,7 @@ According to the [docs](https://docs.apestake.io/#/README) released by Horizen L
 
 NFT holders still can sell and borrow ETH on BendDAO when the NFT is deposited.
 
-* Join ApeCoin Staking pairing
+* Join ApeCoin Staking pairing and enjoy the best yield&#x20;
 * Borrow instant ETH liquidity
 
 While participating in staking, users can also continue to borrow ETH from the lending pool.
