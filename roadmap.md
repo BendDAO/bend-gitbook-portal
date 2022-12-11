@@ -31,14 +31,19 @@ The work of each season is gathered and presented in its dedicated section, repr
 
 ## 2022 Q3
 
-* Support Offer in Exchange Protocol🛠️
-* Wrapper Koda for Otherdeed LAND Proposals🛠️
-* Support Moonbirds w/o Nesting Proposals🛠️
-* Support ApeCoin Staking Proposals🛠️
-* Integrating Ecosystem Projects🛠️
+* Support Offer in Exchange Protocol✅
+* Providing Open API for Exchange Protocol✅
+* Support Moonbirds Proposals🛠️
+* Integrating Ecosystem Projects✅
 
 ## 2022 Q4
 
-* Providing Open API and SDK
-* P2P NFT Lending Proposals
-* Private Lending Pool Proposals
+* Support ApeCoin Staking Proposals✅
+* Support Moonbirds with Nesting Proposals🛠️
+* Wrapper Koda for Otherdeed LAND Proposals🛠️
+
+## 2023 Q1
+
+* P2P NFT Lending Proposals🛠️
+* New NFT Auction Proposals🛠️
+* Private Lending Pool Proposals🛠️
