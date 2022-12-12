@@ -56,3 +56,4 @@ BenDAO will transfer the Multi-signature wallet to the community after the Multi
 | Treasury Fund | 24 Hours Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
 | Incentive     | 24 Hours Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
 | Team Lockup   | 7 Days Timelock   | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
+| Ape Staking   | 24 Hours Timelock | 0xdBE0985E7570041e1BDfB6DeD30E159CFb3718CF |

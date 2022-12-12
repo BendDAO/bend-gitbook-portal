@@ -31,11 +31,11 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 #### Q: How do you ensure BendApeStaking's security?
 
-A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the owner of the BendApeStaking contracts will be configured with a timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
+A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a 24 hours timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
 
 #### Q: Is my NFTs safe in BendApeStaking?
 
-A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The owner of the BendApeStaking smart contract also will be configured with a timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
+A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 24 hours timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
 
 #### Q: Is My ApeCoin safe in BendApeStaking?
 
