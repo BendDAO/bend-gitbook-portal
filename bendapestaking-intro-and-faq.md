@@ -27,6 +27,16 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 ## FAQ
 
+[Security](bendapestaking-intro-and-faq.md#security)
+
+[Pairing Service Fee](bendapestaking-intro-and-faq.md#pairing-service-fee)
+
+[Pairing Listing](bendapestaking-intro-and-faq.md#pairing-listing)
+
+[Staking Rewards](bendapestaking-intro-and-faq.md#staking-rewards)
+
+[Share Ratio](bendapestaking-intro-and-faq.md#share-ratio)
+
 ### Security
 
 #### Q: How do you ensure BendApeStaking's security?
@@ -65,7 +75,13 @@ A: The pairing service fee is charged at the time of staking rewards claim, and 
 
 A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
 
-### BAYC/MAYC holder
+### Pairing Listing
+
+#### Q: Who can use BendApeStaking for the pairing?
+
+A: Users hold the following asset and join the BendApeStaking.
+
+1\) [boundBAYC](lending-protocol/boundnft.md); 2) [boundMAY](lending-protocol/boundnft.md); 3) BAYC; 4) MAYC; 5) BAKC; 6) ApeCoin
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 
@@ -79,9 +95,11 @@ A: Your pairing listing will be displayed on BendDAO to find an ApeCoin holder t
 
 A: The interest of the paired ApeCoin holders can’t be guaranteed without the NFT deposit. The ApeCoin holder will lose all staked ApeCoin and unclaimed rewards when the NFT holder sells the NFT without uncommit. [Reference](https://docs.apestake.io/#/README?id=if-i-sell-my-nft-while-it-is-committed-in-a-bayc-or-mayc-pool-will-i-lose-all-of-my-staked-apecoin)
 
+Your NFT will be deposit to the BendApeStaking contract when it have been paired with other users.&#x20;
+
 #### **Q: How to make sure my NFT is safe with BendApeStaking?**
 
-A: The audit report will be issued before the BendApeStaking launch. And BendDAO has been running safely for more than 7 months.
+A: The audit report will be issued before the BendApeStaking launch. And BendDAO has been running safely for more than 7 months.&#x20;
 
 #### **Q: Can I still sell my NFT?**
 
@@ -97,11 +115,11 @@ A: Yes. You can choose to pair with other ApeCoin holders or you can join the st
 
 #### **Q: How long do I need to wait for the pairing?**
 
-A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.
+A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.&#x20;
 
 #### **Q: How can I get back my NFT during the staking?**
 
-A: Both NFT stakers and ApeCoin staker can end the staking anytime them want, but the unstaker need to pay the gas to make all the assets go back to the owners.
+A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, but the user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
 #### **Q: Will I miss the airdrop when I am staking?**
 
@@ -111,11 +129,15 @@ A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim
 
 A: One asset, one address.&#x20;
 
-### ApeCoin Holder
+### Staking Rewards
 
 #### **Q: What if the paired NFT is sold during the staking?**
 
 A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
+
+#### Q: When can I claim rewards?
+
+A: You can claim your rewards anytime. The rewards claim on BendDAO follows the rules of official ApeCoin Staking.
 
 #### Q: What if liquidation happens?
 
