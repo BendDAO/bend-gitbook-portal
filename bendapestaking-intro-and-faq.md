@@ -79,7 +79,7 @@ A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related pr
 
 #### Q: Who can use BendApeStaking for the pairing?
 
-A: Users hold the following asset and join the BendApeStaking.
+A: Users who hold any of the following assets can join ApeCoin Staking with pairing.
 
 1\) [boundBAYC](lending-protocol/boundnft.md); 2) [boundMAY](lending-protocol/boundnft.md); 3) BAYC; 4) MAYC; 5) BAKC; 6) ApeCoin
 
@@ -95,7 +95,7 @@ A: Your pairing listing will be displayed on BendDAO to find an ApeCoin holder t
 
 A: The interest of the paired ApeCoin holders can’t be guaranteed without the NFT deposit. The ApeCoin holder will lose all staked ApeCoin and unclaimed rewards when the NFT holder sells the NFT without uncommit. [Reference](https://docs.apestake.io/#/README?id=if-i-sell-my-nft-while-it-is-committed-in-a-bayc-or-mayc-pool-will-i-lose-all-of-my-staked-apecoin)
 
-Your NFT will be deposit to the BendApeStaking contract when it have been paired with other users.&#x20;
+Your NFT will be deposited to the BendApeStaking contract when it has been paired with other users.&#x20;
 
 #### **Q: How to make sure my NFT is safe with BendApeStaking?**
 
@@ -113,6 +113,8 @@ A: Yes. You can borrow instant ETH against your Ape NFT anytime you want.
 
 A: Yes. You can choose to pair with other ApeCoin holders or you can join the staking with your own ApeCoin.
 
+But if you pay off the loan, the paired staking will be unstaked because the NFT will be transfer from the lending contract to your own wallet.
+
 #### **Q: How long do I need to wait for the pairing?**
 
 A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.&#x20;
@@ -120,6 +122,10 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 #### **Q: How can I get back my NFT during the staking?**
 
 A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, but the user who unstaked needs to pay the gas to make all the assets go back to the owners.
+
+#### Q: Is there any lock-up period for the pairing?
+
+A: NO. All users can unstake anytime. The user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
 #### **Q: Will I miss the airdrop when I am staking?**
 
@@ -142,6 +148,8 @@ A: You can claim your rewards anytime. The rewards claim on BendDAO follows the 
 #### Q: What if liquidation happens?
 
 A: After the liquidation, the contract will uncommit and return the unclaimed rewards and ApeCoin to the deposit addresses.
+
+
 
 ### Share Ratio
 
