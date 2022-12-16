@@ -37,6 +37,11 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 [Share Ratio](bendapestaking-intro-and-faq.md#share-ratio)
 
+[More Features](bendapestaking-intro-and-faq.md#more-features)
+
+[Gas Cost](bendapestaking-intro-and-faq.md#gas-cost)
+
+
 ### Security
 
 #### Q: How do you ensure BendApeStaking's security?
@@ -168,3 +173,27 @@ A: Anytime. But the co-staker who ends the pairing will pay the reward distribut
 #### Q: Who can claim the staking rewards?
 
 A: Every co-staker can claim the rewards.
+
+### More Features
+
+#### **Q: How can I add more ApeCoin to staking order?**
+
+A: The only way to add ApeCoin is unstake and stake with more ApeCoin, the official smart contract does not provide add ApeCoin function.
+
+#### **Q: Can I auto-compounding the staking?**
+
+A: No, the only way to compounding is unstake and stake with more ApeCoin.
+
+#### Q: Can I claim all the rewards in one transaction for all my staking orders?
+
+A: The Dev team is working on that, but claim all would not save the gas, it would only save the time you making more than one transaction.
+
+### Gas Cost
+
+#### **Q: Why claim gas for BendDAO staking is more than official website?**
+
+A: BendDAO staking is more complicated than official contract, pairing and preventing ApeCoin holder lost ApeCoin by pairing cost that gas.
+
+#### **Q: Can BendDAO save the gas by distributing the rewards if anyone claim the rewards?**
+
+A: We are figuring out the solution, it won't be easy, need more contract development and auditing, stay tuned.
