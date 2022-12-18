@@ -44,23 +44,23 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 ### Security
 
-#### Q: How do you ensure BendApeStaking's security?
+#### **Q: How do you ensure BendApeStaking's security?**
 
 A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a 24 hours timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
 
-#### Q: Is my NFTs safe in BendApeStaking?
+#### **Q: Is my NFTs safe in BendApeStaking?**
 
 A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 24 hours timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
 
-#### Q: Is My ApeCoin safe in BendApeStaking?
+#### **Q: Is My ApeCoin safe in BendApeStaking?**
 
 A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
 
-#### Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked ApeCoin?
+#### **Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked ApeCoin?**
 
 NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BoundNFT, BendApeStaking will automatically repay the debt and uncommit from the pool when your NFT is been sold. For Orignal NFT, You must manually uncommit from the pool before it's been sold.
 
-**Q: If I sell my NFT while it is committed in a Paired pool, will I lose all of my staked $APE?**
+#### **Q: If I sell my NFT while it is committed in a Paired pool, will I lose all of my staked $APE?**
 
 NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BAYC or MAYC holders, please look at the above question. For BAKC holders, You must manually uncommit from the pool before it's been sold.
 
@@ -128,7 +128,7 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 
 A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, but the user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
-#### Q: Is there any lock-up period for the pairing?
+#### **Q: Is there any lock-up period for the pairing?**
 
 A: NO. All users can unstake anytime. The user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
@@ -136,7 +136,7 @@ A: NO. All users can unstake anytime. The user who unstaked needs to pay the gas
 
 A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure the ApeCoin holder is safe.
 
-#### Q: How many co-stakers can join the pairing?
+#### **Q: How many co-stakers can join the pairing?**
 
 A: One asset, one address.&#x20;
 
@@ -146,11 +146,11 @@ A: One asset, one address.&#x20;
 
 A: You can claim the staked ApeCoin and unclaimed rewards once the NFT is sold.
 
-#### Q: When can I claim rewards?
+#### **Q: When can I claim rewards?**
 
 A: You can claim your rewards anytime. The rewards claim on BendDAO follows the rules of official ApeCoin Staking.
 
-#### Q: What if liquidation happens?
+#### **Q: What if liquidation happens?**
 
 A: After the liquidation, the contract will uncommit and return the unclaimed rewards and ApeCoin to the deposit addresses.
 
@@ -166,11 +166,11 @@ A: The BAYC/MAYC holder who initiates the pairing listing sets the share ratio. 
 
 A: Yes, if the staking hasn't started yet. If the staking starts, you need to end the staking and create a new pairing listing.
 
-#### Q: When can I withdraw my paired NFT/ApeCoin during the staking?
+#### **Q: When can I withdraw my paired NFT/ApeCoin during the staking?**
 
 A: Anytime. But the co-staker who ends the pairing will pay the reward distribution gas. The unclaimed reward after the 4% pairing service fee will be distributed to each co-staker based on the sharing ratio.
 
-#### Q: Who can claim the staking rewards?
+#### **Q: Who can claim the staking rewards?**
 
 A: Every co-staker can claim the rewards.
 
@@ -184,7 +184,7 @@ A: The only way to add ApeCoin is unstake and stake with more ApeCoin, the offic
 
 A: No, the only way to compounding is unstake and stake with more ApeCoin.
 
-#### Q: Can I claim all the rewards in one transaction for all my staking orders?
+#### **Q: Can I claim all the rewards in one transaction for all my staking orders?**
 
 A: The Dev team is working on that, but claim all would not save the gas, it would only save the time you making more than one transaction.
 
