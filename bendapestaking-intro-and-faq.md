@@ -82,7 +82,7 @@ A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related pr
 
 ### Pairing Listing
 
-#### Q: Who can use BendApeStaking for the pairing?
+#### **Q: Who can use BendApeStaking for the pairing?**
 
 A: Users who hold any of the following assets can join ApeCoin Staking with pairing.
 
