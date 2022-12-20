@@ -2,7 +2,7 @@
 
 ## How to decide the percentage of the down payment?&#x20;
 
-Down Payment = Total price - 40%/30% of the Floor Price
+Down Payment = Total price - 60%/50%/30% of the Floor Price
 
 | Collection                                             | LTV                     | Down Payment |
 | ------------------------------------------------------ | ----------------------- | ------------ |
