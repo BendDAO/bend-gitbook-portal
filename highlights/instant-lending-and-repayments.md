@@ -29,12 +29,15 @@ MAYC, Azuki, CloneX and Doodles are selected by BEND stakers. Details of the Com
 
 Collateral Ration is the ratio of maximum borrowable ETH amount to the NFT floor price.
 
-| Name         | Collateral Ration |
-| ------------ | ----------------- |
-| CryptoPunks  | 40%               |
-| Bored Ape YC | 40%               |
-| Others       | 30%               |
+| Name          | Collateral Ration |
+| ------------- | ----------------- |
+| CryptoPunks   | 60%               |
+| Bored Ape YC  | 60%               |
+| Mutant Ape YC | 40%               |
+| Others        | 30%               |
 
 [More details](../risk/nft-risk-parameters.md)
+
+[BIP#15](https://snapshot.org/#/benddao.eth/proposal/0x1bd2cb68f3577f97605b542a7094e0d350a427e516ff30503e8172cc89feb9e6)
 
 ##
