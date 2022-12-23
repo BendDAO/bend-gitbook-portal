@@ -6,7 +6,7 @@ Based on the [instant NFT-backed loan](instant-lending-and-repayments.md), Colla
 
 ### Collateral Listing
 
-With Collateral Listing, NFT holders/sellers can choose to take an instant NFT-backed loan and receive up to 40% of the floor price instantly when listing. If you already are a borrower on BendDAO, then you can list the collateral anytime you like.&#x20;
+With Collateral Listing, NFT holders/sellers can choose to take an instant NFT-backed loan and receive up to 60% of the floor price instantly when listing. If you already are a borrower on BendDAO, then you can list the collateral anytime you like.&#x20;
 
 The user will become the borrower and the seller on BendDAO after the Collateral Listing.
 
