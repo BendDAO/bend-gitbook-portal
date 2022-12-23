@@ -16,7 +16,7 @@ The user will become the borrower and the seller on BendDAO after the Collateral
 
 ### NFT Down Payment
 
-The buyer can pay **a minimum down payment of 60%**, depending on the actual price, to buy a bluechip NFT while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
+The buyer can pay **a minimum down payment of 40%**, depending on the actual price, to buy a bluechip NFT while initiating a flash loan from AAVE to cover the remainder. The borrowed amount of the flash loan will be repaid through the instant NFT-backed loan on BendDAO.
 
 The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale as well.
 
