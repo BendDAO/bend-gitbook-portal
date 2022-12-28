@@ -141,7 +141,7 @@ A: One asset, one address.
 
 #### **Q: Can I join the pairing if there's already some $APE staked in the official staking contract?**
 
-A: NO. You need to clear (withdraw) all the staked $APE first before joining the pairing.
+A: NO. You need to clear (withdraw) all the staked $APE first before joining the pairing. If the NFT has been used as collateral, you need to repay the debt and get back the NFT into your wallet, otherwise, you can not withdraw the staked $APE.
 
 #### **Q: Can I use the SEND FUNDS market tool when my NFT participated in the staking?**
 
