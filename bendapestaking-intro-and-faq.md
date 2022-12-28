@@ -14,7 +14,7 @@ According to the [docs](https://docs.apestake.io/#/README) released by Horizen L
 
 NFT holders still can sell and borrow ETH on BendDAO when the NFT is deposited.
 
-* Join ApeCoin Staking pairing and enjoy the best yield&#x20;
+* Join ApeCoin Staking pairing and enjoy the best yield
 * Borrow instant ETH liquidity
 
 While participating in staking, users can also continue to borrow ETH from the lending pool.
@@ -41,16 +41,15 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 [Gas Cost](bendapestaking-intro-and-faq.md#gas-cost)
 
-
 ### Security
 
 #### **Q: How do you ensure BendApeStaking's security?**
 
-A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a 24 hours timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
+A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a & days timelock and multi-signature wallet, and we plan to remove the owner through community voting, 1 to 3 months after the mainnet goes live.
 
 #### **Q: Is my NFTs safe in BendApeStaking?**
 
-A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 24 hours timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
+A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 7 days timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
 
 #### **Q: Is My ApeCoin safe in BendApeStaking?**
 
@@ -100,11 +99,11 @@ A: Your pairing listing will be displayed on BendDAO to find an ApeCoin holder t
 
 A: The interest of the paired ApeCoin holders can’t be guaranteed without the NFT deposit. The ApeCoin holder will lose all staked ApeCoin and unclaimed rewards when the NFT holder sells the NFT without uncommit. [Reference](https://docs.apestake.io/#/README?id=if-i-sell-my-nft-while-it-is-committed-in-a-bayc-or-mayc-pool-will-i-lose-all-of-my-staked-apecoin)
 
-Your NFT will be deposited to the BendApeStaking contract when it has been paired with other users.&#x20;
+Your NFT will be deposited to the BendApeStaking contract when it has been paired with other users.
 
 #### **Q: How to make sure my NFT is safe with BendApeStaking?**
 
-A: The audit report will be issued before the BendApeStaking launch. And BendDAO has been running safely for more than 7 months.&#x20;
+A: The audit report will be issued before the BendApeStaking launch. And BendDAO has been running safely for more than 7 months.
 
 #### **Q: Can I still sell my NFT?**
 
@@ -122,7 +121,7 @@ But if you pay off the loan, the paired staking will be unstaked because the NFT
 
 #### **Q: How long do I need to wait for the pairing?**
 
-A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.&#x20;
+A: It depends. If you set your share ratio more attractive, your pair listing properly will be paired with the ApeCoin very soon.
 
 #### **Q: How can I get back my NFT during the staking?**
 
@@ -138,7 +137,15 @@ A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim
 
 #### **Q: How many co-stakers can join the pairing?**
 
-A: One asset, one address.&#x20;
+A: One asset, one address.
+
+#### **Q: Can I join the pairing if there's already some $APE staked in the official staking contract?**
+
+A: NO. You need to clear (withdraw) all the staked $APE first before joining the pairing.
+
+#### **Q: Can I use the SEND FUNDS market tool when my NFT participated in the staking?**
+
+A: NO. IMPORTANT! For all NFTs that participate in the staking through BendDAO, please do not send funds to NFTs using the official ApeCoin Staking website.
 
 ### Staking Rewards
 
@@ -153,8 +160,6 @@ A: You can claim your rewards anytime. The rewards claim on BendDAO follows the 
 #### **Q: What if liquidation happens?**
 
 A: After the liquidation, the contract will uncommit and return the unclaimed rewards and ApeCoin to the deposit addresses.
-
-
 
 ### Share Ratio
 
