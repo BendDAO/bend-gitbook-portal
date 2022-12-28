@@ -8,7 +8,7 @@ A: BendDAO team has spent all the necessary resources in order to ensure that th
 * Before BendDAO Mainnet launch, Certik issued an audit report for BendDAO. [https://www.certik.com/projects/bend-dao ](https://www.certik.com/projects/bend-dao)
 * Up to $1m BendDAO Bug Bounty [https://immunefi.com/bounty/benddao/](https://immunefi.com/bounty/benddao/)&#x20;
 * All boundNFT Protocol Contracts with 7 days timelocks.
-* All BendDAO Lending Protocol Contracts with 24 hours timelocks.
+* All BendDAO Lending Protocol Contracts with 7 days timelocks.
 
 https://docs.benddao.xyz/portal/risk/security-and-audits
 
@@ -17,7 +17,7 @@ https://docs.benddao.xyz/portal/risk/security-and-audits
 A: Timelocks are used to add a delay of key operations such as contracts upgrading and token transferring, enabling users to know the operations and take action before the protocol operations really take effect. This time delay gives users a chance to exit protocol if the team becomes malicious or compromised.
 
 * All boundNFT Protocol Contracts - 7 days timelocks&#x20;
-* All BendDAO Lending Protocol Contracts - 24 hours timelocks&#x20;
+* All BendDAO Lending Protocol Contracts - 7 days timelocks&#x20;
 
 More details of Timelock: [https://docs.benddao.xyz/portal/risk/security-and-audits#timelock-controller](https://docs.benddao.xyz/portal/risk/security-and-audits#timelock-controller)
 
@@ -27,7 +27,9 @@ A: Users can set up alerts using Etherscan. Emails will be sent once any contrac
 
 All boundNFT Protocol Contracts - 7 days timelocks: [https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e ](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e)
 
-All BendDAO Lending Protocol Contracts - 24 hours timelocks: [https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214)&#x20;
+All BendDAO Lending Protocol Contracts - 7 days timelocks:&#x20;
+
+[https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e)
 
 ## Q: Why does BendDAO use upgradeable proxy contracts?&#x20;
 
@@ -36,7 +38,7 @@ A: The reason why we use an upgradeable proxy for the BendDAO contracts is to ma
 To avoid trust issues, all contracts have timelocks. Timelocks are a smart contract feature that states that upgrades will only be performed after a certain period of time rather than immediately. All users have a window of time to take action before upgrades really take effect.
 
 * All boundNFT Protocol Contracts - 7 days timelock&#x20;
-* All BendDAO Lending Protocol Contracts - 24 hours timelock&#x20;
+* All BendDAO Lending Protocol Contracts - 7 days timelock&#x20;
 
 More details of Timelocks: [https://docs.benddao.xyz/portal/risk/security-and-audits#timelock-controller](https://docs.benddao.xyz/portal/risk/security-and-audits#timelock-controller)
 

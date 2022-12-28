@@ -22,16 +22,15 @@ Regarding the Unresolved Major issues in the Certik report:
 
 ## Timelock Controller
 
-BendDAO has set the owner of all bend lending protocol contracts to 24 hours time lock controller address.
+BendDAO has set the owner of all bend lending protocol contracts to 7 days time lock controller address.
 
 BendDAO has set the owner of all bound NFT protocol contracts to 7 days time lock controller address.
 
-![](<../.gitbook/assets/Bend MultiSig Wallet & TimeLock 0526.png>)
+<figure><img src="../.gitbook/assets/Timelock 1228.jpg" alt=""><figcaption></figcaption></figure>
 
-| Name              | Duration | Address                                                                                                               |
-| ----------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
-| BendDAO Timelock  | 24 Hours | [0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214](https://etherscan.io/address/0x652DB942BE3Ab09A8Fd6F14776a52ed2A73bF214) |
-| BoundNFT Timelock | 7 Days   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
+| Name                | Duration | Address                                                                                                               |
+| ------------------- | -------- | --------------------------------------------------------------------------------------------------------------------- |
+| BendDAO Timelock 7D | 7 Days   | [0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e](https://etherscan.io/address/0x4e4C314E2391A58775be6a15d7A05419ba7D2B6e) |
 
 ## Multi-signature Wallet
 
@@ -49,11 +48,11 @@ BenDAO will transfer the Multi-signature wallet to the community after the Multi
 
 ## Proxy Admin
 
-| Name          | Owner Type        | Address                                    |
-| ------------- | ----------------- | ------------------------------------------ |
-| BoundNFT      | 7 Days Timelock   | 0xe635D0fb1608aA54C3ca99c497E887d2e1E3E690 |
-| Lending Pool  | 24 Hours Timelock | 0x501c991E0D31D408c25bCf00da27BdF2759A394a |
-| Treasury Fund | 24 Hours Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
-| Incentive     | 24 Hours Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
-| Team Lockup   | 7 Days Timelock   | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
-| Ape Staking   | 24 Hours Timelock | 0xdBE0985E7570041e1BDfB6DeD30E159CFb3718CF |
+| Name          | Owner Type      | Address                                    |
+| ------------- | --------------- | ------------------------------------------ |
+| BoundNFT      | 7 Days Timelock | 0xe635D0fb1608aA54C3ca99c497E887d2e1E3E690 |
+| Lending Pool  | 7 Days Timelock | 0x501c991E0D31D408c25bCf00da27BdF2759A394a |
+| Treasury Fund | 7 Days Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
+| Incentive     | 7 Days Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
+| Team Lockup   | 7 Days Timelock | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
+| Ape Staking   | 7 Days Timelock | 0xdBE0985E7570041e1BDfB6DeD30E159CFb3718CF |
