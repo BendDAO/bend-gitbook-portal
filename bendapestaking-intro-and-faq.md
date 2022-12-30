@@ -53,7 +53,7 @@ A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured 
 
 #### **Q: Is My ApeCoin safe in BendApeStaking?**
 
-A: Yes, Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
+A: Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
 
 #### **Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked ApeCoin?**
 
@@ -113,11 +113,15 @@ A: Yes. You can list when your NFT is participating in the BendApeStaking. When 
 
 A: Yes. You can borrow instant ETH against your Ape NFT anytime you want.
 
+#### Q: I stake my ApeCoin in the official BAYC/MAYC/BAKC pool, can I still borrow ETH against my NFT?
+
+A: Yes. But once you use your NFT as collateral to borrow ETH on BendDAO, your NFT will be in the BendDAO contract which means you can't claim/uncommit on the official ApeStake site. It is highly suggested to stake through BendDAO.
+
 #### **Q: I’m a borrower, can I join the BendApeStaking?**
 
-A: Yes. You can choose to pair with other ApeCoin holders or you can join the staking with your own ApeCoin.
+A: Yes. You can choose to pair with other ApeCoin holders or join the staking with your own ApeCoin.
 
-But if you pay off the loan, the paired staking will be unstaked because the NFT will be transfer from the lending contract to your own wallet.
+But if you pay off the loan, the paired staking will be unstaked because the NFT will be transferred from the lending contract to your own wallet.
 
 #### **Q: How long do I need to wait for the pairing?**
 
@@ -125,7 +129,7 @@ A: It depends. If you set your share ratio more attractive, your pair listing pr
 
 #### **Q: How can I get back my NFT during the staking?**
 
-A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, but the user who unstaked needs to pay the gas to make all the assets go back to the owners.
+A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, but the user who unstaked needs to pay the gas to make all the assets return to the owners.
 
 #### **Q: Is there any lock-up period for the pairing?**
 
