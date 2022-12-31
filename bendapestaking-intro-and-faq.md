@@ -89,7 +89,7 @@ A: Users who hold any of the following assets can join ApeCoin Staking with pair
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 
-A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs (including BAKC) need to be deposited before pairing to protect the rights and interests of ApeCoin users.
+A: No, you don't need to take out a loan to join. Anyone holding Ape NFT or ApeCoin can join the BendApeStaking. NFTs (including BAKC) need to be deposited when pairing to protect the rights and interests of ApeCoin users.
 
 #### **Q: Do I need to find someone with ApeCoin, or will the platform connect?**
 
