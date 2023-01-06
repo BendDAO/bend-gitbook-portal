@@ -12,3 +12,10 @@ To be specific, the workflow of BendDAO NFT down payment is as follows.&#x20;
 The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale on the BendDAO marketplace as well.
 
 The supported NFT collections are BAYC, CryptoPunks, MAYC, Doodles, Space Doodles, CloneX and Azuki. The percentage of the down payment is determined by [the LTV on BendDAO](https://docs.benddao.xyz/portal/highlights/instant-lending-and-repayments).&#x20;
+
+## Down Payment Related Fees
+
+Down payment trading fee: 1% of the full payment&#x20;
+
+Flash loan fee: 0.09% of the borrowed amount (charged by AAVE)
+
