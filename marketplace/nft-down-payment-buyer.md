@@ -15,7 +15,11 @@ The supported NFT collections are BAYC, CryptoPunks, MAYC, Doodles, Space Doodle
 
 ## Down Payment Related Fees
 
-Down payment trading fee: 1% of the full payment&#x20;
+Down payment trading fee: 1% of the full price
 
 Flash loan fee: 0.09% of the borrowed amount (charged by AAVE)
+
+
+
+50% of down payment fees are distributed to all veBEND holder, and the rest 50% go to the DAO Treasury.
 
