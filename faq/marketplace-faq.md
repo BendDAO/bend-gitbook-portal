@@ -24,11 +24,13 @@ Making an offer on an NFT.
 
 ## What are the fees on BendDAO?
 
-Trading fee: 2% of the sale price;
+Trading fee: 2% of the sale price.
 
-Royalty fee: 0\~10% of the sale price, paid to collection creator;
+Royalty fee: 0\~10% of the sale price, paid to the collection creator.
 
 Flash loan fee: 0.09% of the borrowed debt, paid to DeFi protocol, etc. AAVE.
+
+Down payment fee: 1% of the sale price.
 
 ## Is there any real-life analogy?&#x20;
 
