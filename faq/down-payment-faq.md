@@ -44,10 +44,10 @@ You will receive the NFT when you pay off the loan.&#x20;
 
 Currently, BendDAO. More NFT aggregators and marketplaces will come soon.&#x20;
 
-## What are the fees for the Downpayment?
+## What are the fees for the down payment?
 
-In addition to trading fees and royalty fees, users also need to pay the following fees:
+In addition to the marketplace's trading fees and royalty fees, users also need to pay the following fees:
 
 Flash loan fee: 0.09% of the borrowed debt, paid to DeFi protocol, etc. AAVE.
 
-Down payment fee: 1% of the sale price.
+Down payment fee: 1% of the sale price, paid to the BendDAO treasury.
