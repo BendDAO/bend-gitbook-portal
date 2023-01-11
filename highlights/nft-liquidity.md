@@ -23,3 +23,5 @@ The buyers will automatically become borrowers with the down payment. And borrow
 ![](<../.gitbook/assets/image (12) (1).png>)
 
 ### [nft-down-payment-buyer.md](../marketplace/nft-down-payment-buyer.md "mention")
+
+### [FAQ](../faq/down-payment-faq.md)
