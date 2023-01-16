@@ -22,13 +22,13 @@ Users who only borrow or stake can Flash Claim directly via BendDAO to mint the 
 
 Users who borrow and stake at the same time can Flash Claim directly via BendDAO to mint the Sewer Pass on 20th Jan. If the user unstake, he can Flash Claim the pass on 17th Jan as well.
 
+{% hint style="info" %}
+All details will be further confirmed when the official Sewer Pass Mint contract is released.&#x20;
+{% endhint %}
+
 ### **Q: Why is the Flash Claim start time for users who both borrow and join the staking be 20th Jan, not 17th Jan?**
 
-A: Because there is a 7-day timelock of Lending Pool contract. The new version of the Flash Claim Registry that supports users to Flash Claim when both borrowing and staking are deployed on 13th Jan and will be effective on 20th Jan.
-
-{% hint style="info" %}
-[Security ](../risk/security-and-audits.md)
-{% endhint %}
+A: Because there is a 7-day timelock of Lending Pool contract. The new version of the Flash Claim Registry that supports users to Flash Claim when both borrowing and staking are deployed on 13th Jan and will be effective on 20th Jan. [Security ](../risk/security-and-audits.md)
 
 ### **Q: My BAYC and/or MAYC is deposited, can I plus a BAKC to mint a higher-tiered Sewer Pass?**
 
