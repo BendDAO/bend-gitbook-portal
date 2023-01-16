@@ -100,7 +100,7 @@ You need to click the "Deploy Airdrop Receiver Contract" for the first Flash Cla
 
 ### Q: What is boundNFT?&#x20;
 
-A: For NFT-backed loans, when the borrower deposits an NFT in Bend DAO, a boundNFT will be minted as a Debt NFT. For Custody, when the NFT holder deposits an NFT in Bend DAO, a boundNFT will be minted as a receipt NFT.&#x20;
+A: For NFT-backed loans, when the borrower deposits an NFT in BendDAO, a boundNFT will be minted as a Debt NFT. For Custody, when the NFT holder deposits an NFT in BendDAO, a boundNFT will be minted as a receipt NFT.&#x20;
 
 More details of boundNFT https://docs.benddao.xyz/portal/highlights/true-ownership
 
@@ -114,6 +114,6 @@ A: Yes. Users also can write a contract to implement the Flash Claim. Please che
 
 ### Q: What kind of airdrops will be supported on BendDAO?&#x20;
 
-A: Technically, all airdrops that are related to the collaterals can be supported. BendDAO-supported collaterals are BAYC, CryptoPunks, MAYC, Azuki, CloneX, and Doodles.
+A: Technically, all airdrops that are related to the collaterals can be supported. BendDAO-supported collaterals are BAYC, CryptoPunks, MAYC, Azuki, Moonbirds, CloneX, and Doodles.
 
-Feel free to find the team in Discord if you want us to support other great airdrops.
+Feel free to find the team in Discord if you want us to support other airdrops.
