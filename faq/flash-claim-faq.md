@@ -8,7 +8,7 @@
 
 First, figure out which kind of situation you are in before Flash Claim.
 
-1. Borrow and Stake
+1. Borrow and Stake (including solo staking)
 2. Only Borrow
 3. Only Stake
 
