@@ -12,11 +12,11 @@ First, figure out which kind of situation you are in before Flash Claim.
 2. Only Borrow
 3. Only Stake
 
-| BAYC/MAYC Holder | Flash Claim Start Time                                      | Remark                                                            |
-| ---------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- |
-| Borrow and Stake | 7:30pm PST; 11:30am HKT, 20th Jan (because of the timelock) | If the user unstake, he/she can Flash Claim the pass on 17th Jan. |
-| Only Borrow      | 17th Jan (same as the official site)                        |                                                                   |
-| Only Stake       | 17th Jan (same as the official site)                        |                                                                   |
+| BAYC/MAYC Holder | Flash Claim Start Time                                               | Remark                                                            |
+| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Borrow and Stake | 10:00pm PST 19th Jan; 2:00pm HKT, 20th Jan (because of the timelock) | If the user unstake, he/she can Flash Claim the pass on 17th Jan. |
+| Only Borrow      | 17th Jan (same as the official site)                                 |                                                                   |
+| Only Stake       | 17th Jan (same as the official site)                                 |                                                                   |
 
 Users who only borrow or stake can Flash Claim directly via BendDAO to mint the Sewer Pass on 17th Jan.
 
