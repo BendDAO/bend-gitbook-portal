@@ -6,7 +6,7 @@
 
 BEND is the governance token of BendDAO.
 
-BEND holders can stake BEND to get vote-escrowed BEND (veBEND). veBEND holders share 100% of the lending protocol income.
+BEND holders can stake BEND to get vote-escrowed BEND (veBEND). veBEND holders share 100% of the lending & exchange & down payment protocol income.
 
 ## What is veBEND?
 
@@ -20,7 +20,9 @@ Bend DAO Governance: [https://snapshot.org/#/benddao.eth](https://snapshot.org/#
 
 #### **Earning**
 
-* To earn 100% ETH income that is collected from NFT-backed loans.
+* To earn 100% of ETH income collected from NFT-backed loans.
+* To earn 100% of ETH income collected from NFT exchange fees.
+* To earn 100% of ETH income collected from NFT down payment fees.
 
 ## How can I get veBEND?
 
@@ -30,7 +32,7 @@ Users will receive veBEND when staking BEND. [https://www.benddao.xyz/yielding/l
 
 It depends on how many veBEND tokens you hold because the ETH earnings are distributed by your veBEND weight. veBEND holders share 100% of the lending protocol income.
 
-The Avg. Locking APR (7d) and Your Locking APR (7d) are available on the Lock BEND page. [https://www.benddao.xyz/yielding/lock-bend](https://www.benddao.xyz/yielding/lock-bend)
+The Avg. Locking APR and Your Locking APR are available on the Lock BEND page. [https://www.benddao.xyz/yielding/lock-bend](https://www.benddao.xyz/yielding/lock-bend)
 
 ## Is there a minimum or maximum amount to stake?
 
