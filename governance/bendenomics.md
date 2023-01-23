@@ -62,11 +62,11 @@ Details: [https://medium.com/@BendDAO/benddao-fair-launch-fcb1e3c5e4a3](https://
 * After the IFO, all unsold BEND will go towards DAO Treasury.
 * Each participant can choose the lockup period during IFO. The lockup period is from 0 weeks to 4 years.
 
-### DAO Treasury (31% - 3,100,000,000)
+### Initial Fair-launch Offering (10% - 1,000,000,000 )
 
-#### Initial Fair-launch Offering (10% - 1,000,000,000 )
+The Initial Offering is our Fair Launch Strategy and aims to distribute the supply of BEND as fairly as possible.
 
-Initial Offering is our Fair Launch Strategy and aims to distribute the supply of BEND as fairly as possible.
+### DAO Treasury (21% - 2,100,000,000)
 
 #### Treasury Reserve (21% - 2,100,000,000)
 
