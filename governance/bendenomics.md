@@ -22,14 +22,14 @@ The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b
 
 ![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
-| Group                                | Allocation | Vesting Period                                                                               |
-| ------------------------------------ | ---------- | -------------------------------------------------------------------------------------------- |
-| Developer Team                       | 21 %       | 1-year locked and then linearly released in 3 years                                          |
-| Initial Fair-launch Offering         | 10%        | Offering in 90 days                                                                          |
-| Treasury Reserve                     | 21%        | Lockup in treasury, decided by the community                                                 |
-| Airdrop                              | 5%         | Airdrop in 90 days, 100% TGE                                                                 |
-| Uniswap LP Incentive (by Governance) | 3%         | Decided by the community                                                                     |
-| Lend/Borrow Incentive                | 40%        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 |
+| Group                                | Allocation | Vesting Start                         | Vesting Period                                                                               | Vesting Status |
+| ------------------------------------ | ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | -------------- |
+| Developer Team                       | 21 %       | 2023-05-09 UTC                        | 1-year locked and then linearly released in 3 years                                          | Waiting        |
+| Initial Fair-launch Offering         | 10%        | 2022-03-20 UTC                        | Offering in 90 days                                                                          | Ended          |
+| Treasury Reserve                     | 21%        | To Be Decided by the community voting | Lockup in treasury, decided by the community voting                                          | NA             |
+| Airdrop                              | 5%         | 2022-03-20 UTC                        | Airdrop in 90 days, 100% TGE                                                                 | Ended          |
+| Uniswap LP Incentive (by Governance) | 3%         | 2022-04-27 UTC                        | Decided by the community                                                                     | Going          |
+| Lend/Borrow Incentive                | 40%        | 2022-03-20 UTC                        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 | Going          |
 
 A critical consideration is that the community of BEND holders collectively maintains the ability to keep the Bend Protocol safe. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
 
@@ -88,8 +88,7 @@ As part of Bend’s initial launch, we’re distributing 500,000,000 Bends token
 
 #### Uniswap LP Incentive (3% - 300,000,000) for 3 years
 
-To encourage market makers to provide liquidity on Uniswap, 3% of BEND total supply will be distributed through liquidity incentives. Since DAO will be formed after the BEND token fair launch, the Uniswap LP Incentive will be decided through DAO governance. 
-Update: the vote is done [here](https://snapshot.org/#/benddao.eth/proposal/0x57b7b515108ebfea11cebd9faa1ac7ca9cd85f7ef66b297d9d237eb3918ffc39).
+To encourage market makers to provide liquidity on Uniswap, 3% of BEND total supply will be distributed through liquidity incentives. Since DAO will be formed after the BEND token fair launch, the Uniswap LP Incentive will be decided through DAO governance. Update: the vote is done [here](https://snapshot.org/#/benddao.eth/proposal/0x57b7b515108ebfea11cebd9faa1ac7ca9cd85f7ef66b297d9d237eb3918ffc39).
 
 #### Lend/Borrow Incentive (40% - 4,000,000,000)
 
