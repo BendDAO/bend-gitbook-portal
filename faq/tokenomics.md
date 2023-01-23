@@ -20,9 +20,13 @@ Bend DAO Governance: [https://snapshot.org/#/benddao.eth](https://snapshot.org/#
 
 #### **Earning**
 
+{% hint style="info" %}
+The share ratio and fee ratio can be changed by commuting voting.
+{% endhint %}
+
 * To earn 100% of ETH income collected from NFT-backed loans (30% of borrowing interest).
-* To earn 100% of ETH income collected from NFT exchange fees (2% of the sale price).
-* To earn 100% of ETH income collected from NFT down payment fees (1% of the sale price).
+* To earn 50% of ETH income collected from NFT exchange fees (2% of the sale price).
+* To earn 50% of ETH income collected from NFT down payment fees (1% of the sale price).
 
 ## How can I get veBEND?
 
