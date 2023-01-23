@@ -47,7 +47,13 @@ veBEND holders will be able to vote for 4 of 7 bluechip NFTs that will get initi
 
 #### Share Protocol Income
 
-BEND stakers (veBEND holders) share 100% of the protocol income. More details of [veBEND](vote-escrowed-bend-vebend.md).
+BEND stakers (veBEND holders) share:
+
+* To earn 100% of ETH income collected from NFT-backed loans (30% of borrowing interest).
+* To earn 50% of ETH income collected from NFT exchange fees (2% of the sale price).
+* To earn 50% of ETH income collected from NFT down payment fees (1% of the sale price).
+
+More details of [veBEND](vote-escrowed-bend-vebend.md).
 
 ## Initial Fair-launch Offering (IFO)
 
@@ -78,11 +84,12 @@ DeFi Protocols have made use of liquidity programs to jumpstart growth and distr
 
 #### Airdrop (5% - 500,000,000)
 
-As part of Bend’s initial launch, we’re distributing 500,000,000 Bends tokens (5% of total supply) to the NFT community.
+As part of Bend’s initial launch, we’re distributing 500,000,000 Bends tokens (5% of total supply) to the NFT community. The tokens for airdrop not claimed had been [transfered back to DAO treasury](https://etherscan.io/tx/0xe53460aeb3c748d7fd77edfe1ebe485bca5812742c9adfd296c76db8f2ca2783).
 
-#### Uniswap LP Incentive (3% - 300,000,000)
+#### Uniswap LP Incentive (3% - 300,000,000) for 3 years
 
-To encourage market makers to provide liquidity on Uniswap, 3% of BEND total supply will be distributed through liquidity incentives. Since DAO will be formed after the BEND token fair launch, the Uniswap LP Incentive will be decided through DAO governance.
+To encourage market makers to provide liquidity on Uniswap, 3% of BEND total supply will be distributed through liquidity incentives. Since DAO will be formed after the BEND token fair launch, the Uniswap LP Incentive will be decided through DAO governance. 
+Update: the vote is done [here](https://snapshot.org/#/benddao.eth/proposal/0x57b7b515108ebfea11cebd9faa1ac7ca9cd85f7ef66b297d9d237eb3918ffc39).
 
 #### Lend/Borrow Incentive (40% - 4,000,000,000)
 
