@@ -104,6 +104,21 @@ Developer Team tokens are retained for founders and original early contributors 
 
 So in the first year, the team will not sell any tokens to the market and will not participate in the distribution of protocol income.
 
+**Update of Team Token Contract**&#x20;
+
+In this update, we would like to share the details of the team token vesting. All team tokens have been locked since March 21st, 2022 which was the first day of the BendDAO launch.&#x20;
+
+* Team Allocation: 2,100,000,000 BEND (21% of the total supply)&#x20;
+* Vesting Period: 1-year lockup and then linearly released in 3 years&#x20;
+* Official start time of the 1-year lockup: May 10th, 2022 at 14:28 UTC&#x20;
+* End time of the 1-year lockup: May 9th, 2023 at 14:29 UTC&#x20;
+* End time of the vesting period: May 8th, 2026 at 14:29 UTC&#x20;
+* Timelock of the team token contract: 7 days&#x20;
+
+The team doesn’t have any voting power and can’t share the protocol ETH earnings since the team token contract is independent.
+
+Details: [https://mirror.xyz/benddaoteam.eth/VLTqI6yPC\_YojeUreU1YvJfHT27KFEkHFW5BN1CH48M](https://mirror.xyz/benddaoteam.eth/VLTqI6yPC\_YojeUreU1YvJfHT27KFEkHFW5BN1CH48M)
+
 ## Wallet Addresses
 
 | Name                                           | Address                                                                                                               |
