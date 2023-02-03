@@ -113,7 +113,7 @@ A: Yes. You can list when your NFT is participating in the BendApeStaking. When 
 
 A: Yes. You can borrow instant ETH against your Ape NFT anytime you want.
 
-#### Q: I stake my ApeCoin in the official BAYC/MAYC/BAKC pool, can I still borrow ETH against my NFT?
+#### Q: I stake my NFT and ApeCoin in the official BAYC/MAYC/BAKC pool, can I still borrow ETH against my NFT?
 
 A: Yes. But once you use your NFT as collateral to borrow ETH on BendDAO, your NFT will be in the BendDAO contract which means you can't claim/uncommit on the official ApeStake site. It is highly suggested to stake through BendDAO.
 
