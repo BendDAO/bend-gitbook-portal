@@ -6,7 +6,7 @@
 
 BEND is the governance token of BendDAO.
 
-BEND holders can stake BEND to get vote-escrowed BEND (veBEND). veBEND holders share 100% of the lending & exchange & down payment protocol income.
+BEND holders can stake BEND to get vote-escrowed BEND (veBEND). veBEND holders share 100% of the lending revenue & 50% of exchange revenue & 50% of down payment revenue.
 
 ## What is veBEND?
 
