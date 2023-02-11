@@ -8,8 +8,8 @@ Dune Dashboard: [https://dune.com/benddao/benddao-treasury](https://dune.com/ben
 
 ## Revenue
 
-1. 50% of NFT exchange fees in ETH (2% of the sale price);
-2. 50% of NFT down payment fees in ETH (1% of the sale price);
+1. 50% of NFT exchange fees in $ETH (2% of the sale price);
+2. 50% of NFT down payment fees in $ETH (1% of the sale price);
 3. 4% of $Ape Staking rewards as BendApeStaking Pairing Service Fee.
 
 ### Weekly Swap
