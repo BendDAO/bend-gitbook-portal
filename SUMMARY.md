@@ -60,6 +60,7 @@
 ## Governance
 
 * [Bendenomics](governance/bendenomics.md)
+* [DAO Treasury](governance/dao-treasury.md)
 * [Governance Mechanism](governance/governance-mechanism.md)
 * [BendDAO Improvement Proposals (BIPs)](governance/benddao-improvement-proposals-bips.md)
 * [Vote-escrowed BEND (veBEND)](governance/vote-escrowed-bend-vebend.md)
