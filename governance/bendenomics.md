@@ -20,11 +20,11 @@ The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b
 
 ![BEND Token Allocation](<../.gitbook/assets/image (9).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 | Group                                | Allocation | Vesting Start                         | Vesting Period                                                                               | Vesting Status |
 | ------------------------------------ | ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | -------------- |
-| Developer Team                       | 21 %       | 2023-05-09 UTC                        | 14-month locked and then linearly released in 3 years                                        | Waiting        |
+| Developer Team                       | 21 %       | 2023-05-09 UTC                        | 14.5-month locked and then linearly released in 3 years                                      | Waiting        |
 | Initial Fair-launch Offering         | 10%        | 2022-03-20 UTC                        | Offering in 90 days                                                                          | Ended          |
 | Treasury Reserve                     | 21%        | To Be Decided by the community voting | Lockup in treasury, decided by the community voting                                          | NA             |
 | Airdrop                              | 5%         | 2022-03-20 UTC                        | Airdrop in 90 days, 100% TGE                                                                 | Ended          |

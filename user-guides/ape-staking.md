@@ -37,5 +37,5 @@ Ape Staking > My Pairing Listings > Cancel Listing
 2. Input the staking amount
 3. Approve token and confirm staking
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (7).png>)
 

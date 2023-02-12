@@ -12,6 +12,16 @@ Down Payment = Total price - 60%/50%/30% of the Floor Price
 
 If the total price of the NFT is much higher than the collection floor price, the percentage of the down payment will increase.
 
+## What's the Down Payment Fee?
+
+Down Payment Trading Fee: 1% of the full price
+
+Flash Loan Fee: 0.09% of the borrowed amount (charged by AAVE)
+
+
+
+50% of the Down Payment trading fees are distributed to all veBEND holders, and the rest 50% go to the DAO Treasury.
+
 ## What's the difference between Down Payment and Buy Now Pay Later?
 
 The Buy with Down Payment on BendDAO is not P2P based which means users can execute the purchase instantly. And there is no payment installments.
