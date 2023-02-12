@@ -2,15 +2,17 @@
 
 ## An example of liquidation
 
-Assuming that the floor price of BAYC is 100 ETH when you borrow 40 ETH instantly on BendDAO.
+Assuming that the floor price of BAYC is 100 ETH when you borrow 60 ETH instantly on BendDAO.
 
-If the floor price drops to 50 ETH, the 24h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
+If the floor price drops to 75 ETH, the 24h liquidation protection can be triggered since the health factor of your NFT-backed loan is below 1.
 
-Health Factor = (50 \* 80%) / (40 + interests) <1&#x20;
+Health Factor = (75 \* 80%) / (60 + interests) <1&#x20;
 
 Health Factor = (Floor Price \* Liquidation Threshold) / Debt with Interests.
 
 _\*The liquidation protection and liquidation threshold are adjusted based on_ [_BIP#9 & BIP#10._](../governance/benddao-improvement-proposals-bips.md) _Updated as of August 30th, 2022._
+
+_\*The LTV of BAYC, CryptoPunks, and MAYC are adjusted based on_ [_BIP#15_](https://snapshot.org/#/benddao.eth/proposal/0x1bd2cb68f3577f97605b542a7094e0d350a427e516ff30503e8172cc89feb9e6)_. Updated as of December 20th, 2022._
 
 ## What is the health factor?
 
