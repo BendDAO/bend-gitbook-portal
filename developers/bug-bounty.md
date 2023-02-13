@@ -61,3 +61,5 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 | 2022-9-24           | Website Medium                     | 1,000         | 0.008055        | 124146         | Distributed |
 | 2022-12-10          | <p>Website</p><p>Low</p>           | 200           | 0.004007        | 49913          | Distributed |
 | 2022-12-18          | <p>Website</p><p>Medium</p>        | 500           | 0.004007        | 124782         | Distributed |
+| 2023-2-5            | Smart contract Medium              | 2000          | 0.02521         | 79334          | Distributed |
+| 2023-2-11           | Smart contract Critical            | 50000         | 0.02521         | 1983340        | Distributed |
