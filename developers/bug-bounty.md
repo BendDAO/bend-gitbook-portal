@@ -41,25 +41,25 @@ The breakdown of the rewards is in accordance with ImmuneFi’s distribution cri
 
 ## Rewards Distribution Record
 
-| Bug Submission Date | Threat Level                                                                                                       | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status      |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------: | --------------- | -------------- | ----------- |
-| April 4th, 2022     | <p>Website </p><p>High</p>                                                                                         |        10,000 | 0.01846752      | 541,491        | Distributed |
-| April 7th, 2022     | <p>Smart contract</p><p>Medium</p>                                                                                 |        2,000  | 0.01846752      | 108,298        | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>                                                                                        |        2,000  | 0.0458915       | 43,581         | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Low</p>                                                                                           |         1,000 | 0.0458915       | 21,791         | Distributed |
-| April 23rd, 2022    | <p>Website</p><p>Medium</p>                                                                                        |        20,000 | 0.03721         | 53,7490        | Distributed |
-| May 8th, 2022       | <p>Website</p><p>Low</p>                                                                                           |         1,000 | 0.04071         | 24564          | Distributed |
-| May 12th, 2022      | Smart contract High                                                                                                |        10,000 | 0.02538         | 394011         | Distributed |
-| May 27th, 2022      | <p>Website</p><p>Low</p>                                                                                           |         1,000 | 0.0255          | 39216          | Distributed |
-| June 16th, 2022     | Smart contract Low                                                                                                 |         1,000 | 0.006096        | 164042         | Distributed |
-| June 23rd, 2022     | Smart contract Medium                                                                                              |         5,000 | 0.005376        | 930060         | Distributed |
-| 2022-7-23           | <p>Website</p><p>Low</p>                                                                                           |         1,000 | 0.005318        | 188041         | Distributed |
-| 2022-7-26           | Smart contract Low                                                                                                 |         1,000 | 0.005318        | 188041         | Distributed |
-| 2022-8-19           | <p>Website</p><p>Low</p>                                                                                           |         1,000 | 0.005285        | 189215         | Distributed |
-| 2022-8-22           | Smart contract Medium                                                                                              |         2,000 | 0.008755        | 228441         | Distributed |
-| 2022-9-16           | Smart contract Medium                                                                                              |         2,000 | 0.006913        | 289310         | Distributed |
-| 2022-9-24           | Website Medium                                                                                                     |         1,000 | 0.008055        | 124146         | Distributed |
-| 2022-12-10          | <p>Website</p><p>Low</p>                                                                                           |           200 | 0.004007        | 49913          | Distributed |
-| 2022-12-18          | <p>Website</p><p>Medium</p>                                                                                        |           500 | 0.004007        | 124782         | Distributed |
-| 2023-2-5            | Smart contract Medium                                                                                              |         2,000 | 0.02521         | 79334          | Distributed |
-| 2023-2-11           | Smart contract Critical [(Details)](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef) |        50,000 | 0.02521         | 1983340        | Distributed |
+| Bug Submission Date |                                                                                                       Threat Level | Rewards (USD) | BEND TWAP Price | Rewards (BEND) | Status      |
+| ------------------- | -----------------------------------------------------------------------------------------------------------------: | ------------: | --------------- | -------------: | ----------- |
+| April 4th, 2022     |                                                                                         <p>Website </p><p>High</p> |        10,000 | 0.01846752      |        541,491 | Distributed |
+| April 7th, 2022     |                                                                                 <p>Smart contract</p><p>Medium</p> |        2,000  | 0.01846752      |        108,298 | Distributed |
+| April 23rd, 2022    |                                                                                        <p>Website</p><p>Medium</p> |        2,000  | 0.0458915       |         43,581 | Distributed |
+| April 23rd, 2022    |                                                                                           <p>Website</p><p>Low</p> |         1,000 | 0.0458915       |         21,791 | Distributed |
+| April 23rd, 2022    |                                                                                        <p>Website</p><p>Medium</p> |        20,000 | 0.03721         |        53,7490 | Distributed |
+| May 8th, 2022       |                                                                                           <p>Website</p><p>Low</p> |         1,000 | 0.04071         |         24,564 | Distributed |
+| May 12th, 2022      |                                                                                                Smart contract High |        10,000 | 0.02538         |        394,011 | Distributed |
+| May 27th, 2022      |                                                                                           <p>Website</p><p>Low</p> |         1,000 | 0.0255          |         39,216 | Distributed |
+| June 16th, 2022     |                                                                                                 Smart contract Low |         1,000 | 0.006096        |        164,042 | Distributed |
+| June 23rd, 2022     |                                                                                              Smart contract Medium |         5,000 | 0.005376        |        930,060 | Distributed |
+| 2022-7-23           |                                                                                           <p>Website</p><p>Low</p> |         1,000 | 0.005318        |        188,041 | Distributed |
+| 2022-7-26           |                                                                                                 Smart contract Low |         1,000 | 0.005318        |        188,041 | Distributed |
+| 2022-8-19           |                                                                                           <p>Website</p><p>Low</p> |         1,000 | 0.005285        |        189,215 | Distributed |
+| 2022-8-22           |                                                                                              Smart contract Medium |         2,000 | 0.008755        |        228,441 | Distributed |
+| 2022-9-16           |                                                                                              Smart contract Medium |         2,000 | 0.006913        |        289,310 | Distributed |
+| 2022-9-24           |                                                                                                     Website Medium |         1,000 | 0.008055        |        124,146 | Distributed |
+| 2022-12-10          |                                                                                           <p>Website</p><p>Low</p> |           200 | 0.004007        |         49,913 | Distributed |
+| 2022-12-18          |                                                                                        <p>Website</p><p>Medium</p> |           500 | 0.004007        |        124,782 | Distributed |
+| 2023-2-5            |                                                                                              Smart contract Medium |         2,000 | 0.02521         |         79,334 | Distributed |
+| 2023-2-11           | Smart contract Critical [(Details)](https://medium.com/@BendDAO/sewer-pass-flash-claim-vulnerability-9d2b0b1e09ef) |        50,000 | 0.02521         |      1,983,340 | Distributed |
