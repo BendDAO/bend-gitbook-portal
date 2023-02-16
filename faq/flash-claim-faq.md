@@ -1,59 +1,5 @@
 # Flash Claim FAQ
 
-[Sewer Pass](flash-claim-faq.md#sewer-pass)
-
-[General](flash-claim-faq.md#general)
-
-## Sewer Pass
-
-First, figure out which kind of situation you are in before Flash Claim.
-
-1. Borrow and Stake (including solo staking)
-2. Only Borrow
-3. Only Stake
-
-| BAYC/MAYC Holder | Flash Claim Start Time                                               | Remark                                                            |
-| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Borrow and Stake | 10:00pm PST 19th Jan; 2:00pm HKT, 20th Jan (because of the timelock) | If the user unstake, he/she can Flash Claim the pass on 17th Jan. |
-| Only Borrow      | 17th Jan (same as the official site)                                 |                                                                   |
-| Only Stake       | 17th Jan (same as the official site)                                 |                                                                   |
-
-Users who only borrow or stake can Flash Claim directly via BendDAO to mint the Sewer Pass on 17th Jan.
-
-Users who borrow and stake at the same time can Flash Claim directly via BendDAO to mint the Sewer Pass on 20th Jan. If the user unstake, he can Flash Claim the pass on 17th Jan as well.
-
-{% hint style="info" %}
-All details will be further confirmed when the official Sewer Pass Mint contract is released.&#x20;
-{% endhint %}
-
-### **Q: Why is the Flash Claim start time for users who both borrow and join the staking be 20th Jan, not 17th Jan?**
-
-A: Because there is a 7-day timelock of Lending Pool contract. The new version of the Flash Claim Registry that supports users to Flash Claim when both borrowing and staking are deployed on 13th Jan and will be effective on 20th Jan. [Security ](../risk/security-and-audits.md)
-
-### **Q: My BAYC and/or MAYC is deposited, can I plus a BAKC to mint a higher-tiered Sewer Pass?**
-
-A: Yes. You can combine with a BAKC for a higher-tiered Sewer Pass with Flash Claim. The BAKC should be in your wallet address.
-
-### **Q: Can I unstake right before the mint to Flash Claim at the first time, if I’m borrowing and staking?**
-
-A: Yes, you can unstake anytime.
-
-### **Q: Any preparation I need to do for Flash Claim?**
-
-A: First-time users can deploy the **Airdrop Receiver Contract first** which is a one-time cost.&#x20;
-
-[Refer to Q: Can I Flash Claim if I have no knowledge of programming? ](flash-claim-faq.md#q-can-i-flash-claim-if-i-have-no-knowledge-of-programming)
-
-
-
-| BAKC Holder | Flash Claim | Remark                                        |
-| ----------- | ----------- | --------------------------------------------- |
-| Only Stake  | N.A.        | Users need to unstake first to join the mint. |
-
-### **Q: I join the Ape Staking with my BAKC on BendDAO. How to Flash Claim with my BAKC?**
-
-A: BAKC holders need to unstake first to mint a higher-tiered Sewer Pass.
-
 ## General
 
 ### Q: How can I claim my airdrops when my NFT is deposited in Bend?&#x20;
@@ -117,3 +63,53 @@ A: Yes. Users also can write a contract to implement the Flash Claim. Please che
 A: Technically, all airdrops that are related to the collaterals can be supported. BendDAO-supported collaterals are BAYC, CryptoPunks, MAYC, Azuki, Moonbirds, CloneX, and Doodles.
 
 Feel free to find the team in Discord if you want us to support other airdrops.
+
+## Sewer Pass
+
+First, figure out which kind of situation you are in before Flash Claim.
+
+1. Borrow and Stake (including solo staking)
+2. Only Borrow
+3. Only Stake
+
+| BAYC/MAYC Holder | Flash Claim Start Time                                               | Remark                                                            |
+| ---------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Borrow and Stake | 10:00pm PST 19th Jan; 2:00pm HKT, 20th Jan (because of the timelock) | If the user unstake, he/she can Flash Claim the pass on 17th Jan. |
+| Only Borrow      | 17th Jan (same as the official site)                                 |                                                                   |
+| Only Stake       | 17th Jan (same as the official site)                                 |                                                                   |
+
+Users who only borrow or stake can Flash Claim directly via BendDAO to mint the Sewer Pass on 17th Jan.
+
+Users who borrow and stake at the same time can Flash Claim directly via BendDAO to mint the Sewer Pass on 20th Jan. If the user unstake, he can Flash Claim the pass on 17th Jan as well.
+
+{% hint style="info" %}
+All details will be further confirmed when the official Sewer Pass Mint contract is released.&#x20;
+{% endhint %}
+
+### **Q: Why is the Flash Claim start time for users who both borrow and join the staking be 20th Jan, not 17th Jan?**
+
+A: Because there is a 7-day timelock of Lending Pool contract. The new version of the Flash Claim Registry that supports users to Flash Claim when both borrowing and staking are deployed on 13th Jan and will be effective on 20th Jan. [Security ](../risk/security-and-audits.md)
+
+### **Q: My BAYC and/or MAYC is deposited, can I plus a BAKC to mint a higher-tiered Sewer Pass?**
+
+A: Yes. You can combine with a BAKC for a higher-tiered Sewer Pass with Flash Claim. The BAKC should be in your wallet address.
+
+### **Q: Can I unstake right before the mint to Flash Claim at the first time, if I’m borrowing and staking?**
+
+A: Yes, you can unstake anytime.
+
+### **Q: Any preparation I need to do for Flash Claim?**
+
+A: First-time users can deploy the **Airdrop Receiver Contract first** which is a one-time cost.&#x20;
+
+[Refer to Q: Can I Flash Claim if I have no knowledge of programming? ](flash-claim-faq.md#q-can-i-flash-claim-if-i-have-no-knowledge-of-programming)
+
+
+
+| BAKC Holder | Flash Claim | Remark                                        |
+| ----------- | ----------- | --------------------------------------------- |
+| Only Stake  | N.A.        | Users need to unstake first to join the mint. |
+
+### **Q: I join the Ape Staking with my BAKC on BendDAO. How to Flash Claim with my BAKC?**
+
+A: BAKC holders need to unstake first to mint a higher-tiered Sewer Pass.
