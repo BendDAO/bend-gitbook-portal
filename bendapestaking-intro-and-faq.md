@@ -165,6 +165,14 @@ A: You can claim your rewards anytime. The rewards claim on BendDAO follows the 
 
 A: After the liquidation, the contract will uncommit and return the unclaimed rewards and ApeCoin to the deposit addresses.
 
+#### Q: How to claim rewards by contract interaction directly?
+
+A: Query the StakeManager contract: 0xdafce4acc2703a24f29d1321adaadf5768f54642;&#x20;
+
+Step 1: getStakedProxies(apeCollection, apeTokenId);&#x20;
+
+Step 2: claimable(proxy, staker);
+
 ### Share Ratio
 
 #### **Q: How to set the share ratio?**
