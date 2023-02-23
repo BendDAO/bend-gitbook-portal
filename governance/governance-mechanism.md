@@ -67,7 +67,7 @@ Implemented: The BIP is implemented.
 
 Not Pass: The BIP is closed because of insufficient community support.
 
-### Phase 3. On-chain Voting
+### Phase 3. Snapshot Voting
 
 The parameters or solutions defined in the BIP will be finally decided by Snapshot voting.
 
