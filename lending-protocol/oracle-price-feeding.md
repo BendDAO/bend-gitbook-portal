@@ -19,7 +19,7 @@ For CryptoPunks, we get the floor price from [CryptoPunksMarket](https://ethersc
 
 For security and reliability, we will run multiple nodes to ensure that valid price data can be uploaded to the on-chain oracle contract in a timely manner at all times and the on-chain contract limits the frequency of price feed and the difference between two price feeds cannot exceed a threshold.
 
-The frequency of the oracle update will automatically be adjusted based on market volatility. A higher volatility means a higher update frequency. For security reasons, the technical details are not disclosed. The TWAP time interval is 6 hours now.&#x20;
+The frequency of the oracle update will automatically be adjusted based on market volatility. A higher volatility means a higher update frequency. For security reasons, the technical details are not disclosed.&#x20;
 
 BendDAO team works closely with Chainlink. We will integrate Chainlink NFT oracle when it goes live. Before that, we run the Oracle by ourselves.
 
