@@ -53,7 +53,7 @@ A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured 
 
 #### **Q: Is My ApeCoin safe in BendApeStaking?**
 
-A: Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited also. For our pairing service, only the NFT holders and ApeCoin holders can have operating permission.
+A: Your ApeCoin tokens are only locked in the official ApeCoinStaking contract which has been audited too. You can unstake and withdraw your apecoin back from the pairing anytime you want if you have any concerns.
 
 #### **Q: If I sell my NFT while it is committed in a BAYC or MAYC pool, will I lose all of my staked ApeCoin?**
 
@@ -69,7 +69,7 @@ NO, YOU WILL NOT LOSE YOUR STAKED $APE. For BAYC or MAYC holders, please look at
 
 A: If the NFT and ApeCoin are from the same wallet address, there is **NO** fee.
 
-If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and will be voted by the community to decide how to deal with it soon.
+If you pair with others to join the staking, there will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and can be voted by the community to decide how to use it for the DAO development in the future.
 
 #### **Q: How does BendApeStaking charge the pairing service fee?**
 
@@ -133,11 +133,11 @@ A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, bu
 
 #### **Q: Is there any lock-up period for the pairing?**
 
-A: NO. All users can unstake anytime. The user who unstaked needs to pay the gas to make all the assets go back to the owners.
+A: NO. All users can unstake anytime. We design the protocol with max freedom and safe first, permisionless is important and keep anyone using the protocol can quite anytime is the most important principle. By ethereum designed, the user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
 #### **Q: Will I miss the airdrop when I am staking?**
 
-A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT, but you need to uncommit first to make sure the ApeCoin holder is safe.
+A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT. We have help lots of apes and mutants holders to claim the sewer pass NFT.
 
 #### **Q: How many co-stakers can join the pairing?**
 
@@ -209,8 +209,8 @@ A: The Dev team is working on that, but claim all would not save the gas, it wou
 
 #### **Q: Why claim gas for BendDAO staking is more than official website?**
 
-A: BendDAO staking is more complicated than official contract, pairing and preventing ApeCoin holder lost ApeCoin by pairing cost that gas.
+A: BendDAO staking was designed for loan users at the first time. It is more complicated than official contract, with features like flashclaim, borrow eth, listing, it's won't cost gas like official contract. 
 
-#### **Q: Can BendDAO save the gas by distributing the rewards if anyone claim the rewards?**
+#### **Q: Is BendDAO going to develop staking service for non-loan users?**
 
-A: We are figuring out the solution, it won't be easy, need more contract development and auditing, stay tuned.
+A: We have BendDAO ecosystem building this, stay tuned, our community will supprise you.
