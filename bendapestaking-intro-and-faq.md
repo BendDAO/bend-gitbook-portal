@@ -167,9 +167,9 @@ A: After the liquidation, the contract will uncommit and return the unclaimed re
 
 #### Q: How to claim rewards by contract interaction directly?
 
-A: Query the StakeManager contract: 0xdafce4acc2703a24f29d1321adaadf5768f54642;&#x20;
+A: Query the StakeManager contract: 0xdafce4acc2703a24f29d1321adaadf5768f54642;
 
-Step 1: getStakedProxies(apeCollection, apeTokenId);&#x20;
+Step 1: getStakedProxies(apeCollection, apeTokenId);
 
 Step 2: claimable(proxy, staker);
 
@@ -191,15 +191,21 @@ A: Anytime. But the co-staker who ends the pairing will pay the reward distribut
 
 A: Every co-staker can claim the rewards.
 
+### Auto-Compound Rewards
+
+#### **Q: How can I add more ApeCoin to the auto-compound pool?**
+
+A: We support the stakers to claim and compound the paired staking rewards into the auto-compound pool. After depositing the claimed rewards, the pool will help you to compound ApeCoin automatically.
+
+#### **Q: Any charge if I use auto-compound service?**
+
+A: There will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and can be voted by the community to decide how to use it for the DAO development in the future. ****&#x20;
+
 ### More Features
 
 #### **Q: How can I add more ApeCoin to staking order?**
 
 A: The only way to add ApeCoin is unstake and stake with more ApeCoin, the official smart contract does not provide add ApeCoin function.
-
-#### **Q: Can I auto-compounding the staking?**
-
-A: No, the only way to compounding is unstake and stake with more ApeCoin.
 
 #### **Q: Can I claim all the rewards in one transaction for all my staking orders?**
 
@@ -209,7 +215,7 @@ A: The Dev team is working on that, but claim all would not save the gas, it wou
 
 #### **Q: Why claim gas for BendDAO staking is more than official website?**
 
-A: BendDAO staking was designed for loan users at the first time. It is more complicated than official contract, with features like flashclaim, borrow eth, listing, it's won't cost gas like official contract. 
+A: BendDAO staking was designed for loan users at the first time. It is more complicated than official contract, with features like flashclaim, borrow eth, listing, it's won't cost gas like official contract.
 
 #### **Q: Is BendDAO going to develop staking service for non-loan users?**
 
