@@ -37,6 +37,8 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 [Share Ratio](bendapestaking-intro-and-faq.md#share-ratio)
 
+[Auto-Compound Rewards](bendapestaking-intro-and-faq.md#auto-compound-rewards)
+
 [More Features](bendapestaking-intro-and-faq.md#more-features)
 
 [Gas Cost](bendapestaking-intro-and-faq.md#gas-cost)
@@ -200,6 +202,10 @@ A: We support the stakers to claim and compound the paired staking rewards into 
 #### **Q: Any charge if I use auto-compound service?**
 
 A: There will be a **4**% pairing service fee based on staking earnings. The service fee is decided by the [community voting](https://snapshot.org/#/benddao.eth/proposal/0x695996117077bf6b2ca93db1673827b4cba647d8a121c09090024d40a4fdbc3e). All the service fees go to the DAO treasury and can be voted by the community to decide how to use it for the DAO development in the future. ****&#x20;
+
+#### **Q: Who pays the gas for the auto-compound pool?**
+
+A: Users need to pay the gas for the deposit and withdraw, but the daily auto-compound gas will be paid by BendDAO Treasury.
 
 ### More Features
 
