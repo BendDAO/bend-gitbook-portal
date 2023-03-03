@@ -28,7 +28,7 @@ The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b
 | Initial Fair-launch Offering         | 10%        | 2022-03-20 UTC                        | Offering in 90 days                                                                          | Ended          |
 | Treasury Reserve                     | 21%        | To Be Decided by the community voting | Lockup in treasury, decided by the community voting                                          | NA             |
 | Airdrop                              | 5%         | 2022-03-20 UTC                        | Airdrop in 90 days, 100% TGE                                                                 | Ended          |
-| Uniswap LP Incentive (by Governance) | 3%         | 2022-04-27 UTC                        | Decided by the community                                                                     | Going          |
+| Uniswap LP Incentive (by Governance) | 3%         | 2022-04-27 UTC                        | Vested when mainnet online, linearly released in 3 years                                     | Going          |
 | Lend/Borrow Incentive                | 40%        | 2022-03-20 UTC                        | Vested when mainnet online, linearly released in 5 years, Lend/Borrow Incentive ratio is 1:3 | Going          |
 
 A critical consideration is that the community of BEND holders collectively maintains the ability to keep the Bend Protocol safe. This may be of interest to the community for numerous reasons, including creating enhancements such as optimized oracle and new auction mechanism features for resisting in black swan scenarios.
