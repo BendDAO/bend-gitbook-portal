@@ -201,7 +201,7 @@ A: We support the stakers to claim and compound the paired staking rewards into 
 
 #### **Q: Any charge if I use auto-compound service?**
 
-A: No fee for auto-compound pool.&#x20;
+A: No fee for auto-compound pool. _(Updated as of March 9th)_
 
 #### **Q: Who pays the gas for the auto-compound pool?**
 
