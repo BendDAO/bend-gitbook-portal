@@ -8,7 +8,7 @@ Below are the links to all audit reports for BendDAO.
 
 | Auditor           | Scope                                            | Date       | Report                                                                                                                         |
 | ----------------- | ------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Verilog Solutions | Auto-Compound ApeCoin; Delegate Cash Integraton; | 2023-02-15 | [https://www.verilog.solutions/audits/benndao\_apecoin\_vault/](https://www.verilog.solutions/audits/benndao\_apecoin\_vault/) |
+| Verilog Solutions | Auto-Compound ApeCoin; Delegate Cash Integraton; | 2023-02-15 | [https://www.verilog.solutions/audits/benddao\_apecoin\_vault/](https://www.verilog.solutions/audits/benddao\_apecoin\_vault/) |
 | Verilog Solutions | Ape Staking                                      | 2022-12-05 | [https://www.verilog.solutions/audits/bend\_apecoin\_staking/](https://www.verilog.solutions/audits/bend\_apecoin\_staking/)   |
 | Verilog Solutions | Exchange Protocol                                | 2022-08-03 | [https://www.verilog.solutions/audits/benddao\_liquidity/](https://www.verilog.solutions/audits/benddao\_liquidity/)           |
 | Verilog Solutions | Lending Protocol                                 | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/)                                 |
