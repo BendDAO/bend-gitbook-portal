@@ -16,6 +16,7 @@
 * [Liquidation FAQ](faq/liquidation.md)
 * [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
+* [Otherdeeds with KODA FAQ](faq/otherdeeds-with-koda-faq.md)
 
 ## Highlights
 
