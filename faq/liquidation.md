@@ -109,3 +109,7 @@ One NFT one loan. Each loan has its own health factor.
 
 No. Your bid will automatically be refunded to your wallet in WETH.
 
+## If the bid exceeds the debt, who will receive the difference?&#x20;
+
+The borrower. If the collateral is sold in an auction for greater than the loan amount, the excess will belong to the borrower.
+
