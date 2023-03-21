@@ -19,7 +19,7 @@ Click “Delegate NFT”
 
 After the successful delegation, the status of your collateralized NFT will be “Delegated”.
 
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 After delegation, go to Discord for the role verification. Here, we would like to take BAYC Discord as an example.
 
@@ -57,10 +57,10 @@ Now go back to the Discord server and you will see your new awesome roles.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Step 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Step 6</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>You made it!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>You made it!</p></figcaption></figure>
