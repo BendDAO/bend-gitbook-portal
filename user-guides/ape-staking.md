@@ -23,7 +23,7 @@ If the sharing ratio for BAYC, BAKC, and ApeCoin are 40%, 30%, and 30% respectiv
 
 **Listing duration:** Listing duration is when you can list for pairing to a number of specified days or until you want to cancel.
 
-<img src="../.gitbook/assets/image (1) (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
 
 ### Cancel Listing
 

@@ -20,7 +20,7 @@ The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b
 
 ![BEND Token Allocation](<../.gitbook/assets/image (9).png>)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 | Group                                | Allocation | Vesting Start                         | Vesting Period                                                                               | Vesting Status |
 | ------------------------------------ | ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | -------------- |
