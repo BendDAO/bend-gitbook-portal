@@ -33,7 +33,7 @@ Click “Connect Wallet” and a new page will pop up.&#x20;
 
 #### Step 3:
 
-Click “Verify with a New Wallet”
+**Click **<mark style="background-color:orange;">**“Verify with a New Wallet”**</mark>** (Don't click any existing wallet on the page at this stage.)**
 
 #### Step 4:
 
