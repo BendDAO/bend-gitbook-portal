@@ -29,7 +29,7 @@ Find the “Collabland-join” channel and click “ Let’s go”
 
 #### Step 2:
 
-Click “Connect Wallet” and open a new page will pop up.
+Click “Connect Wallet” and a new page will pop up.&#x20;
 
 #### Step 3:
 
