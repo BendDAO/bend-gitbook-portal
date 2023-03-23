@@ -9,7 +9,7 @@ An NFT auction will be initiated when the health factor is below 1. More specifi
 * An open-outcry ascending dynamic auction system
 * The system opens the auction with a starting price. The starting price will be 1) bigger than the total accumulated debt.
 * If the borrowers repay the loan in 24 hours, he/she will pay a fine to the first bidder.
-* The fine will take the larger of 5% debt or 0.2 ETH. Fine = maximum (5% of the debt, 0.2 ETH)
+* The fine will take the larger of 5% debt or 0.2 ETH. Fine = maximum (5% of the debt, 0.2 ETH) ([Details of BIP#6](https://snapshot.org/#/benddao.eth/proposal/0xd4de1be40025af745c4f1179b3b7b46c809b67ad212dca0aa5ca9eadbb771f97))
 
 ### Bidder
 
