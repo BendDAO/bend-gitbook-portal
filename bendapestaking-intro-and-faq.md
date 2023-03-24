@@ -135,11 +135,11 @@ A: Both NFT stakers and ApeCoin staker can end the staking anytime they want, bu
 
 #### **Q: Is there any lock-up period for the pairing?**
 
-A: NO. All users can unstake anytime. We design the protocol with max freedom and safe first, permisionless is important and keep anyone using the protocol can quite anytime is the most important principle. By ethereum designed, the user who unstaked needs to pay the gas to make all the assets go back to the owners.
+A: NO. All users can unstake anytime. We design the protocol with max freedom and safe first, permisionless is important, and keeping anyone using the protocol can quit anytime is the most important principle. By Ethereum design, the user who unstaked needs to pay the gas to make all the assets go back to the owners.
 
 #### **Q: Will I miss the airdrop when I am staking?**
 
-A: BendDAO supports [flashclaim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT. We have help lots of apes and mutants holders to claim the sewer pass NFT.
+A: BendDAO supports [Flash Claim](https://docs.benddao.xyz/portal/faq/flash-claim-faq) for your NFT. It has helped lots of Apes and Mutants to claim the Sewer Pass NFT.
 
 #### **Q: How many co-stakers can join the pairing?**
 
@@ -148,6 +148,14 @@ A: One asset, one address.
 #### **Q: Can I join the pairing if there's already some $APE staked in the official staking contract?**
 
 A: NO. You need to clear (withdraw) all the staked $APE first before joining the pairing. If the NFT has been used as collateral, you need to repay the debt and get back the NFT into your wallet, otherwise, you can not withdraw the staked $APE.
+
+#### Q: Can I still borrow ETH when I'm staking on the official ApeCoin site?
+
+A: Yes, you can. But because your NFT will be in the BendDAO Lending contract, it can't be used as the key to claim or unstake.&#x20;
+
+For BAYC/MAYC pool, if you stake in the official ApeCoin site and borrow on BendDAO, you can use the "[Clear ApeCoin Staking](https://www.benddao.xyz/en/bend-tools/flashclaim-projects/)" feature to unstake. And then to stake solo on BendDAO.
+
+For BAKC pool, it is highly recommended to unstake first. Otherwise, your staked ApeCoin will be transferred to the BendDAO contract if you unstake when borrowing. If it happens, please open a ticket in [BendDAO Discord](https://discord.com/invite/BendDAO) to get support. ([Reference: BIP#19](https://snapshot.org/#/benddao.eth/proposal/0x0c47016cf7e08dd13a237e14e48842c2ab2a1f977b4760fa274be2738d344b1e))
 
 #### **Q: Can I use the SEND FUNDS market tool when my NFT participated in the staking?**
 
