@@ -4,11 +4,11 @@
 
 Down Payment = Total price - 60%/50%/30% of the Floor Price
 
-| Collection                                                          | LTV                     | Down Payment |
-| ------------------------------------------------------------------- | ----------------------- | ------------ |
-| <p>BAYC<br>CryptoPunks</p>                                          | 60% of the floor price  | 40% or more  |
-| MAYC                                                                | 50% of the floor price  | 50% or more  |
-| <p>Doodles &#x26; Space Doodles<br>CloneX<br>Azuki<br>Moonbirds</p> | 30% of the floor price  | 70% or more  |
+| Collection                                                 | LTV                     | Down Payment |
+| ---------------------------------------------------------- | ----------------------- | ------------ |
+| <p>BAYC<br>CryptoPunks</p>                                 | 60% of the floor price  | 40% or more  |
+| <p>MAYC<br>Azuki</p>                                       | 50% of the floor price  | 50% or more  |
+| <p>Doodles &#x26; Space Doodles<br>CloneX<br>Moonbirds</p> | 30% of the floor price  | 70% or more  |
 
 If the total price of the NFT is much higher than the collection floor price, the percentage of the down payment will increase.
 
