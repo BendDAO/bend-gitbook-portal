@@ -35,11 +35,12 @@ Collateral Ration is the ratio of maximum borrowable ETH amount to the NFT floor
 | ------------- | ----------------- |
 | CryptoPunks   | 60%               |
 | Bored Ape YC  | 60%               |
-| Mutant Ape YC | 40%               |
+| Mutant Ape YC | 50%               |
+| Azuki         | 50%               |
 | Others        | 30%               |
 
 [More details](../risk/nft-risk-parameters.md)
 
-[BIP#15](https://snapshot.org/#/benddao.eth/proposal/0x1bd2cb68f3577f97605b542a7094e0d350a427e516ff30503e8172cc89feb9e6)
+[BIP#15](https://snapshot.org/#/benddao.eth/proposal/0x1bd2cb68f3577f97605b542a7094e0d350a427e516ff30503e8172cc89feb9e6); [BIP#15-1](https://snapshot.org/#/benddao.eth/proposal/0x1ae80947cdd462cd2ea451a2b82a293007086826bf75685bf864e817b3c7fd3a)
 
 ##
