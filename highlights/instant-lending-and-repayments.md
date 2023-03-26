@@ -14,11 +14,13 @@ A trustless liquidity solution for NFT holders. Deposit your NFT as collateral f
 
 ## Which NFTs can be used as collaterals?
 
-**Bored Ape YC, CryptoPunks, Mutant Ape YC, Moonbirds, Azuki, Clone X,** and **Doodles** are supported as collateral now.
+**Bored Ape YC, CryptoPunks, Mutant Ape YC, Moonbirds, Azuki, Clone X,** **Doodles, and Otherdeeds with KODA** are supported as collateral now.
 
 MAYC, Azuki, CloneX and Doodles are selected by BEND stakers. Details of the Community Voting: [https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC](https://snapshot.org/#/benddao.eth/proposal/QmVgsdtx6PAqKLyAMSnvXAoLrEJc1s6VVKLtWtEdqb4zPC)
 
-Moonbirds [https://snapshot.org/#/benddao.eth/proposal/0xa2a8d7f123444ec8a1829cf2cbb16cdc55208c827270088961e2ff01d8736bd8](https://snapshot.org/#/benddao.eth/proposal/0xa2a8d7f123444ec8a1829cf2cbb16cdc55208c827270088961e2ff01d8736bd8)
+Moonbirds ([Reference: BIP#12](https://snapshot.org/#/benddao.eth/proposal/0xa2a8d7f123444ec8a1829cf2cbb16cdc55208c827270088961e2ff01d8736bd8))
+
+Otherdeeds with KODA ([Reference: BIP#20](https://snapshot.org/#/benddao.eth/proposal/0xcc2ef1acd927a78f6ca2bfc93b05eaf015ce3c2ce07707910d8a4e9416c4c521))
 
 ## NFT Price Discovery
 
