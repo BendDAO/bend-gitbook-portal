@@ -1,6 +1,6 @@
 # Bluechip NFT Eligibility Requirements
 
-Before BendDAO adds a new NFT as collateral, the NFT collection must pass the community voting and meet the following eligibility requirements.&#x20;
+Before BendDAO adds a new NFT as collateral, the NFT collection must pass the community [voting process](https://docs.benddao.xyz/portal/governance/governance-mechanism) and meet the following eligibility requirements.&#x20;
 
 
 
@@ -13,7 +13,6 @@ The following are the suggested eligibility requirements.
 5. The number of owners is bigger than 1,000;
 6. The all-time Trading Volume on OpenSea is more than **50K ETH** (related collections Space Doodles);
 7. The collection has been deployed for more than **30 days**;
-8. Random NFT minting when reveal.
 
 **Amendments to existing requirements**
 
