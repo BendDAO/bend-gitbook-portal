@@ -9,7 +9,7 @@
 
 ### Phase 1: Idea or Draft
 
-Anyone can participate in Forum or Discord, and vote on improvements.
+Anyone can participate in Discord #idea channel, and vote on improvements.
 
 [https://discord.gg/BendDAO](https://discord.gg/BendDAO)
 
@@ -34,9 +34,7 @@ Not Pass: It is closed because of insufficient community support.
 
 ### Phases 2: BIP
 
-The BendDAO Improvement Proposal (BIP) is the second step in the BendDAO governance process where a BIP can be created after the BRC has passed.
-
-[https://governance.benddao.xyz/](https://governance.benddao.xyz/)
+The BendDAO Improvement Proposal (BIP) is the second step in the BendDAO governance process where a BIP can be created after the BRC has passed [in the forum](https://governance.benddao.xyz/).
 
 BIP Key points
 
