@@ -8,6 +8,7 @@
 
 ## FAQ
 
+* [General FAQ](faq/general-faq.md)
 * [Security FAQ](faq/security-faq.md)
 * [Exchange FAQ](faq/marketplace-faq.md)
 * [Down Payment FAQ](faq/down-payment-faq.md)
