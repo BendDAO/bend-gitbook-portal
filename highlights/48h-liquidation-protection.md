@@ -22,9 +22,9 @@ For safety and fairness, borrowers must repay some loan debts (50% in default) a
 
 **Bidder**
 
-Under the Bend Auction mechanism, any bidder can obtain ownership of an NFT as long as the bid is higher than the floor price. This way, all NFTs will be given a price discovery mechanism, making transactions transparent.
+Under the BendDAO Auction mechanism, the winning bidder can obtain ownership of an NFT as long as the new bid price is higher than the previous one. This way, all NFTs will be given a price discovery mechanism, making transactions transparent.
 
-Bend’s Protocol is dependent on the 'health' of loans within the system, also known as the 'health factor' which is related to debt, floor pricings, and liquidation thresholds.
+Bend’s Protocol is dependent on the 'health' of loans within the system, also known as the 'health factor' which is related to debt, floor prices, and liquidation thresholds.
 
 In order to avoid losses caused by the market fluctuations, an NFT auction will be activated when the health factor is below 1. Anyone can partake in auctions but for NFT holders’ safety, there will be a 24-hour auction window where they'll be able to repay loans. Once the auction begins, bidders will be able to bid as long as the bid is higher than the previous price placed.
 
