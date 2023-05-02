@@ -42,16 +42,24 @@ The work of each season is gathered and presented in its dedicated section, repr
 
 ## 2023 Q1
 
-* ApeCoin Staking Improvements Propososals🛠️
-* Support Moonbirds with Nesting Proposals🛠️
-* Wrapper Koda for Otherdeed LAND Proposals🛠️
+* ApeCoin Auto-Compound Pool Propososals✅
+* Wrapper Koda for Otherdeed LAND Proposals✅
 
 ## 2023 Q2
 
-* P2P NFT Lending Proposals🛠️
-* New NFT Auction Proposals🛠️
-* Private Lending Pool Proposals🛠️
+* Listing New Koda Proposals✅
+* ApeStaking V2 Proposals🛠️
+* Listing Stable Coins Proposals🛠️
 
 ## 2023 Q3
 
+* Listing New Bluechip Proposals🛠️
+* New Marketplace Proposals🛠️
+* P2P NFT Lending Proposals🛠️
+
+## 2023 Q4
+
+* Lending V2 Proposals🛠️
+* New NFT Auction Proposals🛠️
+* Private Lending Pool Proposals🛠️
 * On-Chain Governance Proposals🛠️
