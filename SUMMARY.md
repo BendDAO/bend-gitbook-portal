@@ -18,7 +18,7 @@
 * [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
 * [Otherdeeds with KODA FAQ](faq/otherdeeds-with-koda-faq.md)
-* [P2P Ape Staking (V1) Intro & FAQ](faq/bendapestaking-intro-and-faq.md)
+* [P2P Ape Staking (V1) Intro & FAQ](bendapestaking-intro-and-faq.md)
 
 ## Highlights
 

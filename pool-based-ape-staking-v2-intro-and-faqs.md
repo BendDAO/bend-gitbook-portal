@@ -2,7 +2,7 @@
 
 ## What is Bend Pool-based Ape Staking (V2)?
 
-Bend Pool-based Ape Staking (V2) is a pure staking protocol with NO liquidation risk or bank run risk. It is designed to maximize users' rewards with minimal GAS costs. With V2, holders of BAYC, MAYC, BAKC, and ApeCoin can stake their assets and instantly begin earning auto-compounding yield.
+Bend Pool-based Ape Staking (V2) is a **pure staking** protocol with NO liquidation risk or bank run risk. It is designed to maximize users' rewards with minimal GAS costs. With V2, holders of BAYC, MAYC, BAKC, and ApeCoin can stake their assets and instantly begin earning auto-compounding yield.
 
 ### Why Pool-based Ape Staking (V2)?
 
@@ -30,7 +30,19 @@ The community is proposing $**BEND Incentives** for even Higher APY for users. D
 
 ## FAQ
 
-### Security of Staking v2
+[Security of Staking V2](pool-based-ape-staking-v2-intro-and-faqs.md#security-of-staking-v2)
+
+[Auto-pairing Service Fee](pool-based-ape-staking-v2-intro-and-faqs.md#auto-pairing-service-fee)
+
+[Auto-compounding](pool-based-ape-staking-v2-intro-and-faqs.md#auto-compounding)
+
+[Staking, Withdraw, and Claim](pool-based-ape-staking-v2-intro-and-faqs.md#staking-withdraw-and-claim)
+
+[Share Ratio](pool-based-ape-staking-v2-intro-and-faqs.md#share-ratio)
+
+[StakedNFT (stNFT)](pool-based-ape-staking-v2-intro-and-faqs.md#stakednft)
+
+### Security of Staking V2
 
 **Q: What makes BendDAO's Pool-based Ape Staking safe?**
 
@@ -97,7 +109,7 @@ A: Yes, Pool-base Ape Staking offers complete asset flexibility, allowing users 
 
 A: NO. V2 is a pure staking solution. It’s a Pool2Pool-based auto-paring and staking protocol,
 
-#### Share Ratio
+### Share Ratio
 
 **Q: What’s the share ratio?**
 
