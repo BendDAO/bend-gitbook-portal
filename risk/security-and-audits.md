@@ -6,14 +6,15 @@ BendDAO protocol has been implemented with security as the top priority. The sys
 
 Below are the links to all audit reports for BendDAO.
 
-| Auditor           | Scope                                            | Date       | Report                                                                                                                         |
-| ----------------- | ------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Verilog Solutions | NFT Wrapper for Koda & Moonbirds                 | 2023-02-27 | [https://www.verilog.solutions/audits/benddao\_nft\_wrapper/](https://www.verilog.solutions/audits/benddao\_nft\_wrapper/)     |
-| Verilog Solutions | Auto-Compound ApeCoin; Delegate Cash Integraton; | 2023-02-15 | [https://www.verilog.solutions/audits/benddao\_apecoin\_vault/](https://www.verilog.solutions/audits/benddao\_apecoin\_vault/) |
-| Verilog Solutions | Ape Staking                                      | 2022-12-05 | [https://www.verilog.solutions/audits/bend\_apecoin\_staking/](https://www.verilog.solutions/audits/bend\_apecoin\_staking/)   |
-| Verilog Solutions | Exchange Protocol                                | 2022-08-03 | [https://www.verilog.solutions/audits/benddao\_liquidity/](https://www.verilog.solutions/audits/benddao\_liquidity/)           |
-| Verilog Solutions | Lending Protocol                                 | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/)                                 |
-| Certik            | Lending Protocol                                 | 2022-03-14 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao)                                           |
+| Auditor           | Scope                                            | Date       | Report                                                                                                                             |
+| ----------------- | ------------------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Verilog Solutions | Ape Staking V2                                   | 2023-05-25 | [https://www.verilog.solutions/audits/benddao\_ape\_staking\_v2/](https://www.verilog.solutions/audits/benddao\_ape\_staking\_v2/) |
+| Verilog Solutions | NFT Wrapper for Koda & Moonbirds                 | 2023-02-27 | [https://www.verilog.solutions/audits/benddao\_nft\_wrapper/](https://www.verilog.solutions/audits/benddao\_nft\_wrapper/)         |
+| Verilog Solutions | Auto-Compound ApeCoin; Delegate Cash Integraton; | 2023-02-15 | [https://www.verilog.solutions/audits/benddao\_apecoin\_vault/](https://www.verilog.solutions/audits/benddao\_apecoin\_vault/)     |
+| Verilog Solutions | Ape Staking V1                                   | 2022-12-05 | [https://www.verilog.solutions/audits/bend\_apecoin\_staking/](https://www.verilog.solutions/audits/bend\_apecoin\_staking/)       |
+| Verilog Solutions | Exchange Protocol                                | 2022-08-03 | [https://www.verilog.solutions/audits/benddao\_liquidity/](https://www.verilog.solutions/audits/benddao\_liquidity/)               |
+| Verilog Solutions | Lending Protocol                                 | 2022-05-26 | [https://www.verilog.solutions/audits/benddao/](https://www.verilog.solutions/audits/benddao/)                                     |
+| Certik            | Lending Protocol                                 | 2022-03-14 | [https://www.certik.com/projects/bend-dao](https://www.certik.com/projects/bend-dao)                                               |
 
 {% hint style="info" %}
 Regarding the Unresolved Major issues in the Certik report:
@@ -50,11 +51,11 @@ BenDAO will transfer the Multi-signature wallet to the community after the Multi
 
 ## Proxy Admin
 
-| Name          | Owner Type      | Address                                    |
-| ------------- | --------------- | ------------------------------------------ |
-| BoundNFT      | 7 Days Timelock | 0xe635D0fb1608aA54C3ca99c497E887d2e1E3E690 |
-| Lending Pool  | 7 Days Timelock | 0x501c991E0D31D408c25bCf00da27BdF2759A394a |
-| Treasury Fund | 7 Days Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
-| Incentive     | 7 Days Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
-| Team Lockup   | 7 Days Timelock | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
-| Ape Staking   | 7 Days Timelock | 0xdBE0985E7570041e1BDfB6DeD30E159CFb3718CF |
+| Name           | Owner Type      | Address                                    |
+| -------------- | --------------- | ------------------------------------------ |
+| BoundNFT       | 7 Days Timelock | 0xe635D0fb1608aA54C3ca99c497E887d2e1E3E690 |
+| Lending Pool   | 7 Days Timelock | 0x501c991E0D31D408c25bCf00da27BdF2759A394a |
+| Treasury Fund  | 7 Days Timelock | 0x2A71a0F5cef1fFc519027AD12f19453110e70666 |
+| Incentive      | 7 Days Timelock | 0x859f6e05410893fe64BC84d92BdA773fF798cf66 |
+| Team Lockup    | 7 Days Timelock | 0x49b1fE3db39D8ee873b4B45602A5127E99d4cfF6 |
+| Ape Staking V1 | 7 Days Timelock | 0xdBE0985E7570041e1BDfB6DeD30E159CFb3718CF |
