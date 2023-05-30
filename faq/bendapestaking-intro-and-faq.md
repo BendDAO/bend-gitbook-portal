@@ -1,10 +1,10 @@
-# Ape Staking Intro & FAQ
+# P2P Ape Staking (V1) Intro & FAQ
 
 ## Ape Staking
 
 BendDAO Ape Staking's goal is to empower anyone holding Yuga assets to join the ApeCoin Staking and maximize the yield. Initially, it is designed to facilitate borrowers' eligibility for the staking when their Apes are used as collateral on BendDAO. Inspired by the community, now the BendApeStaking is open to all users holding Yuga assets.
 
-<figure><img src=".gitbook/assets/BendApeStaking Arch 1201.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/BendApeStaking Arch 1201.png" alt=""><figcaption></figcaption></figure>
 
 ## How it works
 
@@ -47,11 +47,11 @@ When the NFT is sold, the matching contract can perform an uncommit operation in
 
 #### **Q: How do you ensure BendApeStaking's security?**
 
-A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a 7 days timelock and multi-signature wallet, and we plan to remove the owner through community voting, maybe 3 months after the mainnet goes live.
+A: First, all BendApeStaking's smart contracts have been fully tested and the coverage is beyond 90%. Second, all smart contracts have been audited by Verilog Solution, you can find the reports [here](../risk/security-and-audits.md). Third, the proxy admin owner of the BendApeStaking contracts has been configured with a 7 days timelock and multi-signature wallet, and we plan to remove the owner through community voting, maybe 3 months after the mainnet goes live.
 
 #### **Q: Is my NFTs safe in BendApeStaking?**
 
-A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 7 days timelock. For the timelock and multi-signature, you can read the detail [here](faq/security-faq.md).
+A: Yes, Your NFTs are locked in the boundNFT protocol which has been configured with a 7 days timelock as the owner. The proxy admin owner of the BendApeStaking smart contract also has been configured with a 7 days timelock. For the timelock and multi-signature, you can read the detail [here](security-faq.md).
 
 #### **Q: Is My ApeCoin safe in BendApeStaking?**
 
@@ -87,7 +87,7 @@ A: Yes. BendDAO is a DAO owned by the community. Anyone can propose a related pr
 
 A: Users who hold any of the following assets can join ApeCoin Staking with pairing.
 
-1\) [boundBAYC](lending-protocol/boundnft.md); 2) [boundMAY](lending-protocol/boundnft.md); 3) BAYC; 4) MAYC; 5) BAKC; 6) ApeCoin
+1\) [boundBAYC](../lending-protocol/boundnft.md); 2) [boundMAY](../lending-protocol/boundnft.md); 3) BAYC; 4) MAYC; 5) BAKC; 6) ApeCoin
 
 #### **Q: Do I need to take out a loan against my BAYC to use this BendApeStaking? I really just want to stake for ApeCoin not risk a loan.**
 

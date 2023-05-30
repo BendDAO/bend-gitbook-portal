@@ -46,7 +46,7 @@ More details of [Liquidation Protection](../highlights/48h-liquidation-protectio
 
 ## **What will happen if liquidation occurs?**
 
-When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) **** and the 24h liquidation protection**.**&#x20;
+When the 'health factor' of an NFT loan is below 1, a bidder can trigger a liquidation in terms of an [**NFT Auction**](../lending-protocol/auction.md) and the 24h liquidation protection**.**&#x20;
 
 The borrower (user with the collateralized NFT) will be able to repay the loan within the 24-hour window.
 

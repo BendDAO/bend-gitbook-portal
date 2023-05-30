@@ -4,7 +4,7 @@
 * [Discord](https://discord.gg/benddao)
 * [Roadmap](roadmap.md)
 * [Chinese version 中文](chinese-version-zhong-wen.md)
-* [Ape Staking Intro & FAQ](bendapestaking-intro-and-faq.md)
+* [Pool-based Ape Staking (V2) Intro & FAQs](pool-based-ape-staking-v2-intro-and-faqs.md)
 
 ## FAQ
 
@@ -18,6 +18,7 @@
 * [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
 * [Otherdeeds with KODA FAQ](faq/otherdeeds-with-koda-faq.md)
+* [P2P Ape Staking (V1) Intro & FAQ](faq/bendapestaking-intro-and-faq.md)
 
 ## Highlights
 

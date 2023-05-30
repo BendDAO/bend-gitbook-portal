@@ -35,6 +35,8 @@ Click “Connect Wallet” and a new page will pop up.&#x20;
 
 **Click **<mark style="background-color:orange;">**“Verify with a New Wallet”**</mark>** (Don't click any existing wallet on the page at this stage.)**
 
+![](broken-reference)
+
 #### Step 4:
 
 Choose “Delegate Cash”
