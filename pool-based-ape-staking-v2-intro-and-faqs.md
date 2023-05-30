@@ -20,13 +20,12 @@ The community is proposing $**BEND Incentives** for even Higher APY for users. D
 
 ### **BendApeStaking V2 vs. V1**
 
-|                                 | V2                                                                                       | V1                                                                                                     |
-| ------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Model                           | Pool2Pool                                                                                | Peer2Peer                                                                                              |
-| Time of yield earning           | Instantly                                                                                | Waiting for co-stakers to pair                                                                         |
-| Flexibility                     | Anytime                                                                                  | Anytime                                                                                                |
-| Basic GAS cost                  | Much lower, less than 50% of V1 on average for the batch staking, claim, and withdrawal. | Because users need to interact with several contracts at once in V1, the GAS is higher compared to V2. |
-| Users’ Cost of Auto-compounding | 0 GAS                                                                                    | Need to claim rewards to the auto-compounding pool                                                     |
+| Bend Ape Staking                | V2        | V1                                                 |
+| ------------------------------- | --------- | -------------------------------------------------- |
+| Model                           | Pool2Pool | Peer2Peer                                          |
+| Time of yield earning           | Instantly | Waiting for co-stakers to pair                     |
+| Flexibility                     | Anytime   | Anytime                                            |
+| Users’ Cost of Auto-compounding | 0 GAS     | Need to claim rewards to the auto-compounding pool |
 
 ## FAQ
 
@@ -44,7 +43,7 @@ The community is proposing $**BEND Incentives** for even Higher APY for users. D
 
 ### Security of Staking V2
 
-**Q: What makes BendDAO's Pool-based Ape Staking safe?**
+#### **Q: What makes BendDAO's Pool-based Ape Staking safe?**
 
 A: BendDAO's Pool-based Ape Staking implements several safety measures.
 
@@ -53,97 +52,101 @@ A: BendDAO's Pool-based Ape Staking implements several safety measures.
 * Third-party Audit All smart contracts are audited by Verilog Solution, Report:[https://www.verilog.solutions/audits/benddao\_ape\_staking\_v2/](https://www.verilog.solutions/audits/benddao\_ape\_staking\_v2/).
 * Testcase Coverage Whole code coverage is beyond 90%, all the core logic is covered by test cases, Repo:[https://github.com/BendDAO/bend-apestaking-v2](https://github.com/BendDAO/bend-apestaking-v2).
 
-**Q: Is there a scenario for a flash loan attack?**
+#### **Q: Is there a scenario for a flash loan attack?**
 
 A: NO. V2 is a pure staking solution. With NO liquidation or bank run risks, it assures investments are safeguarded.
 
 ### Auto-pairing Service Fee
 
-**Q: How does BendApeStaking V2 charge the pairing service fee?**
+#### **Q: How does BendApeStaking V2 charge the pairing service fee?**
 
 A: The pairing service fee is charged at the time of staking rewards claim, and calculated based on time since the previous claim. All the service fees are used to cover the expenditure of staking v2, eg. Security Audit, Auto Compounding Gas Cost.
 
-**Q: Any chance to change the pairing service fee?**
+#### **Q: Any chance to change the pairing service fee?**
 
 A: Yes. The current charge is 4%. BendDAO is a DAO owned by the community. Anyone can propose a related proposal to adjust the setting.
 
-**Q: If I deposit both ApeCoin and NFT, any Service Fee?**
+#### **Q: If I deposit both ApeCoin and NFT, any Service Fee?**
 
 A: For users who have both NFT and enough ApeCoin, they can use solo staking which does not charge any service fee, but without the zero gas auto compounding feature.
 
 ### Auto-compounding
 
-**Q: What is auto-compounding?** A: Auto-compounding is a feature that automatically reinvests earned ApeCoin into the official ApeCoin pool, which leads to compounding returns.
+#### **Q: What is auto-compounding?**&#x20;
 
-**Q: Do I need to pay GAS for the auto-compounding?**
+A: Auto-compounding is a feature that automatically reinvests earned ApeCoin into the official ApeCoin pool, which leads to compounding returns.
+
+#### **Q: Do I need to pay GAS for the auto-compounding?**
 
 A: It’s zero Gas for users. All cost is covered by the DAO.
 
-**Q: What’s the frequency of the auto-compounding?**
+#### **Q: What’s the frequency of the auto-compounding?**
 
 A: It depends on the amount of the pending rewards of each NFT. The general principle is that the charged service fee from the pending rewards can cover the auto compound gas cost.
 
 ### Staking, Withdraw, and Claim
 
-**Q: Can I withdraw my staked assets at any time?**
+#### **Q: Can I withdraw my staked assets at any time?**
 
 A: Yes, it offers complete asset flexibility, allowing users to withdraw their stakes at any point during the staking period.
 
-**Q: If I stake my rare NFT to the pool, will I receive the same NFT when I withdraw?**
+#### **Q: If I stake my rare NFT to the pool, will I receive the same NFT when I withdraw?**
 
-A: YES! Only the original deposit address can withdraw the NFT.
+A: YES! The user will receive the stNFT when depositing. Each stNFT represents the value of the initially deposited NFT and is issued 1:1 with the original NFT. When the original NFT is withdrawn, the corresponding stNFT is burned. [More details of stNFT](pool-based-ape-staking-v2-intro-and-faqs.md#stakednft)
 
-**Q: What is the main difference between V1 and V2?**
+#### **Q: What is the main difference between V1 and V2?**
 
 A: Please refer to the docs.
 
-**Q: How does auto-compounding work?**
+#### **Q: How does auto-compounding work?**
 
 A: Auto-compounding in V2 works by automatically reinvesting the staking rewards generated from the staking. These rewards are directly deposited into the official ApeCoin pool without any additional GAS transactions, maximizing user profits.
 
-**Q: Can I withdraw my staked assets at any time?**
+#### **Q: Can I withdraw my staked assets at any time?**
 
 A: Yes, Pool-base Ape Staking offers complete asset flexibility, allowing users to withdraw their stakes at any point during the staking period.
 
-**Q: Any liquidation risk on V2?**
+#### **Q: Any liquidation risk on V2?**
 
 A: NO. V2 is a pure staking solution. It’s a Pool2Pool-based auto-paring and staking protocol,
 
 ### Share Ratio
 
-**Q: What’s the share ratio?**
+#### **Q: What’s the share ratio?**
 
 A: The share ratio will be adjusted periodically according to market rates, ensuring all parties achieve the optimal APY in the market.
 
-**Q: What’s the frequency of the ratio adjustment?**
+#### **Q: What’s the frequency of the ratio adjustment?**
 
 A: This mainly depends on the supply and demand of both ApeCoin and NFT on the staking pool, maybe every two weeks or a month.
 
 ### StakedNFT
 
-**Q: What is stNFT?** stNFT stands for Staked Non-Fungible Token. It represents an NFT that has been staked in BendDAO's Pool-based Ape Staking (V2). Each stNFT represents the value of the initially deposited NFT and is issued 1:1 with the original NFT. When the original NFT is withdrawn, the corresponding stNFT is burned.
+#### **Q: What is stNFT?**&#x20;
 
-**Q: Why we need stNFT?**
+A: stNFT stands for Staked Non-Fungible Token. It represents an NFT that has been staked in BendDAO's Pool-based Ape Staking (V2). Each stNFT represents the value of the initially deposited NFT and is issued 1:1 with the original NFT. When the original NFT is withdrawn, the corresponding stNFT is burned.
+
+#### **Q: Why do we need stNFT?**
 
 A: The new pool-based Ape Staking is designed to maximize users' rewards with minimal GAS costs. To achieve this goal, a design like stNFT is necessary for the architecture. As soon as assets are staked in the protocol, users start enjoying auto-compounding staking rewards. In addition, users can also achieve more utilities based on stNFT, such as lending, and trading.
 
-**Q: Can I trade my stNFTs?**
+#### **Q: Can I trade my stNFTs?**
 
 A: Yes, stNFTs are approvable and transferable, they can be tradable on the NFT marketplace.
 
-**Q: What happens to the stNFT when I unstake my NFT?**&#x20;
+#### **Q: What happens to the stNFT when I unstake my NFT?**&#x20;
 
 A: When you unstake your NFT, the corresponding stNFT is instantly burned. This means it will be removed from the blockchain and no longer exist.
 
-**Q: How is the value of stNFTs determined?**&#x20;
+#### **Q: How is the value of stNFTs determined?**&#x20;
 
 A: The value of stNFTs is consistent with the value of the original NFTs that are staked. Therefore, the value can fluctuate based on the market value of the original NFTs.
 
-**Q: Why can't two NFTs with the same ID circulate at the same time?**&#x20;
+#### **Q: Why can't two NFTs with the same ID circulate at the same time?**&#x20;
 
 A: This is to avoid potential misuse of the system. Each stNFT is tied to a specific staked NFT, ensuring the system maintains the integrity of the 1:1 ratio between staked NFTs and stNFTs.
 
-**Q: What are the parameters for stNFTs?**&#x20;
+#### **Q: What are the parameters for stNFTs?**&#x20;
 
 A: stNFT parameters are set in accordance with their corresponding NFTs. For example, stBAYC follows the parameters of BAYC, and stMAYC follows the parameters of MAYC.
 
