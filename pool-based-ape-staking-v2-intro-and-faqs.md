@@ -2,7 +2,7 @@
 
 ## What is Bend Pool-based Ape Staking (V2)?
 
-Bend Pool-based Ape Staking (V2) is a **pure staking** protocol with NO liquidation risk or bank run risk. It is designed to maximize users' rewards with minimal GAS costs. With V2, holders of BAYC, MAYC, BAKC, and ApeCoin can stake their assets and instantly begin earning auto-compounding yield.
+Bend Pool-based Ape Staking (V2) is a **pure staking** protocol with NO liquidation risk or bank run risk. It is designed to maximize users' rewards with minimal GAS costs. With V2, holders of BAYC, MAYC, BAKC, and ApeCoin can stake their assets and instantly begin earning and auto-compounding yield.
 
 ### Why Pool-based Ape Staking (V2)?
 
