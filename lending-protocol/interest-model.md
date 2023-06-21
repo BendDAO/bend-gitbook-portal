@@ -9,6 +9,22 @@ $$U$$ is an indicator of the availability of capital in the pool. The interest r
 * When capital is available: lower interest rates to encourage loans.
 * When capital is scarce: higher interest rates encourage repayments for the loans and additional deposits.
 
+{% hint style="info" %}
+The utilization rate is calculated by liquidity in the pool, not just the principal.
+
+
+
+Total Liquidity in the pool includes:
+
+Total Debt: All the debt **principal** and debt **interest** should be paid by the borrower.
+
+Available Liquidity: Free **principal** which can be borrowed.
+
+
+
+Utilization Rate = (Total Debt) / (Total Debt + Available Liquidity).
+{% endhint %}
+
 You can read the technical details about the interest rate model [here](../risk/interest-rate-model.md).
 
 ## Interest Rate Curves
