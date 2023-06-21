@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bend is an NFT liquidity and lending protocol that enables borrowing ETH from the liquidity pools. Depositors receive bendETH, in exchange of cryptocurrency deposits.
+BendDAO is an NFT liquidity and lending protocol that enables borrowing ETH from the liquidity pools. Depositors receive bendETH, in exchange of cryptocurrency deposits.
 
 The liquidity of the protocol is the availability of the capital to face business operations: borrowing amounts and redeeming bendETH. It is a key metric, as lack of liquidity will block business operations.
 
@@ -14,7 +14,7 @@ The historical utilisation and bToken valuation help us assess the level of liqu
 
 ## Interest Rate Model
 
-Bend’s interest rate model is calibrated to manage liquidity risk and optimize utilization. The borrow interest rates come from the Utilization Rate U.U is an indicator of the availability of capital in the pool. The interest rate model is used to manage liquidity risk through user incentivizes to support liquidity:
+BendDAO’s interest rate model is calibrated to manage liquidity risk and optimize utilization. The borrow interest rates come from the Utilization Rate U.U is an indicator of the availability of capital in the pool. The interest rate model is used to manage liquidity risk through user incentivizes to support liquidity:
 
 * When capital is available: low interest rates to encourage loans.
 * When capital is scarce: high interest rates to encourage repayments for the loans and additional deposits.
@@ -30,6 +30,22 @@ $$if U < U_{optimal}: R_t = R_o + U_t / U_{optimal} * R_{slope1}$$
 $$if U \ge U_{optimal}: R_t = R_o + R_{slope1} + (U_t - U_{optimal}) / (1 - U_{optimal}) * R_{slope2}$$
 
 In the borrow rate technical implementation, the calculateCompoundedInterest method relies on an approximation that mostly affects high interest rates.
+
+{% hint style="info" %}
+The utilization rate is calculated by liquidity in the pool, not just the principal.
+
+
+
+Total Liquidity in the pool includes:
+
+Total Debt: All the debt principal and debt interest should be paid by the borrower.
+
+Available Liquidity: Free principal which can be borrowed.
+
+
+
+Utilization Rate = (Total Debt) / (Total Debt + Available Liquidity).
+{% endhint %}
 
 ## Interest Rate Parameters
 
