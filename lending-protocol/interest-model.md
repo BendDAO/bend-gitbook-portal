@@ -13,6 +13,12 @@ You can read the technical details about the interest rate model [here](../risk/
 
 ## Interest Rate Curves
 
+### 2022-09-19 F9or Ethereum Merge
+
+| UtilizationRate | BaseRate | Slope1 | Slope2 |
+| --------------- | -------- | ------ | ------ |
+| 65%             | 20%      | 16%    | 200%   |
+
 ### 2022-09-07 For Ethereum Merge
 
 | UtilizationRate | BaseRate | Slope1 | Slope2 |
