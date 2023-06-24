@@ -49,36 +49,28 @@ Click “Connect Wallet” and a new page will pop up.&#x20;
 
 #### Step 3:
 
-**Click **<mark style="background-color:orange;">**“Verify with a New Wallet”**</mark>** (Don't click any existing wallet on the page at this stage.)**
-
-<img src="broken-reference" alt="" data-size="original">
+Choose “Delegate Cash”
 
 #### Step 4:
 
-Choose “Delegate Cash”
+Choose “Metamask” or “WalletConnect” **(Please make sure that you connect the wallet that has been delegated on BendDAO or EtherScan.io)**
 
 #### Step 5:
 
-Choose “Metamask” or “WalletConnect” **(Please make sure that you connect the wallet that has been delegated on BendDAO)**
+Click “Sign Message”
 
 #### Step 6:
 
-Click “Sign Message”
-
-#### Step 7:
-
 Choose the wallet address you want to verify with.
 
-#### Step 8:
+#### Step 7:
 
 Now go back to the Discord server and you will see your new awesome roles.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Step 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Step 6</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>You made it!</p></figcaption></figure>
