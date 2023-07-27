@@ -22,9 +22,9 @@ All $APE will be swapped to USDT or USDC on a weekly basis. More details: [BIP#1
 
 ## Buy & Burn BEND
 
-| Date       | Details | BIP    | Amount            |
-| ---------- | ------- | ------ | ----------------- |
-| 2023.07.19 | NA      | BIP#34 | 1,793,780.7743711 |
+| Date       | Details                                                                | BIP    | Amount            |
+| ---------- | ---------------------------------------------------------------------- | ------ | ----------------- |
+| 2023.07.19 | TX: 0x2d959a05201916bf8328f30025cae1cc923cc7ab06dbecb18984855646dbc0e7 | BIP#34 | 1,793,780.7743711 |
 
 ## Transactions
 
