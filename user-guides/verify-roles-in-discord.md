@@ -1,23 +1,9 @@
 # Verify roles in Discord
 
-This is a guide for how to get the verified role in the bluchip official Discord if it uses Collab.Land as the verification tool.&#x20;
+This is a guide for how to get the verified role in the bluechip official Discord if it uses Collab.Land as the verification tool.&#x20;
 
-1. Finish the delegation through BendDAO or EtherScan.io
+1. Finish the delegation through BendDAO
 2. Verify the role in the official Discord
-
-
-
-For Staking V2 users, you need to finish the delegation through EtherScan.io first.
-
-BAYC: [https://etherscan.io/address/0x08f5F0126aF89B4fD5499E942891D904A027624B#writeProxyContract#F11](https://etherscan.io/address/0x08f5F0126aF89B4fD5499E942891D904A027624B#writeProxyContract#F11)&#x20;
-
-MAYC: [https://etherscan.io/address/0xc1ED28E4b4d8e284A41E7474CA5522b010f3A64F#writeProxyContract#F11](https://etherscan.io/address/0xc1ED28E4b4d8e284A41E7474CA5522b010f3A64F#writeProxyContract#F11)&#x20;
-
-BAKC: [https://etherscan.io/address/0xf6d3B8098967dd349d0477F01C16E8864a832ac2#writeProxyContract#F11](https://etherscan.io/address/0xf6d3B8098967dd349d0477F01C16E8864a832ac2#writeProxyContract#F11)
-
-<img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
-
-### [After Delegation](verify-roles-in-discord.md#after-delegation)
 
 
 
