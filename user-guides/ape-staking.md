@@ -1,10 +1,26 @@
 # Ape Staking
 
+{% hint style="info" %}
+Ape Staking V2 has been launched, please use the Pool-based Ape Staking feature.
+{% endhint %}
+
+## Pool Staking
+
+### NFT Holders
+
+BAYC/MAYC/BAKC holders go to Pool Staking -> My Stakings page, select the token ids and click deposit.
+
+### ApeCoin Holders
+
+ApeCoin holders go to Pool Staking -> My Stakings page, input the coin amount and click deposit.
+
+## Collateral Staking (Ape Staking V1)
+
 {% embed url="https://youtu.be/wxN3nmSzEx0" %}
 
-## BAYC/MAYC holder
+### BAYC/MAYC holder
 
-### List for Pairing
+#### List for Pairing
 
 1. [BendDAO.xyz](https://www.benddao.xyz/) > ApeStaking > My Apes
 2. Pick staking pools; Users can List pairing for both the BAYC/MAYC pool and the BAKC pool.
@@ -29,9 +45,9 @@ If the sharing ratio for BAYC, BAKC, and ApeCoin are 40%, 30%, and 30% respectiv
 
 Ape Staking > My Pairing Listings > Cancel Listing
 
-## ApeCoin/BAKC Holder
+### ApeCoin/BAKC Holder
 
-### Accept & Co-stake
+#### Accept & Co-stake
 
 1. Choose a listed pairing
 2. Input the staking amount
