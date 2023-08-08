@@ -10,4 +10,4 @@ Users can import the bendToken token into wallets etc. MetaMask, use it as a nor
 
 All of the interests collected by the bendToken reserves are distributed to bendToken holders directly by continuously increasing their wallet balance.
 
-[bendETH contract adddress](0xed1840223484483c0cb050e6fc344d1ebf0778a9/) [bendUSDT contract adddress](0x9631c79bfd6123a5b53307b6cdfb35f97606f954/)
+You can find all the bendToken contract addresses [here](https://docs.benddao.xyz/developers/deployed-contracts/lending-protocol#bendtoken-contracts).
