@@ -48,7 +48,7 @@
 
 ## Lending Protocol
 
-* [bendETH](lending-protocol/bendeth.md)
+* [bendToken](lending-protocol/bendtoken.md)
 * [boundNFT](lending-protocol/boundnft.md)
 * [Interest Rate Model](lending-protocol/interest-model.md)
 * [bendETH Valuation](lending-protocol/bendeth-valuation.md)
