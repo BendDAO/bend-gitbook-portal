@@ -6,6 +6,8 @@ When the borrower deposits an NFT in Bend DAO, a boundNFT will be minted as a De
 
 boundNFT has the same metadata and token ID as the original NFT you own which means that you can use boundNFT in your wallet for your social media PFP. No one can steal your boundNFT because it’s non-transferable and non-approvable.
 
+You can find all boundNFT contract addresses [here](https://docs.benddao.xyz/developers/deployed-contracts/boundnft-protocol#boundnft-contracts).
+
 ### Utilities of boundNFT
 
 * As debt NFTs when minted and burned on borrow and repay;
@@ -25,3 +27,4 @@ For example:
 
 * Looksrare Collection: [boundBAYC](https://looksrare.org/collections/0xDBfD76AF2157Dc15eE4e57F3f942bB45Ba84aF24), [boundPunks](https://looksrare.org/collections/0x6c415673C79b31aCA38669AD9fb5cdb7012C0e8e), [boundMAYC](https://looksrare.org/collections/0x69f37e419bD1457d2a25ed3f5d418169caAe8D1F)
 * Twitter NFT Profile Pictures: [How to use boundBAYC as profile picture](https://help.twitter.com/en/using-twitter/twitter-blue-labs#nft)
+
