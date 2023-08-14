@@ -26,20 +26,20 @@ Otherdeeds with KODA ([Reference: BIP#20](https://snapshot.org/#/benddao.eth/pro
 
 **NFT floor prices** are calculated using a complicated algorithm. The original price data comes from a well-known NFT marketplace which is OpenSea.
 
-* The Bend team currently maintains the NFT price oracle.
-* In the future, Bend governance mechanisms will manage the selection of sources.
+- The Bend team currently maintains the NFT price oracle.
+- In the future, Bend governance mechanisms will manage the selection of sources.
 
 ## What's the Collateral Ratio?
 
-Collateral Ration is the ratio of maximum borrowable ETH amount to the NFT floor price.
+Collateral Ratio is the ratio of maximum borrowable ETH amount to the NFT floor price.
 
-| Name          | Collateral Ration |
-| ------------- | ----------------- |
-| CryptoPunks   | 60%               |
-| Bored Ape YC  | 60%               |
-| Mutant Ape YC | 50%               |
-| Azuki         | 50%               |
-| Others        | 30%               |
+| Name          | Collateral Ratio |
+| ------------- | ---------------- |
+| CryptoPunks   | 60%              |
+| Bored Ape YC  | 60%              |
+| Mutant Ape YC | 50%              |
+| Azuki         | 50%              |
+| Others        | 30%              |
 
 [More details](../risk/nft-risk-parameters.md)
 
