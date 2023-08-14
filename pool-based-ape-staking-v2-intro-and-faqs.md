@@ -150,3 +150,7 @@ A: This is to avoid potential misuse of the system. Each stNFT is tied to a spec
 
 A: stNFT parameters are set in accordance with their corresponding NFTs. For example, stBAYC follows the parameters of BAYC, and stMAYC follows the parameters of MAYC.
 
+#### **Q: How to use delegate.cash to delegate ownership to hotwallet?**&#x20;
+
+A: goes to etherscan [stakedBAYC](https://etherscan.io/token/0x08f5f0126af89b4fd5499e942891d904a027624b#writeProxyContract), [stakedMAYC](https://etherscan.io/token/0xc1ed28e4b4d8e284a41e7474ca5522b010f3a64f#writeProxyContract), [stakedBAKC](https://etherscan.io/address/0xf6d3B8098967dd349d0477F01C16E8864a832ac2#writeProxyContract), 
+select `setDelegateCash` method, first parameter is your hotwallet address, second is your NFT tokenID, third is `true`.
