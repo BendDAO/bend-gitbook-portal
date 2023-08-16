@@ -72,7 +72,7 @@ A: For users who have both NFT and enough ApeCoin, they can use solo staking whi
 
 ### Auto-compounding
 
-#### **Q: What is auto-compounding?**&#x20;
+#### **Q: What is auto-compounding?**
 
 A: Auto-compounding is a feature that automatically reinvests earned ApeCoin into the official ApeCoin pool, which leads to compounding returns.
 
@@ -122,7 +122,7 @@ A: This mainly depends on the supply and demand of both ApeCoin and NFT on the s
 
 ### StakedNFT
 
-#### **Q: What is stNFT?**&#x20;
+#### **Q: What is stNFT?**
 
 A: stNFT stands for Staked Non-Fungible Token. It represents an NFT that has been staked in BendDAO's Pool-based Ape Staking (V2). Each stNFT represents the value of the initially deposited NFT and is issued 1:1 with the original NFT. When the original NFT is withdrawn, the corresponding stNFT is burned.
 
@@ -134,23 +134,26 @@ A: The new pool-based Ape Staking is designed to maximize users' rewards with mi
 
 A: Yes, stNFTs are approvable and transferable, they can be tradable on the NFT marketplace.
 
-#### **Q: What happens to the stNFT when I unstake my NFT?**&#x20;
+#### **Q: What happens to the stNFT when I unstake my NFT?**
 
 A: When you unstake your NFT, the corresponding stNFT is instantly burned. This means it will be removed from the blockchain and no longer exist.
 
-#### **Q: How is the value of stNFTs determined?**&#x20;
+#### **Q: How is the value of stNFTs determined?**
 
 A: The value of stNFTs is consistent with the value of the original NFTs that are staked. Therefore, the value can fluctuate based on the market value of the original NFTs.
 
-#### **Q: Why can't two NFTs with the same ID circulate at the same time?**&#x20;
+#### **Q: Why can't two NFTs with the same ID circulate at the same time?**
 
 A: This is to avoid potential misuse of the system. Each stNFT is tied to a specific staked NFT, ensuring the system maintains the integrity of the 1:1 ratio between staked NFTs and stNFTs.
 
-#### **Q: What are the parameters for stNFTs?**&#x20;
+#### **Q: What are the parameters for stNFTs?**
 
 A: stNFT parameters are set in accordance with their corresponding NFTs. For example, stBAYC follows the parameters of BAYC, and stMAYC follows the parameters of MAYC.
 
-#### **Q: How to use delegate.cash to delegate ownership to hotwallet?**&#x20;
+#### **Q: How to use delegate.cash to delegate ownership to hotwallet?**
 
-A: goes to etherscan [stakedBAYC](https://etherscan.io/token/0x08f5f0126af89b4fd5499e942891d904a027624b#writeProxyContract), [stakedMAYC](https://etherscan.io/token/0xc1ed28e4b4d8e284a41e7474ca5522b010f3a64f#writeProxyContract), [stakedBAKC](https://etherscan.io/address/0xf6d3B8098967dd349d0477F01C16E8864a832ac2#writeProxyContract), 
-select `setDelegateCash` method, first parameter is your hotwallet address, second is your NFT tokenID, third is `true`.
+A: Go to the etherscan [stakedBAYC](https://etherscan.io/token/0x08f5f0126af89b4fd5499e942891d904a027624b#writeProxyContract), [stakedMAYC](https://etherscan.io/token/0xc1ed28e4b4d8e284a41e7474ca5522b010f3a64f#writeProxyContract), [stakedBAKC](https://etherscan.io/address/0xf6d3B8098967dd349d0477F01C16E8864a832ac2#writeProxyContract), and then select `setDelegateCash` method.&#x20;
+
+* The first parameter is your hotwallet address
+* The second is your NFT tokenID
+* The third is `true`.
