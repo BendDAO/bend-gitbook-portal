@@ -40,7 +40,7 @@ Since there is no sophisticated NFT price feed solution in the market now, using
 
 ## **Why does the market liquidation crisis NOT happen in Bend?**
 
-24h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately. Meanwhile, the liquidator's bid must be equal to the floor price on OpenSea.
+24h Liquidation Protection and NFT Auction mean that the NFT will not be liquidated immediately.
 
 More details of [Liquidation Protection](../highlights/48h-liquidation-protection.md).
 
