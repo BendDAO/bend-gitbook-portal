@@ -48,18 +48,26 @@ The work of each season is gathered and presented in its dedicated section, repr
 ## 2023 Q2
 
 * Listing New Koda Proposals✅
-* ApeStaking V2 Proposals🛠️
-* Listing Stable Coins Proposals🛠️
+* ApeStaking V2 Proposals🛠️✅
+* Listing Stable Coins Proposals✅
 
 ## 2023 Q3
 
-* Listing New Bluechip Proposals🛠️
-* New Marketplace Proposals🛠️
-* P2P NFT Lending Proposals🛠️
+* V2 Product Conception✅
 
 ## 2023 Q4
 
-* Lending V2 Proposals🛠️
-* New NFT Auction Proposals🛠️
-* Private Lending Pool Proposals🛠️
-* On-Chain Governance Proposals🛠️
+* V2 Product Prototype🛠️
+
+## 2024 Q1
+
+* V2 Product Testnet Launch🛠️
+
+## 2024 Q2
+
+* V2 Product Mainnet Launch🛠
+* V2 Token Economics Proposals🛠
+
+## 2024 Q3
+
+* On-Chain Governance Proposals🛠
