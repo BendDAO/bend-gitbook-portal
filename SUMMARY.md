@@ -18,7 +18,7 @@
 * [Fair-launch FAQ](faq/initial-fair-launch-offering-ifo.md)
 * [Tokenomics FAQ](faq/tokenomics.md)
 * [Otherdeeds with KODA FAQ](faq/otherdeeds-with-koda-faq.md)
-* [P2P Ape Staking (V1) Intro & FAQ](bendapestaking-intro-and-faq.md)
+* [P2P Ape Staking (V1) Intro & FAQ](faq/bendapestaking-intro-and-faq.md)
 
 ## Highlights
 
@@ -58,9 +58,9 @@
 
 ## NFT Liquidity
 
-* [NFT Down Payment (Buyer)](marketplace/nft-down-payment-buyer.md)
+* [NFT Down Payment (Buyer)](nft-liquidity/nft-down-payment-buyer.md)
 * [Collateral Listing (Seller)](nft-liquidity/collateral-listing-seller.md)
-* [Royalties on secondary sales (Creator)](marketplace/royalties-on-secondary-sales-creator.md)
+* [Royalties on secondary sales (Creator)](nft-liquidity/royalties-on-secondary-sales-creator.md)
 
 ## Governance
 

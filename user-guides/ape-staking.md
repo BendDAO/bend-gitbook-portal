@@ -39,7 +39,7 @@ If the sharing ratio for BAYC, BAKC, and ApeCoin are 40%, 30%, and 30% respectiv
 
 **Listing duration:** Listing duration is when you can list for pairing to a number of specified days or until you want to cancel.
 
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
 
 ### Cancel Listing
 
@@ -53,5 +53,5 @@ Ape Staking > My Pairing Listings > Cancel Listing
 2. Input the staking amount
 3. Approve token and confirm staking
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (28).png>)
 

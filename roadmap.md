@@ -58,6 +58,9 @@ The work of each season is gathered and presented in its dedicated section, repr
 ## 2023 Q4
 
 * V2 Product Prototype🛠️
+  * V2 Pool Lending🛠️
+  * V2 P2P Lending🛠️
+  * V2 Pool Staking🛠️
 
 ## 2024 Q1
 

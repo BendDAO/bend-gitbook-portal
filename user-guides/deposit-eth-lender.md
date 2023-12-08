@@ -6,4 +6,4 @@
 2. Approve ETH&#x20;
 3. Enter the ETH amount and Deposit
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (25).png>)

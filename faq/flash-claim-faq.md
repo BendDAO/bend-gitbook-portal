@@ -42,7 +42,7 @@ A: Yes, you can. There are no programming requirements.&#x20;
 
 You need to click the "Deploy Airdrop Receiver Contract" for the first Flash Claim. It's needed only once.&#x20;
 
-![](<../.gitbook/assets/image (4) (2).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ### Q: What is boundNFT?&#x20;
 

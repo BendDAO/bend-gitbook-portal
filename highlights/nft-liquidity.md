@@ -10,7 +10,7 @@ With Collateral Listing, NFT holders/sellers can choose to take an instant NFT-b
 
 The user will become the borrower and the seller on BendDAO after the Collateral Listing.
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](../.gitbook/assets/image.png)
 
 ## From buyers' perspective
 
@@ -20,8 +20,8 @@ The buyer can pay **a minimum down payment of 40%**, depending on the actual pri
 
 The buyers will automatically become borrowers with the down payment. And borrowers can list their mortgaged NFT for sale as well.
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (34).png>)
 
-### [nft-down-payment-buyer.md](../marketplace/nft-down-payment-buyer.md "mention")
+### [nft-down-payment-buyer.md](../nft-liquidity/nft-down-payment-buyer.md "mention")
 
 ### [FAQ](../faq/down-payment-faq.md)

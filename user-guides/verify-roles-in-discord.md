@@ -19,7 +19,7 @@ Click “Delegate NFT”
 
 After the successful delegation, the status of your collateralized NFT will be “Delegated”.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ### After Delegation
 
@@ -53,10 +53,10 @@ Choose the wallet address you want to verify with.
 
 Now go back to the Discord server and you will see your new awesome roles.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Step 2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Step 2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Step 3</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Step 4</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>You made it!</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>You made it!</p></figcaption></figure>

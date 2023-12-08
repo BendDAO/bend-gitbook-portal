@@ -18,9 +18,9 @@ We would like to share our plans for the BEND governance token distribution. Ove
 
 The total initial supply of [BEND](https://etherscan.io/token/0x0d02755a5700414b26ff040e1de35d337df56218) is 10 billion (10,000,000,000). The token distribution breaks down as follows:
 
-![BEND Token Allocation](<../.gitbook/assets/image (9).png>)
+![BEND Token Allocation](<../.gitbook/assets/image (1).png>)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 | Group                                | Allocation | Vesting Start                         | Vesting Period                                                                               | Vesting Status |
 | ------------------------------------ | ---------- | ------------------------------------- | -------------------------------------------------------------------------------------------- | -------------- |
