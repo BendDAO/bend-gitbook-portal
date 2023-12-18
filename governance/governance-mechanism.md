@@ -69,11 +69,11 @@ Not Pass: The BIP is closed because of insufficient community support.
 
 The parameters or solutions defined in the BIP will be finally decided by Snapshot voting.
 
-| Category        | NFT Collateral             | Protocol Parameter         | Protocol Core Code Change  | DAO Treasury (Details)            |
-| --------------- | -------------------------- | -------------------------- | -------------------------- | --------------------------------- |
-| Voting Duration | 3 days                     | 3 days                     | 7 days                     | 7 days                            |
-| Vote Quorum     | 20% of veBEND total supply | 10% of veBEND total supply | 20% of veBEND total supply | 10% or 20% of veBEND total supply |
-| Pass Rate       | 80%                        | 80%                        | 80%                        | From 80%                          |
+| Category        | NFT Collateral             | Protocol Parameter         | Protocol Core Code Change  | DAO Treasury (Details)     |
+| --------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| Voting Duration | 3 days                     | 3 days                     | 7 days                     | 7 days                     |
+| Vote Quorum     | 10% of veBEND total supply | 10% of veBEND total supply | 10% of veBEND total supply | 10% of veBEND total supply |
+| Pass Rate       | 70%                        | 70%                        | 70%                        | From 70%                   |
 
 ### Phase 4. Implementation
 
@@ -84,4 +84,3 @@ For Accepted BIPs, implementation will begin based on the steps outlined in the 
 For emergencies, the BendDAO dev team has the right to go through Phase 2 directly.
 
 BendDAO governance keeps moving forward to decentralization. Now community members can not only create BRCs and BIPs but also on-chain voting. BendDAO is in the hands of the community and veBEND holders' votes decide the future development of BendDAO.
-
