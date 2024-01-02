@@ -57,18 +57,17 @@ The work of each season is gathered and presented in its dedicated section, repr
 
 ## 2023 Q4
 
-* V2 Product Prototype🛠️
-  * V2 Pool Lending🛠️
-  * V2 P2P Lending🛠️
-  * V2 Pool Staking🛠️
+* V2 Pool Lending Prototype✅
+* V2 Pool Staking Prototype✅
 
 ## 2024 Q1
 
-* Listing Pudgy Penguins Proposals
-* Listing wBTC Proposals
-* Listing wstETH Proposals
-* Launch BRC20 IDO
-* Bitcoin NFT & BRC20 Bridging Proposals
+* Listing Pudgy Penguins Proposals✅
+* Listing wBTC Proposals🛠️
+* Listing wstETH Proposals🛠️
+* Launch BRC20 IDO🛠️
+* Bitcoin NFT & BRC20 Bridging Proposals🛠️
+* V2 P2P Lending Prototype🛠️
 * V2 Product Testnet Launch🛠️
 
 ## 2024 Q2
