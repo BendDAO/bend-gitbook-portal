@@ -64,10 +64,17 @@ The work of each season is gathered and presented in its dedicated section, repr
 
 ## 2024 Q1
 
+* Listing Pudgy Penguins Proposals
+* Listing wBTC Proposals
+* Listing wstETH Proposals
+* Launch BRC20 IDO
+* Bitcoin NFT & BRC20 Bridging Proposals
 * V2 Product Testnet Launch🛠️
 
 ## 2024 Q2
 
+* Listing Bitcoin NFT Proposals
+* Listing BRC20 Proposals
 * V2 Product Mainnet Launch🛠
 * V2 Token Economics Proposals🛠
 
